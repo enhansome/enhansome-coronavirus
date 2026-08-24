@@ -1,7 +1,3479 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2409",
+              "description": "@disease-sh/API API for Current cases and more stuff about COVID-19 and Influenza",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245077032,
+                "language": "JavaScript",
+                "last_commit": "2026-02-14T03:53:53Z",
+                "owner": "disease-sh",
+                "repo": "API",
+                "stars": 2502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2409",
+              "description": "@disease-sh/API API for Current cases and more stuff about COVID-19 and Influenza",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245077032,
+                "language": "JavaScript",
+                "last_commit": "2026-02-14T03:53:53Z",
+                "owner": "disease-sh",
+                "repo": "API",
+                "stars": 2502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2010",
+              "description": "@BlankerL/DXY-COVID-19-Crawler 2019新型冠状病毒疫情实时爬虫及API COVID-19/2019-nCoV Realtime Infection Crawler and API",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 235410230,
+                "language": "Python",
+                "last_commit": "2025-06-01T15:47:46Z",
+                "owner": "BlankerL",
+                "repo": "DXY-COVID-19-Crawler",
+                "stars": 1971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1605",
+              "description": "@ExpDev07/coronavirus-tracker-api 🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238601449,
+                "language": "Python",
+                "last_commit": "2023-02-14T21:58:47Z",
+                "owner": "ExpDev07",
+                "repo": "coronavirus-tracker-api",
+                "stars": 1568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1366",
+              "description": "@mathdroid/covid-19-api COVID-19 global data (from JHU CSSE for now) as-a-service",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244649309,
+                "language": "TypeScript",
+                "last_commit": "2023-03-27T22:09:13Z",
+                "owner": "mathdroid",
+                "repo": "covid-19-api",
+                "stars": 1351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "730",
+              "description": "@OxCGRT/covid-policy-tracker Systematic dataset of Covid-19 policy, from Oxford University",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254118655,
+                "language": null,
+                "last_commit": "2023-06-22T12:57:26Z",
+                "owner": "OxCGRT",
+                "repo": "covid-policy-tracker",
+                "stars": 775
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@covid19india",
+              "description": "/api",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 248910514,
+                "language": "Python",
+                "last_commit": "2021-09-09T07:25:38Z",
+                "owner": "covid19india",
+                "repo": "api",
+                "stars": 696
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moved to https://github.com/covid19india/data/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395418147,
+                "language": "Python",
+                "last_commit": "2025-02-16T20:28:17Z",
+                "owner": "covid19india",
+                "repo": "data",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "412",
+              "description": "@M-Media-Group/Covid-19-API This is the code running in AWS Lambda powering covid-api.mmediagroup.fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 confirmed cases, deaths, and recovered cases. This API has now been called over 40 million times, thank you!",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 248739703,
+                "language": "Python",
+                "last_commit": "2022-10-19T11:47:12Z",
+                "owner": "M-Media-Group",
+                "repo": "Covid-19-API",
+                "stars": 389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "326",
+              "description": "@amodm/api-covid19-in COVID Rest API for India data, using Cloudflare Workers",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247543574,
+                "language": "JavaScript",
+                "last_commit": "2023-01-18T13:37:13Z",
+                "owner": "amodm",
+                "repo": "api-covid19-in",
+                "stars": 316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "255",
+              "description": "@marlon360/rki-covid-api 🦠🇩🇪📈 An API for the spread of covid-19 in Germany. Data from Robert-Koch-Institut.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248936189,
+                "language": "TypeScript",
+                "last_commit": "2026-02-14T03:54:09Z",
+                "owner": "marlon360",
+                "repo": "rki-covid-api",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "125",
+              "description": "@ryo-ma/covid19-japan-web-api 🇯🇵 Web API to get 🦠COVID-19(coronavirus) information of each prefecture in Japan",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 251008210,
+                "language": "Python",
+                "last_commit": "2023-02-17T16:24:56Z",
+                "owner": "ryo-ma",
+                "repo": "covid19-japan-web-api",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "123",
+              "description": "@Laeyoung/COVID-19-API API Service for tracking the COVID-19",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236986055,
+                "language": "JavaScript",
+                "last_commit": "2024-03-28T02:09:04Z",
+                "owner": "Laeyoung",
+                "repo": "COVID-19-API",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "121",
+              "description": "@bizz84/coronavirus_rest_api_flutter_course Coronavirus REST API Flutter Course",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243767665,
+                "language": "Dart",
+                "last_commit": "2021-03-09T10:47:11Z",
+                "owner": "bizz84",
+                "repo": "coronavirus_rest_api_flutter_course",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "121",
+              "description": "@nat236919/covid19-api API for exploring COVID-19 cases around the globe",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239294007,
+                "language": "Python",
+                "last_commit": "2024-08-20T01:58:59Z",
+                "owner": "nat236919",
+                "repo": "covid19-api",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "85",
+              "description": "@pastelsky/covid-19-mobility-tracker Google Mobility Reports, reverse-engineered into a JSON / CSV API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253020317,
+                "language": "JavaScript",
+                "last_commit": "2022-12-11T00:17:22Z",
+                "owner": "pastelsky",
+                "repo": "covid-19-mobility-tracker",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "84",
+              "description": "@rlindskog/covid19-graphql COVID-19 GraphQL API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247837306,
+                "language": "TypeScript",
+                "last_commit": "2023-01-05T10:16:58Z",
+                "owner": "rlindskog",
+                "repo": "covid19-graphql",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "77",
+              "description": "@ChrisMichaelPerezSantiago/covid19 This API provides updated real-time data on coronavirus cases from the worldometers page, provided by the most reputable organizations and statistical offices in the world.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247581172,
+                "language": "JavaScript",
+                "last_commit": "2025-02-03T15:08:54Z",
+                "owner": "chrismichaelps",
+                "repo": "covid19",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "75",
+              "description": "@COVID19Tracking/covid-tracking-api COVID-19 Rest & GraphQL API for US data, using Cloudflare Workers",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 246214197,
+                "language": "JavaScript",
+                "last_commit": "2020-12-30T14:24:33Z",
+                "owner": "COVID19Tracking",
+                "repo": "covid-tracking-api",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "61",
+              "description": "@andreagrandi/covid-api COVID19 Api based on Johns Hopkins CSSE data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244003580,
+                "language": "Python",
+                "last_commit": "2021-10-02T13:24:30Z",
+                "owner": "andreagrandi",
+                "repo": "covid-api",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "49",
+              "description": "@Covid-19-Response-Greece/covid19-greece-api 🦠 A simple and fast API for tracking the coronavirus (COVID-19) outbreak in Greece 🇬🇷",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256160754,
+                "language": "Python",
+                "last_commit": "2024-09-11T01:47:27Z",
+                "owner": "Covid-19-Response-Greece",
+                "repo": "covid19-greece-api",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "43",
+              "description": "@yahoo/covid-19-api Yahoo Knowledge COVID-19 API provides JSON-API and GraphQL interfaces to access COVID-19 publicly sourced data",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 258007592,
+                "language": "JavaScript",
+                "last_commit": "2021-03-31T21:53:15Z",
+                "owner": "yahoo",
+                "repo": "covid-19-api",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "41",
+              "description": "@isjeffcom/coronvirusFigureUK A data crawler for geting COVID-19 figure from NHS official website",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 245255474,
+                "language": "JavaScript",
+                "last_commit": "2020-07-19T19:23:44Z",
+                "owner": "isjeffcom",
+                "repo": "coronvirusFigureUK",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "35",
+              "description": "@PotentialWeb/CoronaTab Free & Open source platform for COVID19 data. Dashboard - REST API - Browser Extension - Localised 🦠 😷",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 246863090,
+                "language": "TypeScript",
+                "last_commit": "2020-04-25T21:42:13Z",
+                "owner": "PotentialWeb",
+                "repo": "CoronaTab",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "20",
+              "description": "@cinemast/covid19-at COVID-19 Stats and Maps for Austria",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245152080,
+                "language": "Go",
+                "last_commit": "2020-07-29T19:35:52Z",
+                "owner": "cinemast",
+                "repo": "covid19-at",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "18",
+              "description": "@COVID19-SARS-CoV-2/web-covid-api 🦠COVID-19 Coronavirus 🔥Tracker Dashboard and 🚀Super fast API's (< 200ms) 🆕Updates every 3 mins",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258946412,
+                "language": null,
+                "last_commit": "2020-07-11T08:32:21Z",
+                "owner": "COVID19-SARS-CoV-2",
+                "repo": "web-covid-api",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "17",
+              "description": "@AlaeddineMessadi/COVID-19-REPORT-API ⚕️🚑 COVID-19 API Service to keep tracking cases worldwide 🌍",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248759463,
+                "language": "JavaScript",
+                "last_commit": "2023-12-20T14:16:26Z",
+                "owner": "AlaeddineMessadi",
+                "repo": "COVID-19-REPORT-API",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "15",
+              "description": "@ffflorian/api-clients API clients for various services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174534981,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T04:31:34Z",
+                "owner": "ffflorian",
+                "repo": "api-clients",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "13",
+              "description": "@mahabub81/covid-19-api Covid-19 Data in Json and SQL format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257039733,
+                "language": "TypeScript",
+                "last_commit": "2024-04-19T11:20:17Z",
+                "owner": "mahabub81",
+                "repo": "covid-19-api",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "13",
+              "description": "@yedhink/covid19-kerala-api-deprecated Deprecated - A fast API service for retrieving day to day stats about Coronavirus(COVID-19, SARS-CoV-2) outbreak in Kerala(India).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251183040,
+                "language": "Go",
+                "last_commit": "2023-06-02T03:25:20Z",
+                "owner": "yedhink",
+                "repo": "covid19-kerala-api-deprecated",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "12",
+              "description": "@ExpDev07/coronavirus-tracker 🦠 A live tracker and visualization of the coronavirus (2019-nCoV). Consists purely of a frontend written in EmberJS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238089735,
+                "language": "JavaScript",
+                "last_commit": "2026-02-13T19:14:06Z",
+                "owner": "ExpDev07",
+                "repo": "coronavirus-tracker",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7",
+              "description": "@lkd70/coronapi A Coronavirus (COVID-19) tracking API (Bing data)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247314817,
+                "language": "TypeScript",
+                "last_commit": "2020-03-18T18:22:07Z",
+                "owner": "lkd70",
+                "repo": "coronapi",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6",
+              "description": "@elias-garcia/covid-19-spain 🇪🇸 REST API which exposes all of the COVID-19 stats for Spain extracted from the official spanish government daily reports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248604062,
+                "language": "TypeScript",
+                "last_commit": "2022-12-12T06:19:45Z",
+                "owner": "elias-garcia",
+                "repo": "covid-19-spain",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5",
+              "description": "@slotix/COVID-19 Coronavirus (COVID-19) open API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254175189,
+                "language": "SCSS",
+                "last_commit": "2022-01-13T20:16:09Z",
+                "owner": "slotix",
+                "repo": "COVID-19",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4",
+              "description": "@Spiderpig86/coronavirus-us-api 🦠🇺🇸 A fast (< 400ms) microservice for live statistics on Coronavirus/Covid-19/SARS-CoV-2 impact on the US.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254039018,
+                "language": "Python",
+                "last_commit": "2024-03-27T04:16:10Z",
+                "owner": "Spiderpig86",
+                "repo": "coronavirus-us-api",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3",
+              "description": "@episphere/corona Exploring realtime interoperability with COVID-19 data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246437693,
+                "language": "JavaScript",
+                "last_commit": "2020-12-09T18:56:05Z",
+                "owner": "episphere",
+                "repo": "corona",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@cityxdev/covid19GoogleMobilityJSON A way to transform Google's mobility data during the COVID-19 pandemic to a JSON file per country",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 256871701,
+                "language": "Python",
+                "last_commit": "2021-02-14T22:57:01Z",
+                "owner": "cityxdev",
+                "repo": "covid19GoogleMobilityJSON",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@AtilioA/COVID19-ES-Py 🛠 API em Python para consulta de casos de COVID-19 no estado do Espírito Santo.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 250323289,
+                "language": "Python",
+                "last_commit": "2021-06-05T22:29:45Z",
+                "owner": "AtilioA",
+                "repo": "COVID19-ES-Py",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "0",
+              "description": "@nsht/coronavirus_api An API providing various stats around the virus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250875155,
+                "language": "Python",
+                "last_commit": "2023-02-14T21:43:19Z",
+                "owner": "nsht",
+                "repo": "coronavirus_api",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "API"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "29275",
+              "description": "@CSSEGISandData/COVID-19 Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 238316428,
+                "language": null,
+                "last_commit": "2023-06-10T18:39:00Z",
+                "owner": "CSSEGISandData",
+                "repo": "COVID-19",
+                "stars": 28905
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6927",
+              "description": "@nytimes/covid-19-data An ongoing repository of data on coronavirus cases and deaths in the U.S.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249842476,
+                "language": null,
+                "last_commit": "2024-04-02T16:00:09Z",
+                "owner": "nytimes",
+                "repo": "covid-19-data",
+                "stars": 6965
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6888",
+              "description": "@covid19india/covid19india-react Tracking the impact of COVID-19 in India",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247386519,
+                "language": "JavaScript",
+                "last_commit": "2026-02-03T22:14:59Z",
+                "owner": "covid19india",
+                "repo": "covid19india.github.io",
+                "stars": 6802
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5541",
+              "description": "@owid/covid-19-data Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 246079929,
+                "language": "Python",
+                "last_commit": "2026-03-23T21:31:18Z",
+                "owner": "owid",
+                "repo": "covid-19-data",
+                "stars": 5661
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3926",
+              "description": "@pcm-dpc/COVID-19 COVID-19 Italia - Monitoraggio situazione",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245630760,
+                "language": null,
+                "last_commit": "2025-01-10T13:00:45Z",
+                "owner": "pcm-dpc",
+                "repo": "COVID-19",
+                "stars": 3792
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2894",
+              "description": "@ieee8023/covid-chestxray-dataset We are building an open database of COVID-19 cases with chest X-ray or CT images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 240615573,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-08-18T04:01:08Z",
+                "owner": "ieee8023",
+                "repo": "covid-chestxray-dataset",
+                "stars": 3061
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2232",
+              "description": "@BlankerL/DXY-COVID-19-Data 2019新型冠状病毒疫情时间序列数据仓库 COVID-19/2019-nCoV Infection Time Series Data Warehouse",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 237434537,
+                "language": "Python",
+                "last_commit": "2025-06-01T15:43:06Z",
+                "owner": "BlankerL",
+                "repo": "DXY-COVID-19-Data",
+                "stars": 2174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1646",
+              "description": "@github/covid19-dashboard A site that displays up to date COVID-19 stats, powered by fastpages.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 246929362,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-26T00:26:21Z",
+                "owner": "github",
+                "repo": "covid19-dashboard",
+                "stars": 1623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1326",
+              "description": "@nextstrain/ncov Nextstrain build for novel coronavirus SARS-CoV-2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234936988,
+                "language": "Python",
+                "last_commit": "2026-08-17T18:26:43Z",
+                "owner": "nextstrain",
+                "repo": "ncov",
+                "stars": 1363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1233",
+              "description": "@pomber/covid19 JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246989434,
+                "language": "JavaScript",
+                "last_commit": "2023-03-10T08:32:43Z",
+                "owner": "pomber",
+                "repo": "covid19",
+                "stars": 1217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1153",
+              "description": "@datasets/covid-19 Novel Coronavirus 2019 time series data on cases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245619303,
+                "language": "Python",
+                "last_commit": "2026-03-24T23:16:50Z",
+                "owner": "datasets",
+                "repo": "covid-19",
+                "stars": 1165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1107",
+              "description": "@FoldingAtHome/coronavirus Folding@home COVID-19 efforts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237129709,
+                "language": "Python",
+                "last_commit": "2020-10-27T03:29:18Z",
+                "owner": "FoldingAtHome",
+                "repo": "coronavirus",
+                "stars": 1079
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "619",
+              "description": "@globalcitizen/2019-wuhan-coronavirus-data 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 236119949,
+                "language": "PHP",
+                "last_commit": "2020-03-22T09:23:25Z",
+                "owner": "globalcitizen",
+                "repo": "2019-wuhan-coronavirus-data",
+                "stars": 616
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "540",
+              "description": "@turicas/covid19-br Dados diários mais recentes do coronavírus por município brasileiro",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248154758,
+                "language": "Python",
+                "last_commit": "2022-04-01T20:20:23Z",
+                "owner": "turicas",
+                "repo": "covid19-br",
+                "stars": 532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "481",
+              "description": "@RamiKrispin/coronavirus The coronavirus dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239777191,
+                "language": "HTML",
+                "last_commit": "2023-03-20T16:28:48Z",
+                "owner": "RamiKrispin",
+                "repo": "coronavirus",
+                "stars": 493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "436",
+              "description": "@openZH/covid_19 COVID19 case numbers of Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 246001728,
+                "language": "Python",
+                "last_commit": "2024-05-05T23:31:54Z",
+                "owner": "openZH",
+                "repo": "covid_19",
+                "stars": 418
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "435",
+              "description": "@GuangchuangYu/nCov2019 query stats of infected coronavirus cases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237712076,
+                "language": "R",
+                "last_commit": "2021-06-10T10:00:55Z",
+                "owner": "GuangchuangYu",
+                "repo": "nCov2019",
+                "stars": 429
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "370",
+              "description": "@covidatlas/coronadatascraper COVID-19 Coronavirus data scraped from government and curated data sources.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247137219,
+                "language": "HTML",
+                "last_commit": "2021-05-26T04:38:08Z",
+                "owner": "covidatlas",
+                "repo": "coronadatascraper",
+                "stars": 364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "288",
+              "description": "@opencovid19-fr/data Consolidation des données de sources officielles concernant l'épidémie de COVID19",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246793486,
+                "language": "JavaScript",
+                "last_commit": "2023-01-05T09:49:14Z",
+                "owner": "opencovid19-fr",
+                "repo": "data",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "282",
+              "description": "@OssamaRafique/Covid-19-Statistics-Dashboard-Angular-9 🦠Corona Virus / Covid 19 Tracker Dashboard With Awesome UI + PWA + NodeJS Scraper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249209616,
+                "language": "SCSS",
+                "last_commit": "2026-07-22T18:08:59Z",
+                "owner": "OssamaRafique",
+                "repo": "Covid-19-Statistics-Dashboard-Angular-9",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "267",
+              "description": "@trekhleb/covid-19 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248333898,
+                "language": "JavaScript",
+                "last_commit": "2021-08-07T16:30:59Z",
+                "owner": "trekhleb",
+                "repo": "covid-19",
+                "stars": 264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "254",
+              "description": "@ActiveConclusion/COVID19_mobility COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports🚶🚘🚉",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252992752,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-16T20:52:08Z",
+                "owner": "ActiveConclusion",
+                "repo": "COVID19_mobility",
+                "stars": 276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "207",
+              "description": "@colaboradados/colaboradados.github.io O VEÍCULO COLABORATIVO SOBRE TRANSPARÊNCIA E OPEN DATA NO BRASIL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167987804,
+                "language": "SCSS",
+                "last_commit": "2024-03-19T00:37:39Z",
+                "owner": "colaboradados",
+                "repo": "colaboradados.github.io",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "182",
+              "description": "@jihoo-kim/Data-Science-for-COVID-19 DS4C: Data Science for COVID-19 in South Korea",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242741940,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-09-14T04:31:40Z",
+                "owner": "jihoo-kim",
+                "repo": "Data-Science-for-COVID-19",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "154",
+              "description": "@artic-network/artic-ncov2019 ARTIC nanopore protocol for nCoV2019 novel coronavirus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235074814,
+                "language": "Python",
+                "last_commit": "2023-03-22T23:32:32Z",
+                "owner": "artic-network",
+                "repo": "artic-ncov2019",
+                "stars": 171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "116",
+              "description": "@jianxu305/nCov2019_analysis Analysis of 2019-nCov coronavirus data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238493567,
+                "language": "HTML",
+                "last_commit": "2020-05-09T03:51:36Z",
+                "owner": "jianxu305",
+                "repo": "nCov2019_analysis",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "111",
+              "description": "@ozanerturk/covid19-turkey-api https://ozanerturk.github.io/covid19-turkey-api/ Corona türkiye güncel dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253191576,
+                "language": "JavaScript",
+                "last_commit": "2023-03-05T12:12:24Z",
+                "owner": "ozanerturk",
+                "repo": "covid19-turkey-api",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "106",
+              "description": "@yahoo/covid-19-data COVID-19 datasets are constructed entirely from primary (government and public agency) sources",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 251448369,
+                "language": null,
+                "last_commit": "2021-04-02T03:03:47Z",
+                "owner": "yahoo",
+                "repo": "covid-19-data",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "77",
+              "description": "@tmacdou4/2019-nCov Efforts towards proposing a potentially highly active molecule against a target protein of the 2019 Novel Coronavirus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241996579,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-03-02T19:44:05Z",
+                "owner": "tmacdou4",
+                "repo": "2019-nCov",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "73",
+              "description": "@v7labs/covid-19-xray-dataset 12000+ manually drawn pixel-level lung segmentations, with and without covid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273064355,
+                "language": null,
+                "last_commit": "2021-07-02T16:46:18Z",
+                "owner": "v7labs",
+                "repo": "covid-19-xray-dataset",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "61",
+              "description": "@sociepy/covid19-vaccination-subnational 🌍💉 Global COVID-19 vaccination data at the regional level.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 329945093,
+                "language": "Python",
+                "last_commit": "2021-12-16T18:16:54Z",
+                "owner": "sociepy",
+                "repo": "covid19-vaccination-subnational",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "59",
+              "description": "@seandavi/sars2pack An R package with over 50 highly cited, read-to-use, up-to-date COVID-19 pandemic data resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249267381,
+                "language": "R",
+                "last_commit": "2026-07-23T18:13:10Z",
+                "owner": "seandavi",
+                "repo": "sars2pack",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "56",
+              "description": "@UniversalDataTool/coronavirus-mask-image-dataset Image dataset from Instagram of people wearing medical masks, no mask, or a non-medical (DIY) mask",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254401867,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-05-19T20:05:57Z",
+                "owner": "UniversalDataTool",
+                "repo": "coronavirus-mask-image-dataset",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "50",
+              "description": "@virtadpt/exocortex-agents A collection of sample Huginn agents I use to demonstrate how they're put together, and a little of what they can do.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48682313,
+                "language": null,
+                "last_commit": "2020-10-10T20:59:01Z",
+                "owner": "virtadpt",
+                "repo": "exocortex-agents",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "49",
+              "description": "@coviddata/coviddata Daily COVID-19 statistics by country, region, and city",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250350055,
+                "language": "Ruby",
+                "last_commit": "2021-02-18T05:23:26Z",
+                "owner": "coviddata",
+                "repo": "coviddata",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "47",
+              "description": "@jmcastagnetto/covid-19-peru-data Datos de casos confirmados, negativos, defunciones y recuperados, transcritos de los tweets del MINSA (https://twitter.com/Minsa_Peru), de sus comunicados y de su \"Sala Situacional...\".",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247552256,
+                "language": "RMarkdown",
+                "last_commit": "2022-05-18T17:01:54Z",
+                "owner": "jmcastagnetto",
+                "repo": "covid-19-peru-data",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "47",
+              "description": "@alext234/coronavirus-stats Automatically scrape data and statistics on Coronavirus to make them easily accessible in CSV format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237413504,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-07-23T04:14:49Z",
+                "owner": "alext234",
+                "repo": "coronavirus-stats",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "46",
+              "description": "@RamiKrispin/coronavirus-csv CSV format for the coronavirus R package dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 240202653,
+                "language": "R",
+                "last_commit": "2020-05-15T21:41:22Z",
+                "owner": "RamiKrispin",
+                "repo": "coronavirus-csv",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "42",
+              "description": "@ml-workgroup/covid-19-image-repository Anonymized dataset of COVID-19 cases with a focus on radiological imaging. This includes images (x-ray / ct) with extensive metadata, such as admission-, ICU-, laboratory-, and patient master-data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260039229,
+                "language": "Python",
+                "last_commit": "2021-06-10T13:28:29Z",
+                "owner": "ml-workgroup",
+                "repo": "covid-19-image-repository",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "34",
+              "description": "@arnoudbuzing/wolfram-coronavirus Wolfram Language code and notebooks related to the coronavirus outbreak",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237480015,
+                "language": "Mathematica",
+                "last_commit": "2021-08-15T03:37:50Z",
+                "owner": "arnoudbuzing",
+                "repo": "wolfram-coronavirus",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "30",
+              "description": "@lazargugleta/coronavirusStats Track data for Coronavirus for your country.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245792525,
+                "language": "Python",
+                "last_commit": "2020-03-30T09:55:49Z",
+                "owner": "lazargugleta",
+                "repo": "coronavirusStats",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "25",
+              "description": "@cipriancraciun/covid19-datasets COVID-19 derived and augmented datasets (based on JHU, NY Times, ECDC) exported as JSON, TSV, SQL, SQLite DB (plus visualizations)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 249367672,
+                "language": "Python",
+                "last_commit": "2022-11-30T09:05:34Z",
+                "owner": "cipriancraciun",
+                "repo": "covid19-datasets",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "25",
+              "description": "@docligot/coronatracker-analytics Analysis and reports based on novel coronavirus (nCoV-2019) data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236660072,
+                "language": "HTML",
+                "last_commit": "2020-06-08T04:50:29Z",
+                "owner": "docligot",
+                "repo": "coronatracker-analytics",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "18",
+              "description": "@xhluca/covid-qa A collection of COVID-19 question-answer pairs and transformer baselines for evaluating QA models (Official Repository)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255481734,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-18T19:16:56Z",
+                "owner": "xhluca",
+                "repo": "covid-qa",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "18",
+              "description": "@joaotinti75/Coronavirus this code uses a daily database to display data in the form of a graph and map using the libraries matplotlib and folium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244946949,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-09-29T18:16:59Z",
+                "owner": "joaotinti75",
+                "repo": "Coronavirus",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "17",
+              "description": "@cjvanlissa/COVID19_metadata Interoperable secondary data for research on the new COVID-19 coronavirus sars-cov-2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252391743,
+                "language": "R",
+                "last_commit": "2022-02-02T14:30:47Z",
+                "owner": "cjvanlissa",
+                "repo": "COVID19_metadata",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "16",
+              "description": "@kalisio/covid-19 Données cartographiques concernant l'épidémie de COVID-19 en France",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247914670,
+                "language": "JavaScript",
+                "last_commit": "2021-07-09T11:25:10Z",
+                "owner": "kalisio",
+                "repo": "covid-19",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "15",
+              "description": "@defeatcovid19/defeatcovid19-project The aim of this project is to join together all the contribution that people around the world can offer to help everyone to overcome the devastating outbreak of COVID19",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248956157,
+                "language": "CSS",
+                "last_commit": "2020-04-02T09:45:06Z",
+                "owner": "defeatcovid19",
+                "repo": "defeatcovid19-project",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "14",
+              "description": "@xyjigsaw/COVID-19-traces-Knowledge-Graph COVID-19(2019-nCoV) traces data Knowledge Graph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239716193,
+                "language": "Python",
+                "last_commit": "2020-04-06T12:40:44Z",
+                "owner": "xyjigsaw",
+                "repo": "COVID-19-traces-Knowledge-Graph",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "10",
+              "description": "@rfearing/temp-covid-resources Available resources for those in need during the CoronaVirus Pandemic",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248259243,
+                "language": null,
+                "last_commit": "2020-10-16T18:22:33Z",
+                "owner": "rfearing",
+                "repo": "temp-covid-resources",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "8",
+              "description": "@sebaxtian/colombia_covid_19_pipe Pipeline to get data sources from Instituto Nacional de Salud - INS related to Covid19 cases daily report in Colombia to create datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253876112,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-11-02T01:29:44Z",
+                "owner": "sebaxtian",
+                "repo": "colombia_covid_19_pipe",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "8",
+              "description": "@AlaeddineMessadi/COVID-19-REPORT-DASHBOARD ⚕️ COVID-19 daily report dashboard of all cases worldwide ⚕️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249278025,
+                "language": "JavaScript",
+                "last_commit": "2024-03-25T11:31:58Z",
+                "owner": "AlaeddineMessadi",
+                "repo": "COVID-19-REPORT-DASHBOARD",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3",
+              "description": "@ali-commits/COVID19-Dataset the complete historical cleaned COVID19 data set",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262364813,
+                "language": null,
+                "last_commit": "2022-06-28T02:39:04Z",
+                "owner": "ali-commits",
+                "repo": "COVID19-Dataset",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2",
+              "description": "@masdot/cdp-corona-data-project This projects plots and analyzes data related to the COVID-19 pandemic in Germany.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 354499088,
+                "language": "Python",
+                "last_commit": "2022-04-13T18:18:54Z",
+                "owner": "masdot",
+                "repo": "cdp-corona-data-project",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2",
+              "description": "@PhantasWeng/coronavirus-daily-dashboard Coronavirus daily dashboard. 新冠病毒每日追蹤",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 250182969,
+                "language": "Vue",
+                "last_commit": "2022-06-01T13:58:29Z",
+                "owner": "PhantasWeng",
+                "repo": "coronavirus-daily-dashboard",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@pranavmishra90/COVID-19 COVID-19 Dashboard - Created by Dr. Pranav Kumar Mishra and Dr. Shekhar Mishra. doi:10.5281/zenodo.4394299",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287867933,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-02-14T07:02:54Z",
+                "owner": "pranavmishra90",
+                "repo": "COVID-19",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@akshayajeevan/covid19-us-states COVID-19 cases of USA States from JHU CSSE in JSON format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254878562,
+                "language": "JavaScript",
+                "last_commit": "2022-04-05T09:40:41Z",
+                "owner": "akshayajeevan",
+                "repo": "covid19-us-states",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@cityxdev/covid19ByCountry A small dashboard providing country comparison on COVID-19 data",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 253928590,
+                "language": "JavaScript",
+                "last_commit": "2020-10-26T00:39:22Z",
+                "owner": "cityxdev",
+                "repo": "covid19ByCountry",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Statistics and Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "1376",
+              "description": "@neherlab/covid19_scenarios Models of COVID-19 outbreak trajectories and hospital demand",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243987382,
+                "language": "JavaScript",
+                "last_commit": "2022-02-15T19:04:38Z",
+                "owner": "neherlab",
+                "repo": "covid19_scenarios",
+                "stars": 1352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1125",
+              "description": "@lindawangg/COVID-Net COVID-Net Open Source Initiative",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248347348,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-20T16:10:15Z",
+                "owner": "lindawangg",
+                "repo": "COVID-Net",
+                "stars": 1167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "945",
+              "description": "@ImperialCollegeLondon/covid19model Code for modelling estimated deaths and cases for COVID19.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250386901,
+                "language": "Stan",
+                "last_commit": "2021-03-29T23:49:58Z",
+                "owner": "ImperialCollegeLondon",
+                "repo": "covid19model",
+                "stars": 940
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "642",
+              "description": "@midas-network/COVID-19 2019 novel coronavirus repository",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 235374822,
+                "language": "TeX",
+                "last_commit": "2022-01-19T20:23:00Z",
+                "owner": "midas-network",
+                "repo": "COVID-19",
+                "stars": 626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "216",
+              "description": "@Yu-Group/covid19-severity-prediction Extensive and accessible COVID-19 data + forecasting for counties and hospitals. 📈",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249056404,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-11-13T22:52:41Z",
+                "owner": "Yu-Group",
+                "repo": "covid19-severity-prediction",
+                "stars": 231
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "213",
+              "description": "@InstituteforDiseaseModeling/covasim COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248833306,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:45:08Z",
+                "owner": "starsimhub",
+                "repo": "covasim",
+                "stars": 289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "136",
+              "description": "@pennsignals/chime COVID-19 Hospital Impact Model for Epidemics",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247180111,
+                "language": "Python",
+                "last_commit": "2022-03-12T00:26:54Z",
+                "owner": "uphs-data-science",
+                "repo": "chime",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "83",
+              "description": "@coronafighter/coronaSEIR Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246630334,
+                "language": "Python",
+                "last_commit": "2020-11-16T12:26:31Z",
+                "owner": "coronafighter",
+                "repo": "coronaSEIR",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "59",
+              "description": "@HopkinsIDD/ncov_incubation Estimating the incubation time of the novel coronavirus (nCoV-2019) based on traveler data using coarse data tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236349745,
+                "language": null,
+                "last_commit": "2020-03-02T16:30:32Z",
+                "owner": "HopkinsIDD",
+                "repo": "ncov_incubation",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "25",
+              "description": "@COMOKIT/COMOKIT-Model A GAMA (http://gama-platform.org) model on the assessment and comparisons of intervention policies against the CoVid19 pandemics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249650051,
+                "language": "GAML",
+                "last_commit": "2023-09-05T10:30:38Z",
+                "owner": "COMOKIT",
+                "repo": "COMOKIT-Model",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "21",
+              "description": "@funcional-health-analytics/covid19-analytics Analysis of the COVID19 outbreak in Brazil mainly through epidemic and hospitalization models, by the Health Analytics and Prospera consulting business units of Funcional Heatlh Tech.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251164346,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-12-08T09:37:31Z",
+                "owner": "funcional-health-analytics",
+                "repo": "covid19-analytics",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "15",
+              "description": "@healthbadge/episimmer Episimmer is an Epidemic Simulation Framework for Decision Support. It is a highly flexible system that can be easily configured to help take decisions during an epidemic in closed communities like university campuses and gated communities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292537693,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T22:44:38Z",
+                "owner": "healthbadge",
+                "repo": "episimmer",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "13",
+              "description": "@epispot/epispot A tool for modeling infectious diseases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280527664,
+                "language": "Python",
+                "last_commit": "2024-04-29T01:16:49Z",
+                "owner": "epispot",
+                "repo": "epispot",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "11",
+              "description": "@p-j-r/covid-19 Stochastic SIR models; adding age-structures and social contact data for the spread of covid-19. Lattice model for identifying and isolating hotspots. This has been further developed into a network(graph) of multiple clusters(lattices) and tracing the infection in such a population.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251369947,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-06-20T03:35:37Z",
+                "owner": "p-j-r",
+                "repo": "covid-19",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "11",
+              "description": "@Mythobeast/epidemicmodels SIR, SEIR, and beyond",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248597849,
+                "language": "Python",
+                "last_commit": "2023-07-06T21:56:37Z",
+                "owner": "Mythobeast",
+                "repo": "epidemicmodels",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "9",
+              "description": "@Nu-AI/Livid-About-COVID Forecasting the spread of the novel coronavirus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248896172,
+                "language": "Python",
+                "last_commit": "2024-03-01T15:54:37Z",
+                "owner": "Nu-AI",
+                "repo": "Livid-About-COVID",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "8",
+              "description": "@microprediction/pandemic A 2d contagion model with commuting modeled as regime switching Ornstein-Uhlenbeck walks on the plane",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253360903,
+                "language": "Python",
+                "last_commit": "2020-11-12T13:54:54Z",
+                "owner": "microprediction",
+                "repo": "pandemic",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5",
+              "description": "@mmahdigh/covid-risk Assess the risk of indoor gatherings, events and parties using Covid Risk Calculator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315932621,
+                "language": "TypeScript",
+                "last_commit": "2022-09-06T08:51:56Z",
+                "owner": "mmahdigh",
+                "repo": "covid-risk",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5",
+              "description": "@daveselinger/covid-19-hackathon COVID state-by-state analysis. Please look at by_state_covid_analysis.ipynb. It can be opened directly into Google Colab. See the readme below for accompanying video and summary result presentations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247360360,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-03-28T21:57:04Z",
+                "owner": "daveselinger",
+                "repo": "covid-19-hackathon",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@inavamsi/Custom_epidemic_model A simple UI to easily build and run custom epidemic models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 350943461,
+                "language": "Python",
+                "last_commit": "2021-08-07T04:00:11Z",
+                "owner": "inavamsi",
+                "repo": "Custom_epidemic_model",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@Elzawawy/covid-case-estimator A daily and total number of cases by country estimators for the COVID-19 crisis in hopes to help the community survive this pandemic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263446212,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-08-23T16:36:58Z",
+                "owner": "Elzawawy",
+                "repo": "covid-case-estimator",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "47",
+              "description": "@xyjigsaw/COVID19-KBQA-DEMO COVID-2019 中文知识问答系统",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253444490,
+                "language": "Python",
+                "last_commit": "2020-08-04T09:32:00Z",
+                "owner": "xyjigsaw",
+                "repo": "COVID19-KBQA-DEMO",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "12",
+              "description": "@jbesomi/Korono 👑Korono: question answering platform for COVID-19 papers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253056658,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-04-06T16:52:27Z",
+                "owner": "jbesomi",
+                "repo": "Korono",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4",
+              "description": "@assemzh/ProbProg-COVID-19 Using Pyro for COVID-19 simulation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261216690,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-01-02T08:25:58Z",
+                "owner": "assemzh",
+                "repo": "ProbProg-COVID-19",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3",
+              "description": "@BNext-IQT/antivirals Find antivirals for COVID-19 using machine learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259666507,
+                "language": "Python",
+                "last_commit": "2020-10-31T00:14:34Z",
+                "owner": "BNext-IQT",
+                "repo": "antivirals",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "323",
+              "description": "@stevenliuyi/covid19 an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241042279,
+                "language": "JavaScript",
+                "last_commit": "2024-12-03T02:14:11Z",
+                "owner": "stevenliuyi",
+                "repo": "covid19",
+                "stars": 319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "178",
+              "description": "@BustByte/coronastatus Anonymous crowd sourcing of COVID-19 symptoms all over the world (with public data sets)!",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247437636,
+                "language": "HTML",
+                "last_commit": "2022-05-01T20:51:22Z",
+                "owner": "Bustbyte",
+                "repo": "coronastatus",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "165",
+              "description": "@etalab/covid19-dashboard Tableau de bord officiel de suivi de l'épidémie de COVID-19",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246578389,
+                "language": "JavaScript",
+                "last_commit": "2024-07-11T12:00:54Z",
+                "owner": "etalab",
+                "repo": "covid19-dashboard",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "156",
+              "description": "@jakobzhao/virus Noval Coronavirus Infection Map",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236233082,
+                "language": "HTML",
+                "last_commit": "2021-06-28T04:32:13Z",
+                "owner": "jakobzhao",
+                "repo": "virus",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "150",
+              "description": "@ncovis/choropleth Choropleth Map of the 2019 Novel Coronavirus Outbreak.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237144715,
+                "language": "JavaScript",
+                "last_commit": "2021-11-19T15:50:15Z",
+                "owner": "ncovis",
+                "repo": "choropleth",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "87",
+              "description": "@reach4help/reach4help We are Reach4Help: a tech nonprofit connecting people in need with volunteer help in 38+ countries across Canada, the US, Europe and Asia",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248581239,
+                "language": "TypeScript",
+                "last_commit": "2026-05-30T23:01:11Z",
+                "owner": "reach4help",
+                "repo": "reach4help",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "73",
+              "description": "@konradkalemba/korona.ws 🗺 Coronavirus interactive map of Poland",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245643820,
+                "language": "JavaScript",
+                "last_commit": "2023-03-04T06:23:15Z",
+                "owner": "konradkalemba",
+                "repo": "korona.ws",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "47",
+              "description": "@antonlukin/coronavirus Wuhan coronavirus outbreak",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236141851,
+                "language": "HTML",
+                "last_commit": "2023-01-11T17:08:22Z",
+                "owner": "antonlukin",
+                "repo": "coronavirus",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "14",
+              "description": "@par6n/ncov-19 A simple page featuring an interactive map presenting nCoV-19 spread in Iran",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 243734632,
+                "language": "HTML",
+                "last_commit": "2020-03-25T19:11:02Z",
+                "owner": "par6n",
+                "repo": "ncov-19",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6",
+              "description": "@zy6p/covid-19-dashboard A vue3, echarts and leaflet covid-19 dashboard.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 353979508,
+                "language": "Vue",
+                "last_commit": "2023-11-12T02:30:59Z",
+                "owner": "zy6p",
+                "repo": "covid-19-dashboard",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5",
+              "description": "@covidhospitals/covidhospitals Website to locate Covid19 Hospitals in India on Map with beds availability, hospital contact details, directions to navigate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363952314,
+                "language": "JavaScript",
+                "last_commit": "2022-11-08T12:07:00Z",
+                "owner": "covidhospitals",
+                "repo": "covidhospitals",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4",
+              "description": "@0kzh/COVID-INC Interactive world map tracking the spread of COVID-19",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247324006,
+                "language": "JavaScript",
+                "last_commit": "2022-12-12T05:34:40Z",
+                "owner": "0kzh",
+                "repo": "COVID-INC",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4",
+              "description": "@ankitchouhan1020/corona Map of confirmed coronavirus cases in India",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247256497,
+                "language": "JavaScript",
+                "last_commit": "2021-10-30T12:19:13Z",
+                "owner": "ankitchouhan1020",
+                "repo": "corona",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2",
+              "description": "@yammadev/col-covid-19 Seguimiento (Mapa y Estadísticas) del COVID-19 en Colombia / Tracking (Map & Statistics) COVID-19 in Colombia",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247411442,
+                "language": "JavaScript",
+                "last_commit": "2022-06-22T01:44:51Z",
+                "owner": "yammadev",
+                "repo": "col-covid-19",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Maps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2118",
+              "description": "@WorldHealthOrganization/app COVID-19 App",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247821387,
+                "language": "Dart",
+                "last_commit": "2024-02-23T22:29:52Z",
+                "owner": "WorldHealthOrganization",
+                "repo": "app",
+                "stars": 2116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1519",
+              "description": "@mhdhejazi/CoronaTracker Coronavirus tracker app for iOS & macOS with maps & charts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245716081,
+                "language": "Swift",
+                "last_commit": "2023-03-08T08:03:15Z",
+                "owner": "mhdhejazi",
+                "repo": "CoronaTracker",
+                "stars": 1541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "529",
+              "description": "@google/exposure-notifications-android Exposure Notifications Android Reference Design",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 261223776,
+                "language": "Java",
+                "last_commit": "2023-09-18T12:58:15Z",
+                "owner": "google",
+                "repo": "exposure-notifications-android",
+                "stars": 527
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "484",
+              "description": "@phildini/stayinghomeclub A list of all the companies WFH or events changed because of covid-19",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244813690,
+                "language": "Ruby",
+                "last_commit": "2023-04-12T05:21:15Z",
+                "owner": "phildini",
+                "repo": "stayinghomeclub",
+                "stars": 486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "453",
+              "description": "@AaronWard/covidify Covidify - corona virus report and dataset generator for python 📈 [no longer being updated]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237107693,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-04-22T03:49:58Z",
+                "owner": "AaronWard",
+                "repo": "covidify",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "361",
+              "description": "@alfianlosari/CoronaVirusTrackerSwiftUI Corona Virus Tracker & Advices iOS App with SwiftUI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245320030,
+                "language": "Swift",
+                "last_commit": "2020-06-26T06:40:41Z",
+                "owner": "alfianlosari",
+                "repo": "CoronaVirusTrackerSwiftUI",
+                "stars": 373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "319",
+              "description": "@JohnCoene/coronavirus 🦠 Novel Coronavirus (COVID-19) Tracker",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 237817105,
+                "language": "R",
+                "last_commit": "2020-07-13T14:32:23Z",
+                "owner": "JohnCoene",
+                "repo": "coronavirus",
+                "stars": 319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "255",
+              "description": "@julianschiavo/Covidcheck Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247412206,
+                "language": "Swift",
+                "last_commit": "2020-04-08T13:01:06Z",
+                "owner": "julianschiavo",
+                "repo": "Covidcheck",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "254",
+              "description": "@dsfsi/covid19za Coronavirus COVID-19 (2019-nCoV) Data Repository and Dashboard for South Africa",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247054942,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-01-28T19:29:38Z",
+                "owner": "dsfsi",
+                "repo": "covid19za",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "209",
+              "description": "@heremaps/here-covid-19-tracker Using HERE Technologies APIs, fork and build your own COVID-19 Tracker. For a live version, see the website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245122344,
+                "language": "JavaScript",
+                "last_commit": "2020-03-19T09:25:01Z",
+                "owner": "heremaps",
+                "repo": "here-covid-19-tracker",
+                "stars": 212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "189",
+              "description": "@BrianRuizy/covid19-dashboard 🦠 Django + Plotly Coronavirus dashboard. Powerful data driven Python web-app, with an awesome UI. Contributions welcomed! Featured on 🕶Awesome-list",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 243630576,
+                "language": "CSS",
+                "last_commit": "2023-04-21T20:52:30Z",
+                "owner": "BrianRuizy",
+                "repo": "covid19-dashboard",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "148",
+              "description": "@GabrielTavernini/Covid19Stats A simple mobile app developed with Flutter to visualize Covid19 statistics 🦠",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249242395,
+                "language": "Dart",
+                "last_commit": "2021-01-30T19:49:37Z",
+                "owner": "GabrielTavernini",
+                "repo": "Covid19Stats",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "104",
+              "description": "@RamiKrispin/coronavirus_dashboard The Coronavirus Dashboard",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242659007,
+                "language": "R",
+                "last_commit": "2023-04-03T06:13:51Z",
+                "owner": "RamiKrispin",
+                "repo": "coronavirus_dashboard",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "61",
+              "description": "@the-robot/covid19-updates Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 237160573,
+                "language": "JavaScript",
+                "last_commit": "2020-04-08T18:39:03Z",
+                "owner": "the-robot",
+                "repo": "covid19-updates",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "60",
+              "description": "@dstotijn/ct-diag-server Diagnosis server for Apple/Google's (COVID-19) Exposure Notification framework.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 257962435,
+                "language": "Go",
+                "last_commit": "2020-10-08T23:51:25Z",
+                "owner": "dstotijn",
+                "repo": "ct-diag-server",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "60",
+              "description": "@hysios/coronavirus 2019 nCoV realtime track system based Scrapy + influxdb + grafana + NLTK + Stanford CoreNLP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237745320,
+                "language": "Python",
+                "last_commit": "2022-12-08T03:32:34Z",
+                "owner": "hysios",
+                "repo": "coronavirus",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "56",
+              "description": "@boogheta/coronavirus-countries COVID-19 interactive dashboard for the whole world",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247191933,
+                "language": "JavaScript",
+                "last_commit": "2025-08-21T11:25:28Z",
+                "owner": "boogheta",
+                "repo": "coronavirus-countries",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "46",
+              "description": "@YogaSakti/CoronaNotifier Whatsapp Bot automatic notification & respond using MQTT, nodeJS & LowDB",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 246370934,
+                "language": "JavaScript",
+                "last_commit": "2023-01-07T19:03:58Z",
+                "owner": "YogaSakti",
+                "repo": "CoronaNotifier",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "44",
+              "description": "@aerogear/OpenVolunteerPlatform Platform for building volunteer management systems dedicated for local gov and charity organizations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252745777,
+                "language": "TypeScript",
+                "last_commit": "2025-12-02T21:54:37Z",
+                "owner": "aerogear",
+                "repo": "OpenVolunteerPlatform",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "42",
+              "description": "@nthopinion/covid19 Code vs COVID-19: Taking down a Pandemic using machines connected globally to extinguish a biological threat of a super virus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247183262,
+                "language": "JavaScript",
+                "last_commit": "2023-01-05T14:00:52Z",
+                "owner": "nthopinion",
+                "repo": "covid19",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "39",
+              "description": "@yahoo/covid-19-dashboard Source code for the Yahoo Knowledge Graph COVID-19 Dashboard",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 258007648,
+                "language": "JavaScript",
+                "last_commit": "2021-03-16T19:48:50Z",
+                "owner": "yahoo",
+                "repo": "covid-19-dashboard",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "39",
+              "description": "@duarteocarmo/coronabar 🦠 A menu bar app to track coronavirus cases all over the world",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247972110,
+                "language": "Python",
+                "last_commit": "2023-01-02T13:38:05Z",
+                "owner": "duarteocarmo",
+                "repo": "coronabar",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "26",
+              "description": "@helloworldkr/Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual Bluetooth ble beacon beamer and scanner for tracing corona virus infected person similar to Trace Together app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250972943,
+                "language": "Java",
+                "last_commit": "2020-03-31T08:39:39Z",
+                "owner": "helloworldkr",
+                "repo": "Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "19",
+              "description": "@LeafyCode/survive-together-web Allows people in countries that have a curfew to post what they need so whoever distributes them can find those in need. Also, distributors can post about their services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251250582,
+                "language": "TypeScript",
+                "last_commit": "2023-01-05T17:54:44Z",
+                "owner": "LeafyCode",
+                "repo": "survive-together-web",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "19",
+              "description": "@Bost/corona_cases 🦠 Coronavirus Information on Telegram Chatbot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243966487,
+                "language": "Clojure",
+                "last_commit": "2025-11-23T14:55:33Z",
+                "owner": "Bost",
+                "repo": "corona_cases",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "15",
+              "description": "@stritti/covid-ampel-widget 🚦 Ampel Widget, um die aktuellen 🦠Corona-Zahlen (Inzidenz) des RKI für die Landkreise in 🇩🇪 Deutschland auf dem Smartphone anzuzeigen",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 306458308,
+                "language": "Vue",
+                "last_commit": "2023-03-04T23:19:48Z",
+                "owner": "stritti",
+                "repo": "covid-ampel-widget",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "15",
+              "description": "@calpt/CoronaPandemicBot 🦠 Yet another Telegram bot tracking the worldwide spread of COVID-19 (Novel Coronavirus)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253442492,
+                "language": "Python",
+                "last_commit": "2021-01-25T20:54:24Z",
+                "owner": "calpt",
+                "repo": "CoronaPandemicBot",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "15",
+              "description": "@iamrohitsuthar/gocoronago gocoronago website shows the latest COVID-19 stats in india",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248238887,
+                "language": "JavaScript",
+                "last_commit": "2023-05-28T12:59:55Z",
+                "owner": "iamrohitsuthar",
+                "repo": "gocoronago",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "13",
+              "description": "@hissain/CoronaTracker A full stack framework to trace possible close-contact candidates within last specified days for an already detected covid-19 positive patient",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249047323,
+                "language": "Kotlin",
+                "last_commit": "2020-04-23T23:35:55Z",
+                "owner": "hissain",
+                "repo": "CoronaTracker",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "13",
+              "description": "@destructo570/CovidTracker A minimal designed app to track current statistics of COVID-19 across the world and detailed state wise statistics of India. App also offers some useful information regarding COVID-19, along with helpline numbers(India only).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253186669,
+                "language": "Java",
+                "last_commit": "2020-06-02T04:04:54Z",
+                "owner": "destructo570",
+                "repo": "CovidTracker",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "13",
+              "description": "@nploi/corona_tracker :bar_chart: Corona virus tracker app for IOS and Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250253119,
+                "language": "Dart",
+                "last_commit": "2020-04-12T04:30:52Z",
+                "owner": "nploi",
+                "repo": "corona_tracker",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "13",
+              "description": "@arik-so/coronavirus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242208812,
+                "language": "TypeScript",
+                "last_commit": "2023-01-05T08:21:13Z",
+                "owner": "arik-so",
+                "repo": "coronavirus",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "12",
+              "description": "@MM-coder/coronavirus-wallpaper 🦠 Application that allows you to update your wallpaper with the COVID-19 stats in your area",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 248459684,
+                "language": "Python",
+                "last_commit": "2020-10-04T17:36:32Z",
+                "owner": "MM-coder",
+                "repo": "coronavirus-wallpaper",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "12",
+              "description": "@dabigjoe6/react-native-covid19 A React Native app created to track COVID-19 cases and also provide users with important information",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247249120,
+                "language": "JavaScript",
+                "last_commit": "2023-01-26T18:21:49Z",
+                "owner": "dabigjoe6",
+                "repo": "react-native-covid19",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "11",
+              "description": "@onl1ner/CovidKazakhstan 🦠 Application to track number of coronavirus COVID-19 cases in Kazakhstan.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 250774071,
+                "language": "Swift",
+                "last_commit": "2020-04-01T09:51:31Z",
+                "owner": "onl1ner",
+                "repo": "CovidKazakhstan",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "9",
+              "description": "@Druhin13/corona Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) Helpline Numbers Risks & Precautions - https://coronavirusapp.github.io",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246748613,
+                "language": "CSS",
+                "last_commit": "2020-10-24T02:28:42Z",
+                "owner": "Druhin13",
+                "repo": "corona",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@onlyphantom",
+              "description": "/coronavirus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243742939,
+                "language": "R",
+                "last_commit": "2020-04-18T11:21:13Z",
+                "owner": "onlyphantom",
+                "repo": "coronavirus",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Shiny Web App tutorial inspecting the COVID-19 (2019-nCoV) epidemic, data from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 238316428,
+                "language": null,
+                "last_commit": "2023-06-10T18:39:00Z",
+                "owner": "CSSEGISandData",
+                "repo": "COVID-19",
+                "stars": 28905
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7",
+              "description": "@bluesquare-io/covid-19-app Starting point for a COVID-19 crisis app.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 249725849,
+                "language": "JavaScript",
+                "last_commit": "2021-10-06T09:32:59Z",
+                "owner": "bluesquare-io",
+                "repo": "covid-19-app",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7",
+              "description": "@bluebillxp/android-covid19-reportviewer This is the COVID-19 daily report viewer on Android presents data from CSSE@JHU open-sourced data repo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249268534,
+                "language": "Kotlin",
+                "last_commit": "2020-03-24T20:12:55Z",
+                "owner": "bluebillxp",
+                "repo": "android-covid19-reportviewer",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7",
+              "description": "@cakebatterandsprinkles/whereiscovid COVID19 tracking app made with React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249038448,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T21:40:55Z",
+                "owner": "cakebatterandsprinkles",
+                "repo": "whereiscovid",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6",
+              "description": "@booleanhunter-tech-blog/kartpool Community driven delivery platform for the ones who need it the most.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307385803,
+                "language": "Python",
+                "last_commit": "2021-08-25T11:58:35Z",
+                "owner": "booleanhunter-tech-blog",
+                "repo": "kartpool",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6",
+              "description": "@nutboltu/australia-covid19 https://www.australiacovid19.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249162464,
+                "language": "JavaScript",
+                "last_commit": "2023-01-26T18:23:02Z",
+                "owner": "nutboltu",
+                "repo": "australia-covid19",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6",
+              "description": "@soroushchehresa/iran-coronavirus IOS & Android app about Coronavirus in Iran built with React-Native and TypeScript",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247434861,
+                "language": "TypeScript",
+                "last_commit": "2020-03-15T12:03:19Z",
+                "owner": "soroushchehresa",
+                "repo": "iran-coronavirus",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5",
+              "description": "@mayukh18/covidexplore exploring the impact of the COVID-19 crisis on the world through data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249930363,
+                "language": "HTML",
+                "last_commit": "2020-04-23T17:47:36Z",
+                "owner": "mayukh18",
+                "repo": "covidexplore",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4",
+              "description": "@Jxyme/covid-19-discord-custom-status Automatically adjust your Discord Custom Status with the latest COVID-19 Figures.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 280188240,
+                "language": "JavaScript",
+                "last_commit": "2023-02-01T17:34:34Z",
+                "owner": "Jxyme",
+                "repo": "covid-19-discord-custom-status",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4",
+              "description": "@amitay87/corona_touch_tracking A system that will track touch in common surfaces in order to prioriotize the cleaning/disinfection of the most touched surfaces",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257696452,
+                "language": "Python",
+                "last_commit": "2020-04-29T22:25:45Z",
+                "owner": "amitay87",
+                "repo": "corona_touch_tracking",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4",
+              "description": "@aleskandro/covid19-charts-spreading-rapidity Covid19 simple charts, spreading, rapidity and acceleration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245854666,
+                "language": "TypeScript",
+                "last_commit": "2023-01-07T15:42:51Z",
+                "owner": "aleskandro",
+                "repo": "covid19-charts-spreading-rapidity",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3",
+              "description": "@njoyard/corona Covid-19 cases visualisation app using CSSE data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252488619,
+                "language": "JavaScript",
+                "last_commit": "2023-10-24T08:04:12Z",
+                "owner": "njoyard",
+                "repo": "corona",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3",
+              "description": "@MG-ng/Virus-Ticker-Widget See the spread of SARS-CoV-2 in your country - directly on your home screen",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248525343,
+                "language": "Java",
+                "last_commit": "2022-05-01T22:22:16Z",
+                "owner": "MG-ng",
+                "repo": "Virus-Ticker-Widget",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2",
+              "description": "@expelledboy/bitbar-covid Get updates on covid 19 for your country in your status bar. BitBar Plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256730394,
+                "language": "Python",
+                "last_commit": "2020-05-24T12:33:38Z",
+                "owner": "expelledboy",
+                "repo": "bitbar-covid",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2",
+              "description": "@Spiderpig86/to-go :ramen: Simple web app for aggregating open restaurants in US/Canada cities during Covid-19.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249283412,
+                "language": "TypeScript",
+                "last_commit": "2023-11-12T01:56:36Z",
+                "owner": "Spiderpig86",
+                "repo": "to-go",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@shaunsaker/covid-19-south-africa-app A mobile app that displays the latest COVID-19 stats of any country and sends push notifications when the South African stats are released👨‍⚕️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250879151,
+                "language": "TypeScript",
+                "last_commit": "2022-10-20T21:53:38Z",
+                "owner": "shaunsaker",
+                "repo": "covid-19-south-africa-app",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@LuisReinoso/covid-19-community-tracker Check if you are near of suspected cases of covid-19. Self-report. No data is revealed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249812012,
+                "language": "TypeScript",
+                "last_commit": "2023-01-09T12:19:47Z",
+                "owner": "LuisReinoso",
+                "repo": "covid-19-community-tracker",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "0",
+              "description": "@varundeva/CoronaTracker Corona Tracking App by Using Various Data Api Available on GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248910024,
+                "language": "Java",
+                "last_commit": "2020-04-20T08:26:33Z",
+                "owner": "varundeva",
+                "repo": "CoronaTracker",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Applications and Bots"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "1153",
+              "description": "@datasets/covid-19 Novel Coronavirus 2019 time series data on cases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245619303,
+                "language": "Python",
+                "last_commit": "2026-03-24T23:16:50Z",
+                "owner": "datasets",
+                "repo": "covid-19",
+                "stars": 1165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "122",
+              "description": "@koushikkothagal/coronavirus-tracker Spring Boot Java app to track coronavirus confirmed cases across the globe",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243692788,
+                "language": "Java",
+                "last_commit": "2022-10-23T09:22:11Z",
+                "owner": "koushikkothagal",
+                "repo": "coronavirus-tracker",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "44",
+              "description": "@nf1s/covid Python package to fetch information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246299970,
+                "language": "Python",
+                "last_commit": "2025-03-06T03:52:54Z",
+                "owner": "nf1s",
+                "repo": "covid",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "40",
+              "description": "@eebrown/data2019nCoV COVID-19 Pandemic Data R Package",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237660917,
+                "language": "R",
+                "last_commit": "2020-12-07T21:38:36Z",
+                "owner": "eebrown",
+                "repo": "data2019nCoV",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "40",
+              "description": "@eebrown/data2019nCoV COVID-19 Pandemic Data R Package",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237660917,
+                "language": "R",
+                "last_commit": "2020-12-07T21:38:36Z",
+                "owner": "eebrown",
+                "repo": "data2019nCoV",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "31",
+              "description": "@pdtyreus/coronavirus-ds Jupyter notebooks and python scripts for investigating the 2019 coronavirus outbreak",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236345539,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-02-04T19:41:40Z",
+                "owner": "pdtyreus",
+                "repo": "coronavirus-ds",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@benhur07b",
+              "description": "/covid19-load-qgis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248027179,
+                "language": "Python",
+                "last_commit": "2020-03-18T12:38:07Z",
+                "owner": "benhur07b",
+                "repo": "covid19-load-qgis",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Python script you can run in QGIS that loads the data from https://github.com/CSSEGISandData/COVID-19",
+              "description": "provided by Johns Hopkins University CSSE.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 238316428,
+                "language": null,
+                "last_commit": "2023-06-10T18:39:00Z",
+                "owner": "CSSEGISandData",
+                "repo": "COVID-19",
+                "stars": 28905
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@zekinah/zone-pandemic-covid19 A WordPress plugin that generates a shortcode that shows the covid19's live captured data around the world.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277942023,
+                "language": "PHP",
+                "last_commit": "2021-05-06T14:21:30Z",
+                "owner": "zekinah",
+                "repo": "zone-pandemic-covid19",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1",
+              "description": "@M-Media-Group/Coronavirus-COVID-19-Watch WordPress plugin integrating COVID-19 API",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 250576912,
+                "language": "JavaScript",
+                "last_commit": "2021-03-20T13:39:25Z",
+                "owner": "M-Media-Group",
+                "repo": "Coronavirus-COVID-19-Watch",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "0",
+              "description": "@ffflorian/exposure-keys Temporary Exposure Keys (TEK) library written in TypeScript.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 276306695,
+                "language": "TypeScript",
+                "last_commit": "2023-02-05T11:28:05Z",
+                "owner": "ffflorian",
+                "repo": "exposure-keys",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Packages and Scripts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "1858",
+              "description": "@ahmadawais/corona-cli 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms). To chat: https://twitter.com/MrAhmadAwais/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248479708,
+                "language": "JavaScript",
+                "last_commit": "2026-02-14T02:29:48Z",
+                "owner": "ahmadawais",
+                "repo": "corona-cli",
+                "stars": 1834
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "961",
+              "description": "@sagarkarira/coronavirus-tracker-cli Track conronavirus cases from command line. curl https://corona-stats.online/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247166776,
+                "language": "JavaScript",
+                "last_commit": "2023-03-09T16:59:47Z",
+                "owner": "sagarkarira",
+                "repo": "coronavirus-tracker-cli",
+                "stars": 936
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "277",
+              "description": "@wareneutron/covid19-tracker-cli A console-oriented COVID-19 tracker with real-time updates for your favorite terminal. 💻🌏😷",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248501122,
+                "language": "TypeScript",
+                "last_commit": "2023-07-11T10:00:46Z",
+                "owner": "OSSPhilippines",
+                "repo": "covid19-tracker-cli",
+                "stars": 276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "98",
+              "description": "@OpenGene/fastv An ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data. This tool can be used to detect viral infectious diseases, like COVID-19.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250152881,
+                "language": "C++",
+                "last_commit": "2023-10-27T06:16:38Z",
+                "owner": "OpenGene",
+                "repo": "fastv",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "89",
+              "description": "@garrylachman/covid19-cli Corona Virus (Covid 19) BASH Tracking CLI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248638190,
+                "language": "Shell",
+                "last_commit": "2020-08-10T19:12:53Z",
+                "owner": "garrylachman",
+                "repo": "covid19-cli",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "46",
+              "description": "@MouadBH/coronapy-cli A command line tool in python to fetch worldwide data about COVID-19",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250658590,
+                "language": "Python",
+                "last_commit": "2022-12-08T10:56:35Z",
+                "owner": "MouadBH",
+                "repo": "coronapy-cli",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "19",
+              "description": "@anksh1997/covid19-cli A CLI for getting covid-19 coronavirus status of your district or state or country at lightning speed right on your terminal built using https://api.covid19india.org.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 252392313,
+                "language": "Python",
+                "last_commit": "2021-05-22T05:09:06Z",
+                "owner": "ankush-0x90",
+                "repo": "covid19-cli",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "14",
+              "description": "@soroushchehresa/cli-corona 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251127491,
+                "language": "TypeScript",
+                "last_commit": "2021-06-30T09:26:27Z",
+                "owner": "soroushchehresa",
+                "repo": "cli-corona",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "9",
+              "description": "@mixon00/cov19-cli COVID-19 CLI Tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272448130,
+                "language": "JavaScript",
+                "last_commit": "2023-07-13T19:09:31Z",
+                "owner": "mat-misztoft",
+                "repo": "cov19-cli",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2",
+              "description": "@aayush-jaiswal/covid-in A simple and fast command line app to get covid-19 updates for India.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252839681,
+                "language": "C++",
+                "last_commit": "2020-08-22T13:39:01Z",
+                "owner": "aayush-jaiswal",
+                "repo": "covid-in",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "0",
+              "description": "@xinyangyuan/c19 A simple cli to get COVID-19 data with one command",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280431519,
+                "language": "TypeScript",
+                "last_commit": "2023-06-11T12:08:12Z",
+                "owner": "xinyangyuan",
+                "repo": "c19",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "0",
+              "description": "@aethe/corona CLI for tracking the ongoing pandemic of COVID-19",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247277893,
+                "language": "TypeScript",
+                "last_commit": "2021-09-14T22:51:26Z",
+                "owner": "aethe",
+                "repo": "corona",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CLI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "1656",
+              "description": "@jcl5m1/ventilator Low-Cost Open Source Ventilator or PAPR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247681366,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-06-23T19:45:52Z",
+                "owner": "jcl5m1",
+                "repo": "ventilator",
+                "stars": 1664
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "793",
+              "description": "@makers-for-life/makair 🫁 The world's first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 248180072,
+                "language": null,
+                "last_commit": "2024-08-18T09:15:23Z",
+                "owner": "makers-for-life",
+                "repo": "makair",
+                "stars": 844
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "153",
+              "description": "@ProtofyTeam/OxyGEN OxyGEN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247678308,
+                "language": "MATLAB",
+                "last_commit": "2024-04-17T09:43:48Z",
+                "owner": "ProtofyTeam",
+                "repo": "OxyGEN",
+                "stars": 152
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hardware"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "35",
+              "description": "@SolaceLabs/covid19-stream-processors Stream Information & Example Applications for Processing JHU and CovidTracking.com COVID-19 data available as streams over Solace",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 248784088,
+                "language": "Java",
+                "last_commit": "2021-02-08T03:55:31Z",
+                "owner": "SolaceLabs",
+                "repo": "covid19-stream-processors",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Stream"
+        }
+      ],
+      "title": "Open Source Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "covidtrack.net",
+              "description": "SVG map of Covid Data via John Hopkins & Covidtrack.com github.com/SeanQuinn781/react-maps-flask-covid.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248368610,
+                "language": "JavaScript",
+                "last_commit": "2023-07-19T08:02:22Z",
+                "owner": "SeanQuinn781",
+                "repo": "covidtrack.net",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoronaBoard",
+              "description": "Global dashboard for monitoring Corona virus(COVID-19) powered by StickyBoard open source project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195369680,
+                "language": "JavaScript",
+                "last_commit": "2023-03-03T00:34:46Z",
+                "owner": "soaple",
+                "repo": "stickyboard",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Covid19 - Data Visualization RS",
+              "description": "Open source Web app, about covid-19 in the state of Rio Grande do Sul - Brazil.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252899448,
+                "language": "JavaScript",
+                "last_commit": "2025-06-30T23:31:46Z",
+                "owner": "Gabriellavoura",
+                "repo": "covidAnalytics",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Apps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "COVID-19 Tracker",
+              "description": "A Minimal Design application made with Flutter for checking current info on Novel Corona Virus Outbreak.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248979047,
+                "language": "Dart",
+                "last_commit": "2021-05-28T06:28:30Z",
+                "owner": "madhavtripathi05",
+                "repo": "COVID_19_TRACKER",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Corona Tracker",
+              "description": "Open Source project of an Android App for tracking corona virus spread, using public API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249140466,
+                "language": "Java",
+                "last_commit": "2026-02-02T16:53:38Z",
+                "owner": "PsychoDevs69",
+                "repo": "CoronaTracker",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Corona Finder",
+              "description": "An Android application with language kotlin and java that shows the statistics of people with corona on the map using public API and informs a person about corona with a questionnaire.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253453158,
+                "language": "Java",
+                "last_commit": "2020-04-08T09:25:06Z",
+                "owner": "dastpeyman",
+                "repo": "corona_finder",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "COVID-19 Tracker for Xamarin.Forms",
+              "description": "Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: Microsoft AppCenter.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247692957,
+                "language": "C#",
+                "last_commit": "2024-11-08T15:21:38Z",
+                "owner": "anaselhajjaji",
+                "repo": "covid19.xamarin.forms",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android Apps"
+        }
+      ],
+      "title": "Applications"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:24:46.143Z",
+    "last_updated": "2026-08-24T14:09:15.962Z",
     "original_repository": "soroushchehresa/awesome-coronavirus",
     "original_repository_id": 246570646,
     "original_repository_sha": "37fd2b1180cd976ea42f755a7f27f722d2cc1aea",

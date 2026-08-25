@@ -7,8 +7,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2409",
-              "description": "@disease-sh/API API for Current cases and more stuff about COVID-19 and Influenza",
+              "title": "@disease-sh",
+              "description": "/API API for Current cases and more stuff about COVID-19 and Influenza",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,13 +17,13 @@
                 "last_commit": "2026-02-14T03:53:53Z",
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2502
+                "stars": 2503
               }
             },
             {
               "node_type": "item",
-              "title": "2409",
-              "description": "@disease-sh/API API for Current cases and more stuff about COVID-19 and Influenza",
+              "title": "@disease-sh",
+              "description": "/API API for Current cases and more stuff about COVID-19 and Influenza",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -32,13 +32,13 @@
                 "last_commit": "2026-02-14T03:53:53Z",
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2502
+                "stars": 2503
               }
             },
             {
               "node_type": "item",
-              "title": "2010",
-              "description": "@BlankerL/DXY-COVID-19-Crawler 2019新型冠状病毒疫情实时爬虫及API COVID-19/2019-nCoV Realtime Infection Crawler and API",
+              "title": "@BlankerL",
+              "description": "/DXY-COVID-19-Crawler 2019新型冠状病毒疫情实时爬虫及API COVID-19/2019-nCoV Realtime Infection Crawler and API",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -52,8 +52,8 @@
             },
             {
               "node_type": "item",
-              "title": "1605",
-              "description": "@ExpDev07/coronavirus-tracker-api 🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!",
+              "title": "@ExpDev07",
+              "description": "/coronavirus-tracker-api 🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🔥 FastAPI framework. Supports multiple sources!",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -62,13 +62,13 @@
                 "last_commit": "2023-02-14T21:58:47Z",
                 "owner": "ExpDev07",
                 "repo": "coronavirus-tracker-api",
-                "stars": 1568
+                "stars": 1569
               }
             },
             {
               "node_type": "item",
-              "title": "1366",
-              "description": "@mathdroid/covid-19-api COVID-19 global data (from JHU CSSE for now) as-a-service",
+              "title": "@mathdroid",
+              "description": "/covid-19-api COVID-19 global data (from JHU CSSE for now) as-a-service",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -77,13 +77,13 @@
                 "last_commit": "2023-03-27T22:09:13Z",
                 "owner": "mathdroid",
                 "repo": "covid-19-api",
-                "stars": 1351
+                "stars": 1352
               }
             },
             {
               "node_type": "item",
-              "title": "730",
-              "description": "@OxCGRT/covid-policy-tracker Systematic dataset of Covid-19 policy, from Oxford University",
+              "title": "@OxCGRT",
+              "description": "/covid-policy-tracker Systematic dataset of Covid-19 policy, from Oxford University",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -107,7 +107,7 @@
                 "last_commit": "2021-09-09T07:25:38Z",
                 "owner": "covid19india",
                 "repo": "api",
-                "stars": 696
+                "stars": 697
               }
             },
             {
@@ -127,8 +127,8 @@
             },
             {
               "node_type": "item",
-              "title": "412",
-              "description": "@M-Media-Group/Covid-19-API This is the code running in AWS Lambda powering covid-api.mmediagroup.fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 confirmed cases, deaths, and recovered cases. This API has now been called over 40 million times, thank you!",
+              "title": "@M-Media-Group",
+              "description": "/Covid-19-API This is the code running in AWS Lambda powering covid-api.mmediagroup.fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 confirmed cases, deaths, and recovered cases. This API has now been called over 40 million times, thank you!",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -142,8 +142,8 @@
             },
             {
               "node_type": "item",
-              "title": "326",
-              "description": "@amodm/api-covid19-in COVID Rest API for India data, using Cloudflare Workers",
+              "title": "@amodm",
+              "description": "/api-covid19-in COVID Rest API for India data, using Cloudflare Workers",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -157,8 +157,8 @@
             },
             {
               "node_type": "item",
-              "title": "255",
-              "description": "@marlon360/rki-covid-api 🦠🇩🇪📈 An API for the spread of covid-19 in Germany. Data from Robert-Koch-Institut.",
+              "title": "@marlon360",
+              "description": "/rki-covid-api 🦠🇩🇪📈 An API for the spread of covid-19 in Germany. Data from Robert-Koch-Institut.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -172,8 +172,8 @@
             },
             {
               "node_type": "item",
-              "title": "125",
-              "description": "@ryo-ma/covid19-japan-web-api 🇯🇵 Web API to get 🦠COVID-19(coronavirus) information of each prefecture in Japan",
+              "title": "@ryo-ma",
+              "description": "/covid19-japan-web-api 🇯🇵 Web API to get 🦠COVID-19(coronavirus) information of each prefecture in Japan",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -187,8 +187,8 @@
             },
             {
               "node_type": "item",
-              "title": "123",
-              "description": "@Laeyoung/COVID-19-API API Service for tracking the COVID-19",
+              "title": "@Laeyoung",
+              "description": "/COVID-19-API API Service for tracking the COVID-19",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -202,8 +202,8 @@
             },
             {
               "node_type": "item",
-              "title": "121",
-              "description": "@bizz84/coronavirus_rest_api_flutter_course Coronavirus REST API Flutter Course",
+              "title": "@bizz84",
+              "description": "/coronavirus_rest_api_flutter_course Coronavirus REST API Flutter Course",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -217,8 +217,8 @@
             },
             {
               "node_type": "item",
-              "title": "121",
-              "description": "@nat236919/covid19-api API for exploring COVID-19 cases around the globe",
+              "title": "@nat236919",
+              "description": "/covid19-api API for exploring COVID-19 cases around the globe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -232,8 +232,8 @@
             },
             {
               "node_type": "item",
-              "title": "85",
-              "description": "@pastelsky/covid-19-mobility-tracker Google Mobility Reports, reverse-engineered into a JSON / CSV API",
+              "title": "@pastelsky",
+              "description": "/covid-19-mobility-tracker Google Mobility Reports, reverse-engineered into a JSON / CSV API",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -247,8 +247,8 @@
             },
             {
               "node_type": "item",
-              "title": "84",
-              "description": "@rlindskog/covid19-graphql COVID-19 GraphQL API",
+              "title": "@rlindskog",
+              "description": "/covid19-graphql COVID-19 GraphQL API",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -262,8 +262,8 @@
             },
             {
               "node_type": "item",
-              "title": "77",
-              "description": "@ChrisMichaelPerezSantiago/covid19 This API provides updated real-time data on coronavirus cases from the worldometers page, provided by the most reputable organizations and statistical offices in the world.",
+              "title": "@ChrisMichaelPerezSantiago",
+              "description": "/covid19 This API provides updated real-time data on coronavirus cases from the worldometers page, provided by the most reputable organizations and statistical offices in the world.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -277,8 +277,8 @@
             },
             {
               "node_type": "item",
-              "title": "75",
-              "description": "@COVID19Tracking/covid-tracking-api COVID-19 Rest & GraphQL API for US data, using Cloudflare Workers",
+              "title": "@COVID19Tracking",
+              "description": "/covid-tracking-api COVID-19 Rest & GraphQL API for US data, using Cloudflare Workers",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -292,8 +292,8 @@
             },
             {
               "node_type": "item",
-              "title": "61",
-              "description": "@andreagrandi/covid-api COVID19 Api based on Johns Hopkins CSSE data",
+              "title": "@andreagrandi",
+              "description": "/covid-api COVID19 Api based on Johns Hopkins CSSE data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -307,8 +307,8 @@
             },
             {
               "node_type": "item",
-              "title": "49",
-              "description": "@Covid-19-Response-Greece/covid19-greece-api 🦠 A simple and fast API for tracking the coronavirus (COVID-19) outbreak in Greece 🇬🇷",
+              "title": "@Covid-19-Response-Greece",
+              "description": "/covid19-greece-api 🦠 A simple and fast API for tracking the coronavirus (COVID-19) outbreak in Greece 🇬🇷",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -322,8 +322,8 @@
             },
             {
               "node_type": "item",
-              "title": "43",
-              "description": "@yahoo/covid-19-api Yahoo Knowledge COVID-19 API provides JSON-API and GraphQL interfaces to access COVID-19 publicly sourced data",
+              "title": "@yahoo",
+              "description": "/covid-19-api Yahoo Knowledge COVID-19 API provides JSON-API and GraphQL interfaces to access COVID-19 publicly sourced data",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -337,8 +337,8 @@
             },
             {
               "node_type": "item",
-              "title": "41",
-              "description": "@isjeffcom/coronvirusFigureUK A data crawler for geting COVID-19 figure from NHS official website",
+              "title": "@isjeffcom",
+              "description": "/coronvirusFigureUK A data crawler for geting COVID-19 figure from NHS official website",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -352,8 +352,8 @@
             },
             {
               "node_type": "item",
-              "title": "35",
-              "description": "@PotentialWeb/CoronaTab Free & Open source platform for COVID19 data. Dashboard - REST API - Browser Extension - Localised 🦠 😷",
+              "title": "@PotentialWeb",
+              "description": "/CoronaTab Free & Open source platform for COVID19 data. Dashboard - REST API - Browser Extension - Localised 🦠 😷",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -367,8 +367,8 @@
             },
             {
               "node_type": "item",
-              "title": "20",
-              "description": "@cinemast/covid19-at COVID-19 Stats and Maps for Austria",
+              "title": "@cinemast",
+              "description": "/covid19-at COVID-19 Stats and Maps for Austria",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -382,8 +382,8 @@
             },
             {
               "node_type": "item",
-              "title": "18",
-              "description": "@COVID19-SARS-CoV-2/web-covid-api 🦠COVID-19 Coronavirus 🔥Tracker Dashboard and 🚀Super fast API's (< 200ms) 🆕Updates every 3 mins",
+              "title": "@COVID19-SARS-CoV-2",
+              "description": "/web-covid-api 🦠COVID-19 Coronavirus 🔥Tracker Dashboard and 🚀Super fast API's (< 200ms) 🆕Updates every 3 mins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -397,8 +397,8 @@
             },
             {
               "node_type": "item",
-              "title": "17",
-              "description": "@AlaeddineMessadi/COVID-19-REPORT-API ⚕️🚑 COVID-19 API Service to keep tracking cases worldwide 🌍",
+              "title": "@AlaeddineMessadi",
+              "description": "/COVID-19-REPORT-API ⚕️🚑 COVID-19 API Service to keep tracking cases worldwide 🌍",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -412,8 +412,8 @@
             },
             {
               "node_type": "item",
-              "title": "15",
-              "description": "@ffflorian/api-clients API clients for various services",
+              "title": "@ffflorian",
+              "description": "/api-clients API clients for various services",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -427,8 +427,8 @@
             },
             {
               "node_type": "item",
-              "title": "13",
-              "description": "@mahabub81/covid-19-api Covid-19 Data in Json and SQL format",
+              "title": "@mahabub81",
+              "description": "/covid-19-api Covid-19 Data in Json and SQL format",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -442,8 +442,8 @@
             },
             {
               "node_type": "item",
-              "title": "13",
-              "description": "@yedhink/covid19-kerala-api-deprecated Deprecated - A fast API service for retrieving day to day stats about Coronavirus(COVID-19, SARS-CoV-2) outbreak in Kerala(India).",
+              "title": "@yedhink",
+              "description": "/covid19-kerala-api-deprecated Deprecated - A fast API service for retrieving day to day stats about Coronavirus(COVID-19, SARS-CoV-2) outbreak in Kerala(India).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -457,8 +457,8 @@
             },
             {
               "node_type": "item",
-              "title": "12",
-              "description": "@ExpDev07/coronavirus-tracker 🦠 A live tracker and visualization of the coronavirus (2019-nCoV). Consists purely of a frontend written in EmberJS.",
+              "title": "@ExpDev07",
+              "description": "/coronavirus-tracker 🦠 A live tracker and visualization of the coronavirus (2019-nCoV). Consists purely of a frontend written in EmberJS.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -472,8 +472,8 @@
             },
             {
               "node_type": "item",
-              "title": "7",
-              "description": "@lkd70/coronapi A Coronavirus (COVID-19) tracking API (Bing data)",
+              "title": "@lkd70",
+              "description": "/coronapi A Coronavirus (COVID-19) tracking API (Bing data)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -487,8 +487,8 @@
             },
             {
               "node_type": "item",
-              "title": "6",
-              "description": "@elias-garcia/covid-19-spain 🇪🇸 REST API which exposes all of the COVID-19 stats for Spain extracted from the official spanish government daily reports.",
+              "title": "@elias-garcia",
+              "description": "/covid-19-spain 🇪🇸 REST API which exposes all of the COVID-19 stats for Spain extracted from the official spanish government daily reports.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -502,8 +502,8 @@
             },
             {
               "node_type": "item",
-              "title": "5",
-              "description": "@slotix/COVID-19 Coronavirus (COVID-19) open API",
+              "title": "@slotix",
+              "description": "/COVID-19 Coronavirus (COVID-19) open API",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -517,8 +517,8 @@
             },
             {
               "node_type": "item",
-              "title": "4",
-              "description": "@Spiderpig86/coronavirus-us-api 🦠🇺🇸 A fast (< 400ms) microservice for live statistics on Coronavirus/Covid-19/SARS-CoV-2 impact on the US.",
+              "title": "@Spiderpig86",
+              "description": "/coronavirus-us-api 🦠🇺🇸 A fast (< 400ms) microservice for live statistics on Coronavirus/Covid-19/SARS-CoV-2 impact on the US.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -532,8 +532,8 @@
             },
             {
               "node_type": "item",
-              "title": "3",
-              "description": "@episphere/corona Exploring realtime interoperability with COVID-19 data",
+              "title": "@episphere",
+              "description": "/corona Exploring realtime interoperability with COVID-19 data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -547,8 +547,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@cityxdev/covid19GoogleMobilityJSON A way to transform Google's mobility data during the COVID-19 pandemic to a JSON file per country",
+              "title": "@cityxdev",
+              "description": "/covid19GoogleMobilityJSON A way to transform Google's mobility data during the COVID-19 pandemic to a JSON file per country",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -562,8 +562,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@AtilioA/COVID19-ES-Py 🛠 API em Python para consulta de casos de COVID-19 no estado do Espírito Santo.",
+              "title": "@AtilioA",
+              "description": "/COVID19-ES-Py 🛠 API em Python para consulta de casos de COVID-19 no estado do Espírito Santo.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -577,8 +577,8 @@
             },
             {
               "node_type": "item",
-              "title": "0",
-              "description": "@nsht/coronavirus_api An API providing various stats around the virus.",
+              "title": "@nsht",
+              "description": "/coronavirus_api An API providing various stats around the virus.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -599,8 +599,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "29275",
-              "description": "@CSSEGISandData/COVID-19 Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+              "title": "@CSSEGISandData",
+              "description": "/COVID-19 Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -614,8 +614,8 @@
             },
             {
               "node_type": "item",
-              "title": "6927",
-              "description": "@nytimes/covid-19-data An ongoing repository of data on coronavirus cases and deaths in the U.S.",
+              "title": "@nytimes",
+              "description": "/covid-19-data An ongoing repository of data on coronavirus cases and deaths in the U.S.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,8 +629,8 @@
             },
             {
               "node_type": "item",
-              "title": "6888",
-              "description": "@covid19india/covid19india-react Tracking the impact of COVID-19 in India",
+              "title": "@covid19india",
+              "description": "/covid19india-react Tracking the impact of COVID-19 in India",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -644,8 +644,8 @@
             },
             {
               "node_type": "item",
-              "title": "5541",
-              "description": "@owid/covid-19-data Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
+              "title": "@owid",
+              "description": "/covid-19-data Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -659,8 +659,8 @@
             },
             {
               "node_type": "item",
-              "title": "3926",
-              "description": "@pcm-dpc/COVID-19 COVID-19 Italia - Monitoraggio situazione",
+              "title": "@pcm-dpc",
+              "description": "/COVID-19 COVID-19 Italia - Monitoraggio situazione",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -674,8 +674,8 @@
             },
             {
               "node_type": "item",
-              "title": "2894",
-              "description": "@ieee8023/covid-chestxray-dataset We are building an open database of COVID-19 cases with chest X-ray or CT images.",
+              "title": "@ieee8023",
+              "description": "/covid-chestxray-dataset We are building an open database of COVID-19 cases with chest X-ray or CT images.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -689,8 +689,8 @@
             },
             {
               "node_type": "item",
-              "title": "2232",
-              "description": "@BlankerL/DXY-COVID-19-Data 2019新型冠状病毒疫情时间序列数据仓库 COVID-19/2019-nCoV Infection Time Series Data Warehouse",
+              "title": "@BlankerL",
+              "description": "/DXY-COVID-19-Data 2019新型冠状病毒疫情时间序列数据仓库 COVID-19/2019-nCoV Infection Time Series Data Warehouse",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -704,8 +704,8 @@
             },
             {
               "node_type": "item",
-              "title": "1646",
-              "description": "@github/covid19-dashboard A site that displays up to date COVID-19 stats, powered by fastpages.",
+              "title": "@github",
+              "description": "/covid19-dashboard A site that displays up to date COVID-19 stats, powered by fastpages.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -719,8 +719,8 @@
             },
             {
               "node_type": "item",
-              "title": "1326",
-              "description": "@nextstrain/ncov Nextstrain build for novel coronavirus SARS-CoV-2",
+              "title": "@nextstrain",
+              "description": "/ncov Nextstrain build for novel coronavirus SARS-CoV-2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -734,8 +734,8 @@
             },
             {
               "node_type": "item",
-              "title": "1233",
-              "description": "@pomber/covid19 JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily",
+              "title": "@pomber",
+              "description": "/covid19 JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -749,8 +749,8 @@
             },
             {
               "node_type": "item",
-              "title": "1153",
-              "description": "@datasets/covid-19 Novel Coronavirus 2019 time series data on cases",
+              "title": "@datasets",
+              "description": "/covid-19 Novel Coronavirus 2019 time series data on cases",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -764,8 +764,8 @@
             },
             {
               "node_type": "item",
-              "title": "1107",
-              "description": "@FoldingAtHome/coronavirus Folding@home COVID-19 efforts",
+              "title": "@FoldingAtHome",
+              "description": "/coronavirus Folding@home COVID-19 efforts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -779,8 +779,8 @@
             },
             {
               "node_type": "item",
-              "title": "619",
-              "description": "@globalcitizen/2019-wuhan-coronavirus-data 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV)",
+              "title": "@globalcitizen",
+              "description": "/2019-wuhan-coronavirus-data 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV)",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -794,8 +794,8 @@
             },
             {
               "node_type": "item",
-              "title": "540",
-              "description": "@turicas/covid19-br Dados diários mais recentes do coronavírus por município brasileiro",
+              "title": "@turicas",
+              "description": "/covid19-br Dados diários mais recentes do coronavírus por município brasileiro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -809,8 +809,8 @@
             },
             {
               "node_type": "item",
-              "title": "481",
-              "description": "@RamiKrispin/coronavirus The coronavirus dataset",
+              "title": "@RamiKrispin",
+              "description": "/coronavirus The coronavirus dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -824,8 +824,8 @@
             },
             {
               "node_type": "item",
-              "title": "436",
-              "description": "@openZH/covid_19 COVID19 case numbers of Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README.",
+              "title": "@openZH",
+              "description": "/covid_19 COVID19 case numbers of Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -839,8 +839,8 @@
             },
             {
               "node_type": "item",
-              "title": "435",
-              "description": "@GuangchuangYu/nCov2019 query stats of infected coronavirus cases",
+              "title": "@GuangchuangYu",
+              "description": "/nCov2019 query stats of infected coronavirus cases",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -854,8 +854,8 @@
             },
             {
               "node_type": "item",
-              "title": "370",
-              "description": "@covidatlas/coronadatascraper COVID-19 Coronavirus data scraped from government and curated data sources.",
+              "title": "@covidatlas",
+              "description": "/coronadatascraper COVID-19 Coronavirus data scraped from government and curated data sources.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -869,8 +869,8 @@
             },
             {
               "node_type": "item",
-              "title": "288",
-              "description": "@opencovid19-fr/data Consolidation des données de sources officielles concernant l'épidémie de COVID19",
+              "title": "@opencovid19-fr",
+              "description": "/data Consolidation des données de sources officielles concernant l'épidémie de COVID19",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -884,8 +884,8 @@
             },
             {
               "node_type": "item",
-              "title": "282",
-              "description": "@OssamaRafique/Covid-19-Statistics-Dashboard-Angular-9 🦠Corona Virus / Covid 19 Tracker Dashboard With Awesome UI + PWA + NodeJS Scraper",
+              "title": "@OssamaRafique",
+              "description": "/Covid-19-Statistics-Dashboard-Angular-9 🦠Corona Virus / Covid 19 Tracker Dashboard With Awesome UI + PWA + NodeJS Scraper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -899,8 +899,8 @@
             },
             {
               "node_type": "item",
-              "title": "267",
-              "description": "@trekhleb/covid-19 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country",
+              "title": "@trekhleb",
+              "description": "/covid-19 📈 Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -914,8 +914,8 @@
             },
             {
               "node_type": "item",
-              "title": "254",
-              "description": "@ActiveConclusion/COVID19_mobility COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports🚶🚘🚉",
+              "title": "@ActiveConclusion",
+              "description": "/COVID19_mobility COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports🚶🚘🚉",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -929,8 +929,8 @@
             },
             {
               "node_type": "item",
-              "title": "207",
-              "description": "@colaboradados/colaboradados.github.io O VEÍCULO COLABORATIVO SOBRE TRANSPARÊNCIA E OPEN DATA NO BRASIL.",
+              "title": "@colaboradados",
+              "description": "/colaboradados.github.io O VEÍCULO COLABORATIVO SOBRE TRANSPARÊNCIA E OPEN DATA NO BRASIL.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -944,8 +944,8 @@
             },
             {
               "node_type": "item",
-              "title": "182",
-              "description": "@jihoo-kim/Data-Science-for-COVID-19 DS4C: Data Science for COVID-19 in South Korea",
+              "title": "@jihoo-kim",
+              "description": "/Data-Science-for-COVID-19 DS4C: Data Science for COVID-19 in South Korea",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -959,8 +959,8 @@
             },
             {
               "node_type": "item",
-              "title": "154",
-              "description": "@artic-network/artic-ncov2019 ARTIC nanopore protocol for nCoV2019 novel coronavirus",
+              "title": "@artic-network",
+              "description": "/artic-ncov2019 ARTIC nanopore protocol for nCoV2019 novel coronavirus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -974,8 +974,8 @@
             },
             {
               "node_type": "item",
-              "title": "116",
-              "description": "@jianxu305/nCov2019_analysis Analysis of 2019-nCov coronavirus data",
+              "title": "@jianxu305",
+              "description": "/nCov2019_analysis Analysis of 2019-nCov coronavirus data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -989,8 +989,8 @@
             },
             {
               "node_type": "item",
-              "title": "111",
-              "description": "@ozanerturk/covid19-turkey-api https://ozanerturk.github.io/covid19-turkey-api/ Corona türkiye güncel dataset",
+              "title": "@ozanerturk",
+              "description": "/covid19-turkey-api https://ozanerturk.github.io/covid19-turkey-api/ Corona türkiye güncel dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1004,8 +1004,8 @@
             },
             {
               "node_type": "item",
-              "title": "106",
-              "description": "@yahoo/covid-19-data COVID-19 datasets are constructed entirely from primary (government and public agency) sources",
+              "title": "@yahoo",
+              "description": "/covid-19-data COVID-19 datasets are constructed entirely from primary (government and public agency) sources",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1019,8 +1019,8 @@
             },
             {
               "node_type": "item",
-              "title": "77",
-              "description": "@tmacdou4/2019-nCov Efforts towards proposing a potentially highly active molecule against a target protein of the 2019 Novel Coronavirus",
+              "title": "@tmacdou4",
+              "description": "/2019-nCov Efforts towards proposing a potentially highly active molecule against a target protein of the 2019 Novel Coronavirus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1034,8 +1034,8 @@
             },
             {
               "node_type": "item",
-              "title": "73",
-              "description": "@v7labs/covid-19-xray-dataset 12000+ manually drawn pixel-level lung segmentations, with and without covid",
+              "title": "@v7labs",
+              "description": "/covid-19-xray-dataset 12000+ manually drawn pixel-level lung segmentations, with and without covid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1049,8 +1049,8 @@
             },
             {
               "node_type": "item",
-              "title": "61",
-              "description": "@sociepy/covid19-vaccination-subnational 🌍💉 Global COVID-19 vaccination data at the regional level.",
+              "title": "@sociepy",
+              "description": "/covid19-vaccination-subnational 🌍💉 Global COVID-19 vaccination data at the regional level.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1064,8 +1064,8 @@
             },
             {
               "node_type": "item",
-              "title": "59",
-              "description": "@seandavi/sars2pack An R package with over 50 highly cited, read-to-use, up-to-date COVID-19 pandemic data resources",
+              "title": "@seandavi",
+              "description": "/sars2pack An R package with over 50 highly cited, read-to-use, up-to-date COVID-19 pandemic data resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1079,8 +1079,8 @@
             },
             {
               "node_type": "item",
-              "title": "56",
-              "description": "@UniversalDataTool/coronavirus-mask-image-dataset Image dataset from Instagram of people wearing medical masks, no mask, or a non-medical (DIY) mask",
+              "title": "@UniversalDataTool",
+              "description": "/coronavirus-mask-image-dataset Image dataset from Instagram of people wearing medical masks, no mask, or a non-medical (DIY) mask",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1094,8 +1094,8 @@
             },
             {
               "node_type": "item",
-              "title": "50",
-              "description": "@virtadpt/exocortex-agents A collection of sample Huginn agents I use to demonstrate how they're put together, and a little of what they can do.",
+              "title": "@virtadpt",
+              "description": "/exocortex-agents A collection of sample Huginn agents I use to demonstrate how they're put together, and a little of what they can do.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1109,8 +1109,8 @@
             },
             {
               "node_type": "item",
-              "title": "49",
-              "description": "@coviddata/coviddata Daily COVID-19 statistics by country, region, and city",
+              "title": "@coviddata",
+              "description": "/coviddata Daily COVID-19 statistics by country, region, and city",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1124,8 +1124,8 @@
             },
             {
               "node_type": "item",
-              "title": "47",
-              "description": "@jmcastagnetto/covid-19-peru-data Datos de casos confirmados, negativos, defunciones y recuperados, transcritos de los tweets del MINSA (https://twitter.com/Minsa_Peru), de sus comunicados y de su \"Sala Situacional...\".",
+              "title": "@jmcastagnetto",
+              "description": "/covid-19-peru-data Datos de casos confirmados, negativos, defunciones y recuperados, transcritos de los tweets del MINSA (https://twitter.com/Minsa_Peru), de sus comunicados y de su \"Sala Situacional...\".",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1139,8 +1139,8 @@
             },
             {
               "node_type": "item",
-              "title": "47",
-              "description": "@alext234/coronavirus-stats Automatically scrape data and statistics on Coronavirus to make them easily accessible in CSV format",
+              "title": "@alext234",
+              "description": "/coronavirus-stats Automatically scrape data and statistics on Coronavirus to make them easily accessible in CSV format",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1154,8 +1154,8 @@
             },
             {
               "node_type": "item",
-              "title": "46",
-              "description": "@RamiKrispin/coronavirus-csv CSV format for the coronavirus R package dataset",
+              "title": "@RamiKrispin",
+              "description": "/coronavirus-csv CSV format for the coronavirus R package dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1169,8 +1169,8 @@
             },
             {
               "node_type": "item",
-              "title": "42",
-              "description": "@ml-workgroup/covid-19-image-repository Anonymized dataset of COVID-19 cases with a focus on radiological imaging. This includes images (x-ray / ct) with extensive metadata, such as admission-, ICU-, laboratory-, and patient master-data.",
+              "title": "@ml-workgroup",
+              "description": "/covid-19-image-repository Anonymized dataset of COVID-19 cases with a focus on radiological imaging. This includes images (x-ray / ct) with extensive metadata, such as admission-, ICU-, laboratory-, and patient master-data.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1184,8 +1184,8 @@
             },
             {
               "node_type": "item",
-              "title": "34",
-              "description": "@arnoudbuzing/wolfram-coronavirus Wolfram Language code and notebooks related to the coronavirus outbreak",
+              "title": "@arnoudbuzing",
+              "description": "/wolfram-coronavirus Wolfram Language code and notebooks related to the coronavirus outbreak",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1199,8 +1199,8 @@
             },
             {
               "node_type": "item",
-              "title": "30",
-              "description": "@lazargugleta/coronavirusStats Track data for Coronavirus for your country.",
+              "title": "@lazargugleta",
+              "description": "/coronavirusStats Track data for Coronavirus for your country.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1214,8 +1214,8 @@
             },
             {
               "node_type": "item",
-              "title": "25",
-              "description": "@cipriancraciun/covid19-datasets COVID-19 derived and augmented datasets (based on JHU, NY Times, ECDC) exported as JSON, TSV, SQL, SQLite DB (plus visualizations)",
+              "title": "@cipriancraciun",
+              "description": "/covid19-datasets COVID-19 derived and augmented datasets (based on JHU, NY Times, ECDC) exported as JSON, TSV, SQL, SQLite DB (plus visualizations)",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1229,8 +1229,8 @@
             },
             {
               "node_type": "item",
-              "title": "25",
-              "description": "@docligot/coronatracker-analytics Analysis and reports based on novel coronavirus (nCoV-2019) data.",
+              "title": "@docligot",
+              "description": "/coronatracker-analytics Analysis and reports based on novel coronavirus (nCoV-2019) data.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1244,8 +1244,8 @@
             },
             {
               "node_type": "item",
-              "title": "18",
-              "description": "@xhluca/covid-qa A collection of COVID-19 question-answer pairs and transformer baselines for evaluating QA models (Official Repository)",
+              "title": "@xhluca",
+              "description": "/covid-qa A collection of COVID-19 question-answer pairs and transformer baselines for evaluating QA models (Official Repository)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1259,8 +1259,8 @@
             },
             {
               "node_type": "item",
-              "title": "18",
-              "description": "@joaotinti75/Coronavirus this code uses a daily database to display data in the form of a graph and map using the libraries matplotlib and folium",
+              "title": "@joaotinti75",
+              "description": "/Coronavirus this code uses a daily database to display data in the form of a graph and map using the libraries matplotlib and folium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1274,8 +1274,8 @@
             },
             {
               "node_type": "item",
-              "title": "17",
-              "description": "@cjvanlissa/COVID19_metadata Interoperable secondary data for research on the new COVID-19 coronavirus sars-cov-2",
+              "title": "@cjvanlissa",
+              "description": "/COVID19_metadata Interoperable secondary data for research on the new COVID-19 coronavirus sars-cov-2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1289,8 +1289,8 @@
             },
             {
               "node_type": "item",
-              "title": "16",
-              "description": "@kalisio/covid-19 Données cartographiques concernant l'épidémie de COVID-19 en France",
+              "title": "@kalisio",
+              "description": "/covid-19 Données cartographiques concernant l'épidémie de COVID-19 en France",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1304,8 +1304,8 @@
             },
             {
               "node_type": "item",
-              "title": "15",
-              "description": "@defeatcovid19/defeatcovid19-project The aim of this project is to join together all the contribution that people around the world can offer to help everyone to overcome the devastating outbreak of COVID19",
+              "title": "@defeatcovid19",
+              "description": "/defeatcovid19-project The aim of this project is to join together all the contribution that people around the world can offer to help everyone to overcome the devastating outbreak of COVID19",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1319,8 +1319,8 @@
             },
             {
               "node_type": "item",
-              "title": "14",
-              "description": "@xyjigsaw/COVID-19-traces-Knowledge-Graph COVID-19(2019-nCoV) traces data Knowledge Graph",
+              "title": "@xyjigsaw",
+              "description": "/COVID-19-traces-Knowledge-Graph COVID-19(2019-nCoV) traces data Knowledge Graph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1334,8 +1334,8 @@
             },
             {
               "node_type": "item",
-              "title": "10",
-              "description": "@rfearing/temp-covid-resources Available resources for those in need during the CoronaVirus Pandemic",
+              "title": "@rfearing",
+              "description": "/temp-covid-resources Available resources for those in need during the CoronaVirus Pandemic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1349,8 +1349,8 @@
             },
             {
               "node_type": "item",
-              "title": "8",
-              "description": "@sebaxtian/colombia_covid_19_pipe Pipeline to get data sources from Instituto Nacional de Salud - INS related to Covid19 cases daily report in Colombia to create datasets.",
+              "title": "@sebaxtian",
+              "description": "/colombia_covid_19_pipe Pipeline to get data sources from Instituto Nacional de Salud - INS related to Covid19 cases daily report in Colombia to create datasets.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1364,8 +1364,8 @@
             },
             {
               "node_type": "item",
-              "title": "8",
-              "description": "@AlaeddineMessadi/COVID-19-REPORT-DASHBOARD ⚕️ COVID-19 daily report dashboard of all cases worldwide ⚕️",
+              "title": "@AlaeddineMessadi",
+              "description": "/COVID-19-REPORT-DASHBOARD ⚕️ COVID-19 daily report dashboard of all cases worldwide ⚕️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1379,8 +1379,8 @@
             },
             {
               "node_type": "item",
-              "title": "3",
-              "description": "@ali-commits/COVID19-Dataset the complete historical cleaned COVID19 data set",
+              "title": "@ali-commits",
+              "description": "/COVID19-Dataset the complete historical cleaned COVID19 data set",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1394,8 +1394,8 @@
             },
             {
               "node_type": "item",
-              "title": "2",
-              "description": "@masdot/cdp-corona-data-project This projects plots and analyzes data related to the COVID-19 pandemic in Germany.",
+              "title": "@masdot",
+              "description": "/cdp-corona-data-project This projects plots and analyzes data related to the COVID-19 pandemic in Germany.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1409,8 +1409,8 @@
             },
             {
               "node_type": "item",
-              "title": "2",
-              "description": "@PhantasWeng/coronavirus-daily-dashboard Coronavirus daily dashboard. 新冠病毒每日追蹤",
+              "title": "@PhantasWeng",
+              "description": "/coronavirus-daily-dashboard Coronavirus daily dashboard. 新冠病毒每日追蹤",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1424,8 +1424,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@pranavmishra90/COVID-19 COVID-19 Dashboard - Created by Dr. Pranav Kumar Mishra and Dr. Shekhar Mishra. doi:10.5281/zenodo.4394299",
+              "title": "@pranavmishra90",
+              "description": "/COVID-19 COVID-19 Dashboard - Created by Dr. Pranav Kumar Mishra and Dr. Shekhar Mishra. doi:10.5281/zenodo.4394299",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1439,8 +1439,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@akshayajeevan/covid19-us-states COVID-19 cases of USA States from JHU CSSE in JSON format",
+              "title": "@akshayajeevan",
+              "description": "/covid19-us-states COVID-19 cases of USA States from JHU CSSE in JSON format",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1454,8 +1454,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@cityxdev/covid19ByCountry A small dashboard providing country comparison on COVID-19 data",
+              "title": "@cityxdev",
+              "description": "/covid19ByCountry A small dashboard providing country comparison on COVID-19 data",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1476,8 +1476,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1376",
-              "description": "@neherlab/covid19_scenarios Models of COVID-19 outbreak trajectories and hospital demand",
+              "title": "@neherlab",
+              "description": "/covid19_scenarios Models of COVID-19 outbreak trajectories and hospital demand",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1491,8 +1491,8 @@
             },
             {
               "node_type": "item",
-              "title": "1125",
-              "description": "@lindawangg/COVID-Net COVID-Net Open Source Initiative",
+              "title": "@lindawangg",
+              "description": "/COVID-Net COVID-Net Open Source Initiative",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1506,8 +1506,8 @@
             },
             {
               "node_type": "item",
-              "title": "945",
-              "description": "@ImperialCollegeLondon/covid19model Code for modelling estimated deaths and cases for COVID19.",
+              "title": "@ImperialCollegeLondon",
+              "description": "/covid19model Code for modelling estimated deaths and cases for COVID19.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1521,8 +1521,8 @@
             },
             {
               "node_type": "item",
-              "title": "642",
-              "description": "@midas-network/COVID-19 2019 novel coronavirus repository",
+              "title": "@midas-network",
+              "description": "/COVID-19 2019 novel coronavirus repository",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1536,8 +1536,8 @@
             },
             {
               "node_type": "item",
-              "title": "216",
-              "description": "@Yu-Group/covid19-severity-prediction Extensive and accessible COVID-19 data + forecasting for counties and hospitals. 📈",
+              "title": "@Yu-Group",
+              "description": "/covid19-severity-prediction Extensive and accessible COVID-19 data + forecasting for counties and hospitals. 📈",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1551,8 +1551,8 @@
             },
             {
               "node_type": "item",
-              "title": "213",
-              "description": "@InstituteforDiseaseModeling/covasim COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions",
+              "title": "@InstituteforDiseaseModeling",
+              "description": "/covasim COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1566,8 +1566,8 @@
             },
             {
               "node_type": "item",
-              "title": "136",
-              "description": "@pennsignals/chime COVID-19 Hospital Impact Model for Epidemics",
+              "title": "@pennsignals",
+              "description": "/chime COVID-19 Hospital Impact Model for Epidemics",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1581,8 +1581,8 @@
             },
             {
               "node_type": "item",
-              "title": "83",
-              "description": "@coronafighter/coronaSEIR Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison.",
+              "title": "@coronafighter",
+              "description": "/coronaSEIR Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1596,8 +1596,8 @@
             },
             {
               "node_type": "item",
-              "title": "59",
-              "description": "@HopkinsIDD/ncov_incubation Estimating the incubation time of the novel coronavirus (nCoV-2019) based on traveler data using coarse data tools",
+              "title": "@HopkinsIDD",
+              "description": "/ncov_incubation Estimating the incubation time of the novel coronavirus (nCoV-2019) based on traveler data using coarse data tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1611,8 +1611,8 @@
             },
             {
               "node_type": "item",
-              "title": "25",
-              "description": "@COMOKIT/COMOKIT-Model A GAMA (http://gama-platform.org) model on the assessment and comparisons of intervention policies against the CoVid19 pandemics",
+              "title": "@COMOKIT",
+              "description": "/COMOKIT-Model A GAMA (http://gama-platform.org) model on the assessment and comparisons of intervention policies against the CoVid19 pandemics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1626,8 +1626,8 @@
             },
             {
               "node_type": "item",
-              "title": "21",
-              "description": "@funcional-health-analytics/covid19-analytics Analysis of the COVID19 outbreak in Brazil mainly through epidemic and hospitalization models, by the Health Analytics and Prospera consulting business units of Funcional Heatlh Tech.",
+              "title": "@funcional-health-analytics",
+              "description": "/covid19-analytics Analysis of the COVID19 outbreak in Brazil mainly through epidemic and hospitalization models, by the Health Analytics and Prospera consulting business units of Funcional Heatlh Tech.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1641,8 +1641,8 @@
             },
             {
               "node_type": "item",
-              "title": "15",
-              "description": "@healthbadge/episimmer Episimmer is an Epidemic Simulation Framework for Decision Support. It is a highly flexible system that can be easily configured to help take decisions during an epidemic in closed communities like university campuses and gated communities.",
+              "title": "@healthbadge",
+              "description": "/episimmer Episimmer is an Epidemic Simulation Framework for Decision Support. It is a highly flexible system that can be easily configured to help take decisions during an epidemic in closed communities like university campuses and gated communities.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1656,8 +1656,8 @@
             },
             {
               "node_type": "item",
-              "title": "13",
-              "description": "@epispot/epispot A tool for modeling infectious diseases.",
+              "title": "@epispot",
+              "description": "/epispot A tool for modeling infectious diseases.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1671,8 +1671,8 @@
             },
             {
               "node_type": "item",
-              "title": "11",
-              "description": "@p-j-r/covid-19 Stochastic SIR models; adding age-structures and social contact data for the spread of covid-19. Lattice model for identifying and isolating hotspots. This has been further developed into a network(graph) of multiple clusters(lattices) and tracing the infection in such a population.",
+              "title": "@p-j-r",
+              "description": "/covid-19 Stochastic SIR models; adding age-structures and social contact data for the spread of covid-19. Lattice model for identifying and isolating hotspots. This has been further developed into a network(graph) of multiple clusters(lattices) and tracing the infection in such a population.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1686,8 +1686,8 @@
             },
             {
               "node_type": "item",
-              "title": "11",
-              "description": "@Mythobeast/epidemicmodels SIR, SEIR, and beyond",
+              "title": "@Mythobeast",
+              "description": "/epidemicmodels SIR, SEIR, and beyond",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1701,8 +1701,8 @@
             },
             {
               "node_type": "item",
-              "title": "9",
-              "description": "@Nu-AI/Livid-About-COVID Forecasting the spread of the novel coronavirus",
+              "title": "@Nu-AI",
+              "description": "/Livid-About-COVID Forecasting the spread of the novel coronavirus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1716,8 +1716,8 @@
             },
             {
               "node_type": "item",
-              "title": "8",
-              "description": "@microprediction/pandemic A 2d contagion model with commuting modeled as regime switching Ornstein-Uhlenbeck walks on the plane",
+              "title": "@microprediction",
+              "description": "/pandemic A 2d contagion model with commuting modeled as regime switching Ornstein-Uhlenbeck walks on the plane",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1731,8 +1731,8 @@
             },
             {
               "node_type": "item",
-              "title": "5",
-              "description": "@mmahdigh/covid-risk Assess the risk of indoor gatherings, events and parties using Covid Risk Calculator.",
+              "title": "@mmahdigh",
+              "description": "/covid-risk Assess the risk of indoor gatherings, events and parties using Covid Risk Calculator.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1746,8 +1746,8 @@
             },
             {
               "node_type": "item",
-              "title": "5",
-              "description": "@daveselinger/covid-19-hackathon COVID state-by-state analysis. Please look at by_state_covid_analysis.ipynb. It can be opened directly into Google Colab. See the readme below for accompanying video and summary result presentations.",
+              "title": "@daveselinger",
+              "description": "/covid-19-hackathon COVID state-by-state analysis. Please look at by_state_covid_analysis.ipynb. It can be opened directly into Google Colab. See the readme below for accompanying video and summary result presentations.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1761,8 +1761,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@inavamsi/Custom_epidemic_model A simple UI to easily build and run custom epidemic models.",
+              "title": "@inavamsi",
+              "description": "/Custom_epidemic_model A simple UI to easily build and run custom epidemic models.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1776,8 +1776,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@Elzawawy/covid-case-estimator A daily and total number of cases by country estimators for the COVID-19 crisis in hopes to help the community survive this pandemic.",
+              "title": "@Elzawawy",
+              "description": "/covid-case-estimator A daily and total number of cases by country estimators for the COVID-19 crisis in hopes to help the community survive this pandemic.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1798,8 +1798,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "47",
-              "description": "@xyjigsaw/COVID19-KBQA-DEMO COVID-2019 中文知识问答系统",
+              "title": "@xyjigsaw",
+              "description": "/COVID19-KBQA-DEMO COVID-2019 中文知识问答系统",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1813,8 +1813,8 @@
             },
             {
               "node_type": "item",
-              "title": "12",
-              "description": "@jbesomi/Korono 👑Korono: question answering platform for COVID-19 papers",
+              "title": "@jbesomi",
+              "description": "/Korono 👑Korono: question answering platform for COVID-19 papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1828,8 +1828,8 @@
             },
             {
               "node_type": "item",
-              "title": "4",
-              "description": "@assemzh/ProbProg-COVID-19 Using Pyro for COVID-19 simulation",
+              "title": "@assemzh",
+              "description": "/ProbProg-COVID-19 Using Pyro for COVID-19 simulation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1843,8 +1843,8 @@
             },
             {
               "node_type": "item",
-              "title": "3",
-              "description": "@BNext-IQT/antivirals Find antivirals for COVID-19 using machine learning.",
+              "title": "@BNext-IQT",
+              "description": "/antivirals Find antivirals for COVID-19 using machine learning.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1865,8 +1865,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "323",
-              "description": "@stevenliuyi/covid19 an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries",
+              "title": "@stevenliuyi",
+              "description": "/covid19 an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1880,8 +1880,8 @@
             },
             {
               "node_type": "item",
-              "title": "178",
-              "description": "@BustByte/coronastatus Anonymous crowd sourcing of COVID-19 symptoms all over the world (with public data sets)!",
+              "title": "@BustByte",
+              "description": "/coronastatus Anonymous crowd sourcing of COVID-19 symptoms all over the world (with public data sets)!",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1895,8 +1895,8 @@
             },
             {
               "node_type": "item",
-              "title": "165",
-              "description": "@etalab/covid19-dashboard Tableau de bord officiel de suivi de l'épidémie de COVID-19",
+              "title": "@etalab",
+              "description": "/covid19-dashboard Tableau de bord officiel de suivi de l'épidémie de COVID-19",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1910,8 +1910,8 @@
             },
             {
               "node_type": "item",
-              "title": "156",
-              "description": "@jakobzhao/virus Noval Coronavirus Infection Map",
+              "title": "@jakobzhao",
+              "description": "/virus Noval Coronavirus Infection Map",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1925,8 +1925,8 @@
             },
             {
               "node_type": "item",
-              "title": "150",
-              "description": "@ncovis/choropleth Choropleth Map of the 2019 Novel Coronavirus Outbreak.",
+              "title": "@ncovis",
+              "description": "/choropleth Choropleth Map of the 2019 Novel Coronavirus Outbreak.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1940,8 +1940,8 @@
             },
             {
               "node_type": "item",
-              "title": "87",
-              "description": "@reach4help/reach4help We are Reach4Help: a tech nonprofit connecting people in need with volunteer help in 38+ countries across Canada, the US, Europe and Asia",
+              "title": "@reach4help",
+              "description": "/reach4help We are Reach4Help: a tech nonprofit connecting people in need with volunteer help in 38+ countries across Canada, the US, Europe and Asia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1955,8 +1955,8 @@
             },
             {
               "node_type": "item",
-              "title": "73",
-              "description": "@konradkalemba/korona.ws 🗺 Coronavirus interactive map of Poland",
+              "title": "@konradkalemba",
+              "description": "/korona.ws 🗺 Coronavirus interactive map of Poland",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1970,8 +1970,8 @@
             },
             {
               "node_type": "item",
-              "title": "47",
-              "description": "@antonlukin/coronavirus Wuhan coronavirus outbreak",
+              "title": "@antonlukin",
+              "description": "/coronavirus Wuhan coronavirus outbreak",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1985,8 +1985,8 @@
             },
             {
               "node_type": "item",
-              "title": "14",
-              "description": "@par6n/ncov-19 A simple page featuring an interactive map presenting nCoV-19 spread in Iran",
+              "title": "@par6n",
+              "description": "/ncov-19 A simple page featuring an interactive map presenting nCoV-19 spread in Iran",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2000,8 +2000,8 @@
             },
             {
               "node_type": "item",
-              "title": "6",
-              "description": "@zy6p/covid-19-dashboard A vue3, echarts and leaflet covid-19 dashboard.",
+              "title": "@zy6p",
+              "description": "/covid-19-dashboard A vue3, echarts and leaflet covid-19 dashboard.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2015,8 +2015,8 @@
             },
             {
               "node_type": "item",
-              "title": "5",
-              "description": "@covidhospitals/covidhospitals Website to locate Covid19 Hospitals in India on Map with beds availability, hospital contact details, directions to navigate.",
+              "title": "@covidhospitals",
+              "description": "/covidhospitals Website to locate Covid19 Hospitals in India on Map with beds availability, hospital contact details, directions to navigate.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2030,8 +2030,8 @@
             },
             {
               "node_type": "item",
-              "title": "4",
-              "description": "@0kzh/COVID-INC Interactive world map tracking the spread of COVID-19",
+              "title": "@0kzh",
+              "description": "/COVID-INC Interactive world map tracking the spread of COVID-19",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2045,8 +2045,8 @@
             },
             {
               "node_type": "item",
-              "title": "4",
-              "description": "@ankitchouhan1020/corona Map of confirmed coronavirus cases in India",
+              "title": "@ankitchouhan1020",
+              "description": "/corona Map of confirmed coronavirus cases in India",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2060,8 +2060,8 @@
             },
             {
               "node_type": "item",
-              "title": "2",
-              "description": "@yammadev/col-covid-19 Seguimiento (Mapa y Estadísticas) del COVID-19 en Colombia / Tracking (Map & Statistics) COVID-19 in Colombia",
+              "title": "@yammadev",
+              "description": "/col-covid-19 Seguimiento (Mapa y Estadísticas) del COVID-19 en Colombia / Tracking (Map & Statistics) COVID-19 in Colombia",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2082,8 +2082,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2118",
-              "description": "@WorldHealthOrganization/app COVID-19 App",
+              "title": "@WorldHealthOrganization",
+              "description": "/app COVID-19 App",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2097,8 +2097,8 @@
             },
             {
               "node_type": "item",
-              "title": "1519",
-              "description": "@mhdhejazi/CoronaTracker Coronavirus tracker app for iOS & macOS with maps & charts",
+              "title": "@mhdhejazi",
+              "description": "/CoronaTracker Coronavirus tracker app for iOS & macOS with maps & charts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2112,8 +2112,8 @@
             },
             {
               "node_type": "item",
-              "title": "529",
-              "description": "@google/exposure-notifications-android Exposure Notifications Android Reference Design",
+              "title": "@google",
+              "description": "/exposure-notifications-android Exposure Notifications Android Reference Design",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2127,8 +2127,8 @@
             },
             {
               "node_type": "item",
-              "title": "484",
-              "description": "@phildini/stayinghomeclub A list of all the companies WFH or events changed because of covid-19",
+              "title": "@phildini",
+              "description": "/stayinghomeclub A list of all the companies WFH or events changed because of covid-19",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2142,8 +2142,8 @@
             },
             {
               "node_type": "item",
-              "title": "453",
-              "description": "@AaronWard/covidify Covidify - corona virus report and dataset generator for python 📈 [no longer being updated]",
+              "title": "@AaronWard",
+              "description": "/covidify Covidify - corona virus report and dataset generator for python 📈 [no longer being updated]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2157,8 +2157,8 @@
             },
             {
               "node_type": "item",
-              "title": "361",
-              "description": "@alfianlosari/CoronaVirusTrackerSwiftUI Corona Virus Tracker & Advices iOS App with SwiftUI",
+              "title": "@alfianlosari",
+              "description": "/CoronaVirusTrackerSwiftUI Corona Virus Tracker & Advices iOS App with SwiftUI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2172,8 +2172,8 @@
             },
             {
               "node_type": "item",
-              "title": "319",
-              "description": "@JohnCoene/coronavirus 🦠 Novel Coronavirus (COVID-19) Tracker",
+              "title": "@JohnCoene",
+              "description": "/coronavirus 🦠 Novel Coronavirus (COVID-19) Tracker",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2187,8 +2187,8 @@
             },
             {
               "node_type": "item",
-              "title": "255",
-              "description": "@julianschiavo/Covidcheck Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface",
+              "title": "@julianschiavo",
+              "description": "/Covidcheck Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2202,8 +2202,8 @@
             },
             {
               "node_type": "item",
-              "title": "254",
-              "description": "@dsfsi/covid19za Coronavirus COVID-19 (2019-nCoV) Data Repository and Dashboard for South Africa",
+              "title": "@dsfsi",
+              "description": "/covid19za Coronavirus COVID-19 (2019-nCoV) Data Repository and Dashboard for South Africa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2217,8 +2217,8 @@
             },
             {
               "node_type": "item",
-              "title": "209",
-              "description": "@heremaps/here-covid-19-tracker Using HERE Technologies APIs, fork and build your own COVID-19 Tracker. For a live version, see the website.",
+              "title": "@heremaps",
+              "description": "/here-covid-19-tracker Using HERE Technologies APIs, fork and build your own COVID-19 Tracker. For a live version, see the website.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2232,8 +2232,8 @@
             },
             {
               "node_type": "item",
-              "title": "189",
-              "description": "@BrianRuizy/covid19-dashboard 🦠 Django + Plotly Coronavirus dashboard. Powerful data driven Python web-app, with an awesome UI. Contributions welcomed! Featured on 🕶Awesome-list",
+              "title": "@BrianRuizy",
+              "description": "/covid19-dashboard 🦠 Django + Plotly Coronavirus dashboard. Powerful data driven Python web-app, with an awesome UI. Contributions welcomed! Featured on 🕶Awesome-list",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2247,8 +2247,8 @@
             },
             {
               "node_type": "item",
-              "title": "148",
-              "description": "@GabrielTavernini/Covid19Stats A simple mobile app developed with Flutter to visualize Covid19 statistics 🦠",
+              "title": "@GabrielTavernini",
+              "description": "/Covid19Stats A simple mobile app developed with Flutter to visualize Covid19 statistics 🦠",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2262,8 +2262,8 @@
             },
             {
               "node_type": "item",
-              "title": "104",
-              "description": "@RamiKrispin/coronavirus_dashboard The Coronavirus Dashboard",
+              "title": "@RamiKrispin",
+              "description": "/coronavirus_dashboard The Coronavirus Dashboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2277,8 +2277,8 @@
             },
             {
               "node_type": "item",
-              "title": "61",
-              "description": "@the-robot/covid19-updates Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus)",
+              "title": "@the-robot",
+              "description": "/covid19-updates Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus)",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2292,8 +2292,8 @@
             },
             {
               "node_type": "item",
-              "title": "60",
-              "description": "@dstotijn/ct-diag-server Diagnosis server for Apple/Google's (COVID-19) Exposure Notification framework.",
+              "title": "@dstotijn",
+              "description": "/ct-diag-server Diagnosis server for Apple/Google's (COVID-19) Exposure Notification framework.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2307,8 +2307,8 @@
             },
             {
               "node_type": "item",
-              "title": "60",
-              "description": "@hysios/coronavirus 2019 nCoV realtime track system based Scrapy + influxdb + grafana + NLTK + Stanford CoreNLP",
+              "title": "@hysios",
+              "description": "/coronavirus 2019 nCoV realtime track system based Scrapy + influxdb + grafana + NLTK + Stanford CoreNLP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2322,8 +2322,8 @@
             },
             {
               "node_type": "item",
-              "title": "56",
-              "description": "@boogheta/coronavirus-countries COVID-19 interactive dashboard for the whole world",
+              "title": "@boogheta",
+              "description": "/coronavirus-countries COVID-19 interactive dashboard for the whole world",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2337,8 +2337,8 @@
             },
             {
               "node_type": "item",
-              "title": "46",
-              "description": "@YogaSakti/CoronaNotifier Whatsapp Bot automatic notification & respond using MQTT, nodeJS & LowDB",
+              "title": "@YogaSakti",
+              "description": "/CoronaNotifier Whatsapp Bot automatic notification & respond using MQTT, nodeJS & LowDB",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2352,8 +2352,8 @@
             },
             {
               "node_type": "item",
-              "title": "44",
-              "description": "@aerogear/OpenVolunteerPlatform Platform for building volunteer management systems dedicated for local gov and charity organizations",
+              "title": "@aerogear",
+              "description": "/OpenVolunteerPlatform Platform for building volunteer management systems dedicated for local gov and charity organizations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2367,8 +2367,8 @@
             },
             {
               "node_type": "item",
-              "title": "42",
-              "description": "@nthopinion/covid19 Code vs COVID-19: Taking down a Pandemic using machines connected globally to extinguish a biological threat of a super virus.",
+              "title": "@nthopinion",
+              "description": "/covid19 Code vs COVID-19: Taking down a Pandemic using machines connected globally to extinguish a biological threat of a super virus.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2382,8 +2382,8 @@
             },
             {
               "node_type": "item",
-              "title": "39",
-              "description": "@yahoo/covid-19-dashboard Source code for the Yahoo Knowledge Graph COVID-19 Dashboard",
+              "title": "@yahoo",
+              "description": "/covid-19-dashboard Source code for the Yahoo Knowledge Graph COVID-19 Dashboard",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2397,8 +2397,8 @@
             },
             {
               "node_type": "item",
-              "title": "39",
-              "description": "@duarteocarmo/coronabar 🦠 A menu bar app to track coronavirus cases all over the world",
+              "title": "@duarteocarmo",
+              "description": "/coronabar 🦠 A menu bar app to track coronavirus cases all over the world",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2412,8 +2412,8 @@
             },
             {
               "node_type": "item",
-              "title": "26",
-              "description": "@helloworldkr/Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual Bluetooth ble beacon beamer and scanner for tracing corona virus infected person similar to Trace Together app",
+              "title": "@helloworldkr",
+              "description": "/Bluetooth-ble-beamer-and-scanner-for-tracing-corona-virus-infected-individual Bluetooth ble beacon beamer and scanner for tracing corona virus infected person similar to Trace Together app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2427,8 +2427,8 @@
             },
             {
               "node_type": "item",
-              "title": "19",
-              "description": "@LeafyCode/survive-together-web Allows people in countries that have a curfew to post what they need so whoever distributes them can find those in need. Also, distributors can post about their services.",
+              "title": "@LeafyCode",
+              "description": "/survive-together-web Allows people in countries that have a curfew to post what they need so whoever distributes them can find those in need. Also, distributors can post about their services.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2442,8 +2442,8 @@
             },
             {
               "node_type": "item",
-              "title": "19",
-              "description": "@Bost/corona_cases 🦠 Coronavirus Information on Telegram Chatbot",
+              "title": "@Bost",
+              "description": "/corona_cases 🦠 Coronavirus Information on Telegram Chatbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2457,8 +2457,8 @@
             },
             {
               "node_type": "item",
-              "title": "15",
-              "description": "@stritti/covid-ampel-widget 🚦 Ampel Widget, um die aktuellen 🦠Corona-Zahlen (Inzidenz) des RKI für die Landkreise in 🇩🇪 Deutschland auf dem Smartphone anzuzeigen",
+              "title": "@stritti",
+              "description": "/covid-ampel-widget 🚦 Ampel Widget, um die aktuellen 🦠Corona-Zahlen (Inzidenz) des RKI für die Landkreise in 🇩🇪 Deutschland auf dem Smartphone anzuzeigen",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2472,8 +2472,8 @@
             },
             {
               "node_type": "item",
-              "title": "15",
-              "description": "@calpt/CoronaPandemicBot 🦠 Yet another Telegram bot tracking the worldwide spread of COVID-19 (Novel Coronavirus)",
+              "title": "@calpt",
+              "description": "/CoronaPandemicBot 🦠 Yet another Telegram bot tracking the worldwide spread of COVID-19 (Novel Coronavirus)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2487,8 +2487,8 @@
             },
             {
               "node_type": "item",
-              "title": "15",
-              "description": "@iamrohitsuthar/gocoronago gocoronago website shows the latest COVID-19 stats in india",
+              "title": "@iamrohitsuthar",
+              "description": "/gocoronago gocoronago website shows the latest COVID-19 stats in india",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2502,8 +2502,8 @@
             },
             {
               "node_type": "item",
-              "title": "13",
-              "description": "@hissain/CoronaTracker A full stack framework to trace possible close-contact candidates within last specified days for an already detected covid-19 positive patient",
+              "title": "@hissain",
+              "description": "/CoronaTracker A full stack framework to trace possible close-contact candidates within last specified days for an already detected covid-19 positive patient",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2517,8 +2517,8 @@
             },
             {
               "node_type": "item",
-              "title": "13",
-              "description": "@destructo570/CovidTracker A minimal designed app to track current statistics of COVID-19 across the world and detailed state wise statistics of India. App also offers some useful information regarding COVID-19, along with helpline numbers(India only).",
+              "title": "@destructo570",
+              "description": "/CovidTracker A minimal designed app to track current statistics of COVID-19 across the world and detailed state wise statistics of India. App also offers some useful information regarding COVID-19, along with helpline numbers(India only).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2532,8 +2532,8 @@
             },
             {
               "node_type": "item",
-              "title": "13",
-              "description": "@nploi/corona_tracker :bar_chart: Corona virus tracker app for IOS and Android.",
+              "title": "@nploi",
+              "description": "/corona_tracker :bar_chart: Corona virus tracker app for IOS and Android.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2547,8 +2547,8 @@
             },
             {
               "node_type": "item",
-              "title": "13",
-              "description": "@arik-so/coronavirus",
+              "title": "@arik-so",
+              "description": "/coronavirus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2562,8 +2562,8 @@
             },
             {
               "node_type": "item",
-              "title": "12",
-              "description": "@MM-coder/coronavirus-wallpaper 🦠 Application that allows you to update your wallpaper with the COVID-19 stats in your area",
+              "title": "@MM-coder",
+              "description": "/coronavirus-wallpaper 🦠 Application that allows you to update your wallpaper with the COVID-19 stats in your area",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2577,8 +2577,8 @@
             },
             {
               "node_type": "item",
-              "title": "12",
-              "description": "@dabigjoe6/react-native-covid19 A React Native app created to track COVID-19 cases and also provide users with important information",
+              "title": "@dabigjoe6",
+              "description": "/react-native-covid19 A React Native app created to track COVID-19 cases and also provide users with important information",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2592,8 +2592,8 @@
             },
             {
               "node_type": "item",
-              "title": "11",
-              "description": "@onl1ner/CovidKazakhstan 🦠 Application to track number of coronavirus COVID-19 cases in Kazakhstan.",
+              "title": "@onl1ner",
+              "description": "/CovidKazakhstan 🦠 Application to track number of coronavirus COVID-19 cases in Kazakhstan.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2607,8 +2607,8 @@
             },
             {
               "node_type": "item",
-              "title": "9",
-              "description": "@Druhin13/corona Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) Helpline Numbers Risks & Precautions - https://coronavirusapp.github.io",
+              "title": "@Druhin13",
+              "description": "/corona Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) Helpline Numbers Risks & Precautions - https://coronavirusapp.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2652,8 +2652,8 @@
             },
             {
               "node_type": "item",
-              "title": "7",
-              "description": "@bluesquare-io/covid-19-app Starting point for a COVID-19 crisis app.",
+              "title": "@bluesquare-io",
+              "description": "/covid-19-app Starting point for a COVID-19 crisis app.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2667,8 +2667,8 @@
             },
             {
               "node_type": "item",
-              "title": "7",
-              "description": "@bluebillxp/android-covid19-reportviewer This is the COVID-19 daily report viewer on Android presents data from CSSE@JHU open-sourced data repo.",
+              "title": "@bluebillxp",
+              "description": "/android-covid19-reportviewer This is the COVID-19 daily report viewer on Android presents data from CSSE@JHU open-sourced data repo.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2682,8 +2682,8 @@
             },
             {
               "node_type": "item",
-              "title": "7",
-              "description": "@cakebatterandsprinkles/whereiscovid COVID19 tracking app made with React",
+              "title": "@cakebatterandsprinkles",
+              "description": "/whereiscovid COVID19 tracking app made with React",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2697,8 +2697,8 @@
             },
             {
               "node_type": "item",
-              "title": "6",
-              "description": "@booleanhunter-tech-blog/kartpool Community driven delivery platform for the ones who need it the most.",
+              "title": "@booleanhunter-tech-blog",
+              "description": "/kartpool Community driven delivery platform for the ones who need it the most.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2712,8 +2712,8 @@
             },
             {
               "node_type": "item",
-              "title": "6",
-              "description": "@nutboltu/australia-covid19 https://www.australiacovid19.com",
+              "title": "@nutboltu",
+              "description": "/australia-covid19 https://www.australiacovid19.com",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2727,8 +2727,8 @@
             },
             {
               "node_type": "item",
-              "title": "6",
-              "description": "@soroushchehresa/iran-coronavirus IOS & Android app about Coronavirus in Iran built with React-Native and TypeScript",
+              "title": "@soroushchehresa",
+              "description": "/iran-coronavirus IOS & Android app about Coronavirus in Iran built with React-Native and TypeScript",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2742,8 +2742,8 @@
             },
             {
               "node_type": "item",
-              "title": "5",
-              "description": "@mayukh18/covidexplore exploring the impact of the COVID-19 crisis on the world through data",
+              "title": "@mayukh18",
+              "description": "/covidexplore exploring the impact of the COVID-19 crisis on the world through data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2757,8 +2757,8 @@
             },
             {
               "node_type": "item",
-              "title": "4",
-              "description": "@Jxyme/covid-19-discord-custom-status Automatically adjust your Discord Custom Status with the latest COVID-19 Figures.",
+              "title": "@Jxyme",
+              "description": "/covid-19-discord-custom-status Automatically adjust your Discord Custom Status with the latest COVID-19 Figures.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2772,8 +2772,8 @@
             },
             {
               "node_type": "item",
-              "title": "4",
-              "description": "@amitay87/corona_touch_tracking A system that will track touch in common surfaces in order to prioriotize the cleaning/disinfection of the most touched surfaces",
+              "title": "@amitay87",
+              "description": "/corona_touch_tracking A system that will track touch in common surfaces in order to prioriotize the cleaning/disinfection of the most touched surfaces",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2787,8 +2787,8 @@
             },
             {
               "node_type": "item",
-              "title": "4",
-              "description": "@aleskandro/covid19-charts-spreading-rapidity Covid19 simple charts, spreading, rapidity and acceleration",
+              "title": "@aleskandro",
+              "description": "/covid19-charts-spreading-rapidity Covid19 simple charts, spreading, rapidity and acceleration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2802,8 +2802,8 @@
             },
             {
               "node_type": "item",
-              "title": "3",
-              "description": "@njoyard/corona Covid-19 cases visualisation app using CSSE data",
+              "title": "@njoyard",
+              "description": "/corona Covid-19 cases visualisation app using CSSE data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2817,8 +2817,8 @@
             },
             {
               "node_type": "item",
-              "title": "3",
-              "description": "@MG-ng/Virus-Ticker-Widget See the spread of SARS-CoV-2 in your country - directly on your home screen",
+              "title": "@MG-ng",
+              "description": "/Virus-Ticker-Widget See the spread of SARS-CoV-2 in your country - directly on your home screen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2832,8 +2832,8 @@
             },
             {
               "node_type": "item",
-              "title": "2",
-              "description": "@expelledboy/bitbar-covid Get updates on covid 19 for your country in your status bar. BitBar Plugin.",
+              "title": "@expelledboy",
+              "description": "/bitbar-covid Get updates on covid 19 for your country in your status bar. BitBar Plugin.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2847,8 +2847,8 @@
             },
             {
               "node_type": "item",
-              "title": "2",
-              "description": "@Spiderpig86/to-go :ramen: Simple web app for aggregating open restaurants in US/Canada cities during Covid-19.",
+              "title": "@Spiderpig86",
+              "description": "/to-go :ramen: Simple web app for aggregating open restaurants in US/Canada cities during Covid-19.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2862,8 +2862,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@shaunsaker/covid-19-south-africa-app A mobile app that displays the latest COVID-19 stats of any country and sends push notifications when the South African stats are released👨‍⚕️",
+              "title": "@shaunsaker",
+              "description": "/covid-19-south-africa-app A mobile app that displays the latest COVID-19 stats of any country and sends push notifications when the South African stats are released👨‍⚕️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2877,8 +2877,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@LuisReinoso/covid-19-community-tracker Check if you are near of suspected cases of covid-19. Self-report. No data is revealed.",
+              "title": "@LuisReinoso",
+              "description": "/covid-19-community-tracker Check if you are near of suspected cases of covid-19. Self-report. No data is revealed.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2892,8 +2892,8 @@
             },
             {
               "node_type": "item",
-              "title": "0",
-              "description": "@varundeva/CoronaTracker Corona Tracking App by Using Various Data Api Available on GitHub",
+              "title": "@varundeva",
+              "description": "/CoronaTracker Corona Tracking App by Using Various Data Api Available on GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2914,8 +2914,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1153",
-              "description": "@datasets/covid-19 Novel Coronavirus 2019 time series data on cases",
+              "title": "@datasets",
+              "description": "/covid-19 Novel Coronavirus 2019 time series data on cases",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2929,8 +2929,8 @@
             },
             {
               "node_type": "item",
-              "title": "122",
-              "description": "@koushikkothagal/coronavirus-tracker Spring Boot Java app to track coronavirus confirmed cases across the globe",
+              "title": "@koushikkothagal",
+              "description": "/coronavirus-tracker Spring Boot Java app to track coronavirus confirmed cases across the globe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2944,8 +2944,8 @@
             },
             {
               "node_type": "item",
-              "title": "44",
-              "description": "@nf1s/covid Python package to fetch information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info",
+              "title": "@nf1s",
+              "description": "/covid Python package to fetch information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2959,8 +2959,8 @@
             },
             {
               "node_type": "item",
-              "title": "40",
-              "description": "@eebrown/data2019nCoV COVID-19 Pandemic Data R Package",
+              "title": "@eebrown",
+              "description": "/data2019nCoV COVID-19 Pandemic Data R Package",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2974,8 +2974,8 @@
             },
             {
               "node_type": "item",
-              "title": "40",
-              "description": "@eebrown/data2019nCoV COVID-19 Pandemic Data R Package",
+              "title": "@eebrown",
+              "description": "/data2019nCoV COVID-19 Pandemic Data R Package",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2989,8 +2989,8 @@
             },
             {
               "node_type": "item",
-              "title": "31",
-              "description": "@pdtyreus/coronavirus-ds Jupyter notebooks and python scripts for investigating the 2019 coronavirus outbreak",
+              "title": "@pdtyreus",
+              "description": "/coronavirus-ds Jupyter notebooks and python scripts for investigating the 2019 coronavirus outbreak",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3034,8 +3034,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@zekinah/zone-pandemic-covid19 A WordPress plugin that generates a shortcode that shows the covid19's live captured data around the world.",
+              "title": "@zekinah",
+              "description": "/zone-pandemic-covid19 A WordPress plugin that generates a shortcode that shows the covid19's live captured data around the world.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3049,8 +3049,8 @@
             },
             {
               "node_type": "item",
-              "title": "1",
-              "description": "@M-Media-Group/Coronavirus-COVID-19-Watch WordPress plugin integrating COVID-19 API",
+              "title": "@M-Media-Group",
+              "description": "/Coronavirus-COVID-19-Watch WordPress plugin integrating COVID-19 API",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3064,8 +3064,8 @@
             },
             {
               "node_type": "item",
-              "title": "0",
-              "description": "@ffflorian/exposure-keys Temporary Exposure Keys (TEK) library written in TypeScript.",
+              "title": "@ffflorian",
+              "description": "/exposure-keys Temporary Exposure Keys (TEK) library written in TypeScript.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3086,8 +3086,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1858",
-              "description": "@ahmadawais/corona-cli 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms). To chat: https://twitter.com/MrAhmadAwais/",
+              "title": "@ahmadawais",
+              "description": "/corona-cli 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms). To chat: https://twitter.com/MrAhmadAwais/",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3101,8 +3101,8 @@
             },
             {
               "node_type": "item",
-              "title": "961",
-              "description": "@sagarkarira/coronavirus-tracker-cli Track conronavirus cases from command line. curl https://corona-stats.online/",
+              "title": "@sagarkarira",
+              "description": "/coronavirus-tracker-cli Track conronavirus cases from command line. curl https://corona-stats.online/",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3116,8 +3116,8 @@
             },
             {
               "node_type": "item",
-              "title": "277",
-              "description": "@wareneutron/covid19-tracker-cli A console-oriented COVID-19 tracker with real-time updates for your favorite terminal. 💻🌏😷",
+              "title": "@wareneutron",
+              "description": "/covid19-tracker-cli A console-oriented COVID-19 tracker with real-time updates for your favorite terminal. 💻🌏😷",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3131,8 +3131,8 @@
             },
             {
               "node_type": "item",
-              "title": "98",
-              "description": "@OpenGene/fastv An ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data. This tool can be used to detect viral infectious diseases, like COVID-19.",
+              "title": "@OpenGene",
+              "description": "/fastv An ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data. This tool can be used to detect viral infectious diseases, like COVID-19.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3146,8 +3146,8 @@
             },
             {
               "node_type": "item",
-              "title": "89",
-              "description": "@garrylachman/covid19-cli Corona Virus (Covid 19) BASH Tracking CLI",
+              "title": "@garrylachman",
+              "description": "/covid19-cli Corona Virus (Covid 19) BASH Tracking CLI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3161,8 +3161,8 @@
             },
             {
               "node_type": "item",
-              "title": "46",
-              "description": "@MouadBH/coronapy-cli A command line tool in python to fetch worldwide data about COVID-19",
+              "title": "@MouadBH",
+              "description": "/coronapy-cli A command line tool in python to fetch worldwide data about COVID-19",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3176,8 +3176,8 @@
             },
             {
               "node_type": "item",
-              "title": "19",
-              "description": "@anksh1997/covid19-cli A CLI for getting covid-19 coronavirus status of your district or state or country at lightning speed right on your terminal built using https://api.covid19india.org.",
+              "title": "@anksh1997",
+              "description": "/covid19-cli A CLI for getting covid-19 coronavirus status of your district or state or country at lightning speed right on your terminal built using https://api.covid19india.org.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3191,8 +3191,8 @@
             },
             {
               "node_type": "item",
-              "title": "14",
-              "description": "@soroushchehresa/cli-corona 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.",
+              "title": "@soroushchehresa",
+              "description": "/cli-corona 📈 Track COVID-19 (2019 novel Coronavirus) statistics via the command line.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3206,8 +3206,8 @@
             },
             {
               "node_type": "item",
-              "title": "9",
-              "description": "@mixon00/cov19-cli COVID-19 CLI Tool",
+              "title": "@mixon00",
+              "description": "/cov19-cli COVID-19 CLI Tool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3221,8 +3221,8 @@
             },
             {
               "node_type": "item",
-              "title": "2",
-              "description": "@aayush-jaiswal/covid-in A simple and fast command line app to get covid-19 updates for India.",
+              "title": "@aayush-jaiswal",
+              "description": "/covid-in A simple and fast command line app to get covid-19 updates for India.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3236,8 +3236,8 @@
             },
             {
               "node_type": "item",
-              "title": "0",
-              "description": "@xinyangyuan/c19 A simple cli to get COVID-19 data with one command",
+              "title": "@xinyangyuan",
+              "description": "/c19 A simple cli to get COVID-19 data with one command",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3251,8 +3251,8 @@
             },
             {
               "node_type": "item",
-              "title": "0",
-              "description": "@aethe/corona CLI for tracking the ongoing pandemic of COVID-19",
+              "title": "@aethe",
+              "description": "/corona CLI for tracking the ongoing pandemic of COVID-19",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3273,8 +3273,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1656",
-              "description": "@jcl5m1/ventilator Low-Cost Open Source Ventilator or PAPR",
+              "title": "@jcl5m1",
+              "description": "/ventilator Low-Cost Open Source Ventilator or PAPR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3288,8 +3288,8 @@
             },
             {
               "node_type": "item",
-              "title": "793",
-              "description": "@makers-for-life/makair 🫁 The world's first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€).",
+              "title": "@makers-for-life",
+              "description": "/makair 🫁 The world's first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€).",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3303,8 +3303,8 @@
             },
             {
               "node_type": "item",
-              "title": "153",
-              "description": "@ProtofyTeam/OxyGEN OxyGEN",
+              "title": "@ProtofyTeam",
+              "description": "/OxyGEN OxyGEN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3325,8 +3325,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "35",
-              "description": "@SolaceLabs/covid19-stream-processors Stream Information & Example Applications for Processing JHU and CovidTracking.com COVID-19 data available as streams over Solace",
+              "title": "@SolaceLabs",
+              "description": "/covid19-stream-processors Stream Information & Example Applications for Processing JHU and CovidTracking.com COVID-19 data available as streams over Solace",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3473,7 +3473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:15.962Z",
+    "last_updated": "2026-08-25T05:17:18.208Z",
     "original_repository": "soroushchehresa/awesome-coronavirus",
     "original_repository_id": 246570646,
     "original_repository_sha": "37fd2b1180cd976ea42f755a7f27f722d2cc1aea",

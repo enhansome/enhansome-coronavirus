@@ -624,7 +624,7 @@
                 "last_commit": "2024-04-02T16:00:09Z",
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6965
+                "stars": 6964
               }
             },
             {
@@ -699,7 +699,7 @@
                 "last_commit": "2025-06-01T15:43:06Z",
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Data",
-                "stars": 2174
+                "stars": 2173
               }
             },
             {
@@ -759,7 +759,7 @@
                 "last_commit": "2026-03-24T23:16:50Z",
                 "owner": "datasets",
                 "repo": "covid-19",
-                "stars": 1165
+                "stars": 1164
               }
             },
             {
@@ -2924,7 +2924,7 @@
                 "last_commit": "2026-03-24T23:16:50Z",
                 "owner": "datasets",
                 "repo": "covid-19",
-                "stars": 1165
+                "stars": 1164
               }
             },
             {
@@ -3473,7 +3473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:04.343Z",
+    "last_updated": "2026-08-26T05:16:35.136Z",
     "original_repository": "soroushchehresa/awesome-coronavirus",
     "original_repository_id": 246570646,
     "original_repository_sha": "37fd2b1180cd976ea42f755a7f27f722d2cc1aea",

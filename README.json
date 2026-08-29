@@ -1209,7 +1209,7 @@
                 "open_issues": 2,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6964,
+                "stars": 6965,
                 "topics": [
                   "covid-19"
                 ]
@@ -6469,7 +6469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:10.163Z",
+    "last_updated": "2026-08-29T11:21:42.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

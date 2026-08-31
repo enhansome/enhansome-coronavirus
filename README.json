@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6802,
+                "stars": 6803,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -3591,7 +3591,7 @@
                 "open_issues": 18,
                 "owner": "jakobzhao",
                 "repo": "virus",
-                "stars": 161,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -3901,7 +3901,7 @@
                 "open_issues": 24,
                 "owner": "mhdhejazi",
                 "repo": "CoronaTracker",
-                "stars": 1541,
+                "stars": 1540,
                 "topics": [
                   "coronavirus",
                   "coronavirus-tracker",
@@ -6469,7 +6469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:07:43.916Z",
+    "last_updated": "2026-08-31T11:09:23.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

@@ -575,7 +575,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2021-10-02T13:24:30Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "andreagrandi",
                 "repo": "covid-api",
                 "stars": 59,
@@ -747,7 +747,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2020-07-11T08:32:21Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "COVID19-SARS-CoV-2",
                 "repo": "web-covid-api",
                 "stars": 17,
@@ -779,7 +779,7 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2023-12-20T14:16:26Z",
-                "open_issues": 29,
+                "open_issues": 28,
                 "owner": "AlaeddineMessadi",
                 "repo": "COVID-19-REPORT-API",
                 "stars": 17,
@@ -1179,7 +1179,7 @@
                 "open_issues": 1954,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28901,
+                "stars": 28900,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5659,
+                "stars": 5658,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -1460,7 +1460,7 @@
                 "open_issues": 34,
                 "owner": "datasets",
                 "repo": "covid-19",
-                "stars": 1164,
+                "stars": 1165,
                 "topics": [
                   "coronavirus",
                   "coronavirus-disease",
@@ -3131,7 +3131,7 @@
                 "id": 292537693,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-17T22:44:38Z",
+                "last_commit": "2026-08-31T22:34:46Z",
                 "open_issues": 5,
                 "owner": "healthbadge",
                 "repo": "episimmer",
@@ -4549,7 +4549,7 @@
                 "language": "Clojure",
                 "license": null,
                 "last_commit": "2025-11-23T14:55:33Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Bost",
                 "repo": "corona_cases",
                 "stars": 19,
@@ -4947,7 +4947,7 @@
                 "open_issues": 1954,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28901,
+                "stars": 28900,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5449,7 +5449,7 @@
                 "open_issues": 34,
                 "owner": "datasets",
                 "repo": "covid-19",
-                "stars": 1164,
+                "stars": 1165,
                 "topics": [
                   "coronavirus",
                   "coronavirus-disease",
@@ -5655,7 +5655,7 @@
                 "open_issues": 1954,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28901,
+                "stars": 28900,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6469,7 +6469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:09:23.624Z",
+    "last_updated": "2026-09-01T09:36:28.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

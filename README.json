@@ -818,7 +818,7 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-27T06:54:04Z",
+                "last_commit": "2026-09-02T08:54:46Z",
                 "open_issues": 1,
                 "owner": "ffflorian",
                 "repo": "api-clients",
@@ -1743,7 +1743,7 @@
                 "open_issues": 9,
                 "owner": "trekhleb",
                 "repo": "covid-19",
-                "stars": 264,
+                "stars": 263,
                 "topics": [
                   "2019-ncov",
                   "chart",
@@ -4018,7 +4018,7 @@
                 "open_issues": 3,
                 "owner": "alfianlosari",
                 "repo": "CoronaVirusTrackerSwiftUI",
-                "stars": 373,
+                "stars": 372,
                 "topics": [
                   "coronavirus",
                   "coronavirus-tracking",
@@ -6469,7 +6469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:36:28.884Z",
+    "last_updated": "2026-09-02T09:04:31.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

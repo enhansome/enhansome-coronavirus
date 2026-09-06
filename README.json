@@ -1313,7 +1313,7 @@
                 "open_issues": 42,
                 "owner": "ieee8023",
                 "repo": "covid-chestxray-dataset",
-                "stars": 3062,
+                "stars": 3061,
                 "topics": [
                   "computed-tomography",
                   "computer-vision",
@@ -6469,7 +6469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:36:42.272Z",
+    "last_updated": "2026-09-06T08:56:53.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

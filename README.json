@@ -4963,35 +4963,6 @@
             },
             {
               "node_type": "item",
-              "title": "@bluesquare-io",
-              "description": "/covid-19-app Starting point for a COVID-19 crisis app.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Starting point for a COVID-19 crisis app.",
-                "homepage": null,
-                "id": 249725849,
-                "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2021-10-06T09:32:59Z",
-                "open_issues": 0,
-                "owner": "bluesquare-io",
-                "repo": "covid-19-app",
-                "stars": 7,
-                "topics": [
-                  "android",
-                  "covid-19",
-                  "crisis-management",
-                  "ios",
-                  "map",
-                  "newsfeed",
-                  "react-native"
-                ]
-              },
-              "first_seen": "2026-08-28T16:56:01.146Z"
-            },
-            {
-              "node_type": "item",
               "title": "@bluebillxp",
               "description": "/android-covid19-reportviewer This is the COVID-19 daily report viewer on Android presents data from CSSE@JHU open-sourced data repo.",
               "children": [],
@@ -6469,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:45:24.919Z",
+    "last_updated": "2026-09-08T09:06:48.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

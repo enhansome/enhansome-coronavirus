@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "marlon360",
                 "repo": "rki-covid-api",
-                "stars": 245,
+                "stars": 244,
                 "topics": [
                   "api",
                   "corona",
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5658,
+                "stars": 5657,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -1287,7 +1287,7 @@
                 "open_issues": 184,
                 "owner": "pcm-dpc",
                 "repo": "COVID-19",
-                "stars": 3793,
+                "stars": 3792,
                 "topics": [
                   "covid-19",
                   "dpc",
@@ -2747,8 +2747,8 @@
                 "id": 254878562,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2022-04-05T09:40:41Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-09T02:02:31Z",
+                "open_issues": 1,
                 "owner": "akshayajeevan",
                 "repo": "covid19-us-states",
                 "stars": 2,
@@ -2970,8 +2970,8 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-18T16:45:08Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-08T22:02:11Z",
+                "open_issues": 25,
                 "owner": "starsimhub",
                 "repo": "covasim",
                 "stars": 289,
@@ -5755,7 +5755,7 @@
                 "open_issues": 38,
                 "owner": "ahmadawais",
                 "repo": "corona-cli",
-                "stars": 1834,
+                "stars": 1835,
                 "topics": [
                   "corona",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:06:48.287Z",
+    "last_updated": "2026-09-09T09:12:40.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

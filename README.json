@@ -818,8 +818,8 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T07:27:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-10T05:44:40Z",
+                "open_issues": 7,
                 "owner": "ffflorian",
                 "repo": "api-clients",
                 "stars": 23,
@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6802,
+                "stars": 6800,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -3901,7 +3901,7 @@
                 "open_issues": 24,
                 "owner": "mhdhejazi",
                 "repo": "CoronaTracker",
-                "stars": 1540,
+                "stars": 1539,
                 "topics": [
                   "coronavirus",
                   "coronavirus-tracker",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:12:40.224Z",
+    "last_updated": "2026-09-10T09:11:51.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2502,
+                "stars": 2503,
                 "topics": [
                   "api",
                   "cdc",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2502,
+                "stars": 2503,
                 "topics": [
                   "api",
                   "cdc",
@@ -818,8 +818,8 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T05:44:40Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-10T16:23:13Z",
+                "open_issues": 0,
                 "owner": "ffflorian",
                 "repo": "api-clients",
                 "stars": 23,
@@ -4201,7 +4201,7 @@
                 "open_issues": 7,
                 "owner": "GabrielTavernini",
                 "repo": "Covid19Stats",
-                "stars": 144,
+                "stars": 143,
                 "topics": [
                   "covid-19",
                   "flutter",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:11:51.380Z",
+    "last_updated": "2026-09-11T09:09:41.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

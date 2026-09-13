@@ -1179,7 +1179,7 @@
                 "open_issues": 1954,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28898,
+                "stars": 28899,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6800,
+                "stars": 6799,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -1313,7 +1313,7 @@
                 "open_issues": 42,
                 "owner": "ieee8023",
                 "repo": "covid-chestxray-dataset",
-                "stars": 3061,
+                "stars": 3060,
                 "topics": [
                   "computed-tomography",
                   "computer-vision",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1954,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28898,
+                "stars": 28899,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1954,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28898,
+                "stars": 28899,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:50:21.662Z",
+    "last_updated": "2026-09-13T09:45:05.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

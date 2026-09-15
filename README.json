@@ -557,7 +557,7 @@
                 "open_issues": 13,
                 "owner": "COVID19Tracking",
                 "repo": "covid-tracking-api",
-                "stars": 75,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -818,7 +818,7 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T16:23:13Z",
+                "last_commit": "2026-09-15T08:50:23Z",
                 "open_issues": 0,
                 "owner": "ffflorian",
                 "repo": "api-clients",
@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6799,
+                "stars": 6798,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -1701,7 +1701,7 @@
                 "open_issues": 25,
                 "owner": "OssamaRafique",
                 "repo": "Covid-19-Statistics-Dashboard-Angular-9",
-                "stars": 275,
+                "stars": 274,
                 "topics": [
                   "amcharts",
                   "angular",
@@ -2974,7 +2974,7 @@
                 "open_issues": 25,
                 "owner": "starsimhub",
                 "repo": "covasim",
-                "stars": 289,
+                "stars": 290,
                 "topics": [
                   "abm",
                   "agent-based",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:07:55.967Z",
+    "last_updated": "2026-09-15T09:36:24.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

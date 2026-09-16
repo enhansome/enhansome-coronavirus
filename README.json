@@ -116,7 +116,7 @@
                 "open_issues": 34,
                 "owner": "ExpDev07",
                 "repo": "coronavirus-tracker-api",
-                "stars": 1569,
+                "stars": 1568,
                 "topics": [
                   "api",
                   "coronavirus",
@@ -3506,7 +3506,7 @@
                 "open_issues": 51,
                 "owner": "stevenliuyi",
                 "repo": "covid19",
-                "stars": 319,
+                "stars": 318,
                 "topics": [
                   "coronavirus",
                   "covid-19",
@@ -4131,7 +4131,7 @@
                 "open_issues": 9,
                 "owner": "heremaps",
                 "repo": "here-covid-19-tracker",
-                "stars": 212,
+                "stars": 211,
                 "topics": [
                   "coronavirus",
                   "coronavirus-tracking",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:36:24.008Z",
+    "last_updated": "2026-09-16T09:31:44.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

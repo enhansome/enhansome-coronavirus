@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2503,
+                "stars": 2502,
                 "topics": [
                   "api",
                   "cdc",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2503,
+                "stars": 2502,
                 "topics": [
                   "api",
                   "cdc",
@@ -91,7 +91,7 @@
                 "open_issues": 9,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Crawler",
-                "stars": 1971,
+                "stars": 1972,
                 "topics": [
                   "2019-ncov",
                   "crawler",
@@ -1176,7 +1176,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-10T18:39:00Z",
-                "open_issues": 1954,
+                "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
                 "stars": 28899,
@@ -2131,7 +2131,7 @@
                 "open_issues": 10,
                 "owner": "coviddata",
                 "repo": "coviddata",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "coronavirus",
                   "coronavirus-analysis",
@@ -4944,7 +4944,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-10T18:39:00Z",
-                "open_issues": 1954,
+                "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
                 "stars": 28899,
@@ -5623,7 +5623,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-10T18:39:00Z",
-                "open_issues": 1954,
+                "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
                 "stars": 28899,
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:12:57.019Z",
+    "last_updated": "2026-09-19T08:59:20.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

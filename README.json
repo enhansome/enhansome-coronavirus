@@ -818,8 +818,8 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T09:52:00Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-24T03:16:29Z",
+                "open_issues": 9,
                 "owner": "ffflorian",
                 "repo": "api-clients",
                 "stars": 23,
@@ -2971,7 +2971,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-08T22:02:11Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "starsimhub",
                 "repo": "covasim",
                 "stars": 290,
@@ -3901,7 +3901,7 @@
                 "open_issues": 24,
                 "owner": "mhdhejazi",
                 "repo": "CoronaTracker",
-                "stars": 1539,
+                "stars": 1540,
                 "topics": [
                   "coronavirus",
                   "coronavirus-tracker",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:33:26.158Z",
+    "last_updated": "2026-09-24T09:33:31.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

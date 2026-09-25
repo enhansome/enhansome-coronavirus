@@ -818,8 +818,8 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T03:16:29Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-24T12:02:21Z",
+                "open_issues": 0,
                 "owner": "ffflorian",
                 "repo": "api-clients",
                 "stars": 23,
@@ -1179,7 +1179,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28898,
+                "stars": 28899,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1400,8 +1400,8 @@
                 "id": 234936988,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-17T18:26:43Z",
-                "open_issues": 92,
+                "last_commit": "2026-09-24T23:16:48Z",
+                "open_issues": 94,
                 "owner": "nextstrain",
                 "repo": "ncov",
                 "stars": 1363,
@@ -4018,7 +4018,7 @@
                 "open_issues": 3,
                 "owner": "alfianlosari",
                 "repo": "CoronaVirusTrackerSwiftUI",
-                "stars": 372,
+                "stars": 373,
                 "topics": [
                   "coronavirus",
                   "coronavirus-tracking",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28898,
+                "stars": 28899,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28898,
+                "stars": 28899,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:33:31.443Z",
+    "last_updated": "2026-09-25T09:48:34.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

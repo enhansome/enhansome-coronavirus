@@ -1179,7 +1179,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28899,
+                "stars": 28897,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6967,
+                "stars": 6966,
                 "topics": [
                   "covid-19"
                 ]
@@ -2291,7 +2291,7 @@
                 "open_issues": 1,
                 "owner": "arnoudbuzing",
                 "repo": "wolfram-coronavirus",
-                "stars": 36,
+                "stars": 35,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -2850,7 +2850,7 @@
                 "open_issues": 45,
                 "owner": "lindawangg",
                 "repo": "COVID-Net",
-                "stars": 1169,
+                "stars": 1170,
                 "topics": [
                   "chest-radiography",
                   "coronavirus",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28899,
+                "stars": 28897,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28899,
+                "stars": 28897,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:13:08.311Z",
+    "last_updated": "2026-09-28T11:14:33.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

@@ -91,7 +91,7 @@
                 "open_issues": 9,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Crawler",
-                "stars": 1972,
+                "stars": 1971,
                 "topics": [
                   "2019-ncov",
                   "crawler",
@@ -1179,7 +1179,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28897,
+                "stars": 28896,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6966,
+                "stars": 6967,
                 "topics": [
                   "covid-19"
                 ]
@@ -2932,7 +2932,7 @@
                 "open_issues": 3,
                 "owner": "Yu-Group",
                 "repo": "covid19-severity-prediction",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "coronavirus",
                   "coronavirus-tracking",
@@ -3131,7 +3131,7 @@
                 "id": 292537693,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T22:34:46Z",
+                "last_commit": "2026-09-28T23:06:58Z",
                 "open_issues": 5,
                 "owner": "healthbadge",
                 "repo": "episimmer",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28897,
+                "stars": 28896,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28897,
+                "stars": 28896,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6136,7 +6136,7 @@
                 "open_issues": 85,
                 "owner": "jcl5m1",
                 "repo": "ventilator",
-                "stars": 1664,
+                "stars": 1665,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:14:33.730Z",
+    "last_updated": "2026-09-29T10:54:54.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

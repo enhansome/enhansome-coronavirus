@@ -91,7 +91,7 @@
                 "open_issues": 9,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Crawler",
-                "stars": 1971,
+                "stars": 1970,
                 "topics": [
                   "2019-ncov",
                   "crawler",
@@ -116,7 +116,7 @@
                 "open_issues": 34,
                 "owner": "ExpDev07",
                 "repo": "coronavirus-tracker-api",
-                "stars": 1568,
+                "stars": 1569,
                 "topics": [
                   "api",
                   "coronavirus",
@@ -818,8 +818,8 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T09:48:16Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-02T08:40:53Z",
+                "open_issues": 0,
                 "owner": "ffflorian",
                 "repo": "api-clients",
                 "stars": 23,
@@ -1287,7 +1287,7 @@
                 "open_issues": 184,
                 "owner": "pcm-dpc",
                 "repo": "COVID-19",
-                "stars": 3785,
+                "stars": 3786,
                 "topics": [
                   "covid-19",
                   "dpc",
@@ -1460,7 +1460,7 @@
                 "open_issues": 34,
                 "owner": "datasets",
                 "repo": "covid-19",
-                "stars": 1166,
+                "stars": 1165,
                 "topics": [
                   "coronavirus",
                   "coronavirus-disease",
@@ -2040,8 +2040,8 @@
                 "id": 249267381,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-23T18:13:10Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-01T22:06:45Z",
+                "open_issues": 18,
                 "owner": "seandavi",
                 "repo": "sars2pack",
                 "stars": 61,
@@ -5420,7 +5420,7 @@
                 "open_issues": 34,
                 "owner": "datasets",
                 "repo": "covid-19",
-                "stars": 1166,
+                "stars": 1165,
                 "topics": [
                   "coronavirus",
                   "coronavirus-disease",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:11:03.978Z",
+    "last_updated": "2026-10-02T10:44:30.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

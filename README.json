@@ -1179,7 +1179,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28894,
+                "stars": 28893,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -2970,7 +2970,7 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T03:04:46Z",
+                "last_commit": "2026-10-04T02:40:12Z",
                 "open_issues": 26,
                 "owner": "starsimhub",
                 "repo": "covasim",
@@ -4162,7 +4162,7 @@
                 "open_issues": 16,
                 "owner": "BrianRuizy",
                 "repo": "covid19-dashboard",
-                "stars": 213,
+                "stars": 212,
                 "topics": [
                   "coronavirus",
                   "coronavirus-real-time",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28894,
+                "stars": 28893,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28894,
+                "stars": 28893,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:03:53.949Z",
+    "last_updated": "2026-10-04T10:45:54.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",
@@ -6452,7 +6452,7 @@
       "open_issues": 1,
       "owner": "soroushchehresa",
       "repo": "awesome-coronavirus",
-      "stars": 1569,
+      "stars": 1570,
       "topics": [
         "2019-ncov",
         "2019ncov",

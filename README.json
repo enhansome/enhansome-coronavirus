@@ -238,7 +238,7 @@
                 "open_issues": 5,
                 "owner": "covid19india",
                 "repo": "data",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6797,
+                "stars": 6796,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -1310,7 +1310,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2022-08-18T04:01:08Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "ieee8023",
                 "repo": "covid-chestxray-dataset",
                 "stars": 3060,
@@ -1430,7 +1430,7 @@
                 "open_issues": 10,
                 "owner": "pomber",
                 "repo": "covid19",
-                "stars": 1217,
+                "stars": 1216,
                 "topics": [
                   "2019-ncov",
                   "api",
@@ -2254,7 +2254,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2021-06-10T13:28:29Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "ml-workgroup",
                 "repo": "covid-19-image-repository",
                 "stars": 45,
@@ -2810,7 +2810,7 @@
                 "open_issues": 44,
                 "owner": "neherlab",
                 "repo": "covid19_scenarios",
-                "stars": 1352,
+                "stars": 1353,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -2970,7 +2970,7 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T02:40:12Z",
+                "last_commit": "2026-10-04T11:35:24Z",
                 "open_issues": 26,
                 "owner": "starsimhub",
                 "repo": "covasim",
@@ -3901,7 +3901,7 @@
                 "open_issues": 24,
                 "owner": "mhdhejazi",
                 "repo": "CoronaTracker",
-                "stars": 1540,
+                "stars": 1541,
                 "topics": [
                   "coronavirus",
                   "coronavirus-tracker",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:45:54.573Z",
+    "last_updated": "2026-10-05T11:51:19.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

@@ -157,7 +157,7 @@
                 "open_issues": 71,
                 "owner": "mathdroid",
                 "repo": "covid-19-api",
-                "stars": 1351,
+                "stars": 1350,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -209,7 +209,7 @@
                 "open_issues": 14,
                 "owner": "covid19india",
                 "repo": "api",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "actions",
                   "covid",
@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "marlon360",
                 "repo": "rki-covid-api",
-                "stars": 244,
+                "stars": 245,
                 "topics": [
                   "api",
                   "corona",
@@ -1179,7 +1179,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28893,
+                "stars": 28892,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1341,7 +1341,7 @@
                 "open_issues": 7,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Data",
-                "stars": 2173,
+                "stars": 2172,
                 "topics": [
                   "2019-ncov",
                   "data-warehouse"
@@ -1430,7 +1430,7 @@
                 "open_issues": 10,
                 "owner": "pomber",
                 "repo": "covid19",
-                "stars": 1216,
+                "stars": 1217,
                 "topics": [
                   "2019-ncov",
                   "api",
@@ -1813,7 +1813,7 @@
                 "open_issues": 2,
                 "owner": "colaboradados",
                 "repo": "colaboradados.github.io",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "hacktoberfest",
                   "hacktoberfest2022",
@@ -2810,7 +2810,7 @@
                 "open_issues": 44,
                 "owner": "neherlab",
                 "repo": "covid19_scenarios",
-                "stars": 1353,
+                "stars": 1352,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -2970,8 +2970,8 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T11:35:24Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-06T06:07:02Z",
+                "open_issues": 28,
                 "owner": "starsimhub",
                 "repo": "covasim",
                 "stars": 290,
@@ -4947,7 +4947,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28893,
+                "stars": 28892,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28893,
+                "stars": 28892,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5815,7 +5815,7 @@
                 "open_issues": 3,
                 "owner": "OSSPhilippines",
                 "repo": "covid19-tracker-cli",
-                "stars": 276,
+                "stars": 277,
                 "topics": [
                   "cli",
                   "cmd",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T11:51:19.864Z",
+    "last_updated": "2026-10-06T10:57:12.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

@@ -818,7 +818,7 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T08:40:53Z",
+                "last_commit": "2026-10-08T04:33:32Z",
                 "open_issues": 0,
                 "owner": "ffflorian",
                 "repo": "api-clients",
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5658,
+                "stars": 5657,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -1401,7 +1401,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T16:22:35Z",
-                "open_issues": 88,
+                "open_issues": 89,
                 "owner": "nextstrain",
                 "repo": "ncov",
                 "stars": 1362,
@@ -2974,7 +2974,7 @@
                 "open_issues": 28,
                 "owner": "starsimhub",
                 "repo": "covasim",
-                "stars": 290,
+                "stars": 291,
                 "topics": [
                   "abm",
                   "agent-based",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:21:34.751Z",
+    "last_updated": "2026-10-08T11:37:33.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

@@ -91,7 +91,7 @@
                 "open_issues": 9,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Crawler",
-                "stars": 1970,
+                "stars": 1969,
                 "topics": [
                   "2019-ncov",
                   "crawler",
@@ -818,8 +818,8 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T04:33:32Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-10T09:56:28Z",
+                "open_issues": 2,
                 "owner": "ffflorian",
                 "repo": "api-clients",
                 "stars": 23,
@@ -1179,7 +1179,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28888,
+                "stars": 28886,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6966,
+                "stars": 6967,
                 "topics": [
                   "covid-19"
                 ]
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5657,
+                "stars": 5658,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -1400,8 +1400,8 @@
                 "id": 234936988,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:22:35Z",
-                "open_issues": 90,
+                "last_commit": "2026-10-09T13:53:14Z",
+                "open_issues": 91,
                 "owner": "nextstrain",
                 "repo": "ncov",
                 "stars": 1362,
@@ -1701,7 +1701,7 @@
                 "open_issues": 25,
                 "owner": "OssamaRafique",
                 "repo": "Covid-19-Statistics-Dashboard-Angular-9",
-                "stars": 274,
+                "stars": 273,
                 "topics": [
                   "amcharts",
                   "angular",
@@ -2810,7 +2810,7 @@
                 "open_issues": 44,
                 "owner": "neherlab",
                 "repo": "covid19_scenarios",
-                "stars": 1352,
+                "stars": 1353,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28888,
+                "stars": 28886,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28888,
+                "stars": 28886,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6157,7 +6157,7 @@
                 "open_issues": 16,
                 "owner": "makers-for-life",
                 "repo": "makair",
-                "stars": 844,
+                "stars": 845,
                 "topics": [
                   "ards",
                   "cad",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:31:16.120Z",
+    "last_updated": "2026-10-10T10:48:59.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

@@ -209,7 +209,7 @@
                 "open_issues": 14,
                 "owner": "covid19india",
                 "repo": "api",
-                "stars": 698,
+                "stars": 697,
                 "topics": [
                   "actions",
                   "covid",
@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6797,
+                "stars": 6796,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -1287,7 +1287,7 @@
                 "open_issues": 184,
                 "owner": "pcm-dpc",
                 "repo": "COVID-19",
-                "stars": 3784,
+                "stars": 3782,
                 "topics": [
                   "covid-19",
                   "dpc",
@@ -3566,7 +3566,7 @@
                 "open_issues": 52,
                 "owner": "etalab",
                 "repo": "covid19-dashboard",
-                "stars": 158,
+                "stars": 157,
                 "topics": [
                   "coronavirus",
                   "covid-19",
@@ -4248,7 +4248,7 @@
                 "open_issues": 1,
                 "owner": "the-robot",
                 "repo": "covid19-updates",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "coronavirus",
                   "coronavirus-globaloutbreak",
@@ -5752,7 +5752,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-14T02:29:48Z",
-                "open_issues": 38,
+                "open_issues": 36,
                 "owner": "ahmadawais",
                 "repo": "corona-cli",
                 "stars": 1835,
@@ -5785,7 +5785,7 @@
                 "open_issues": 43,
                 "owner": "sagarkarira",
                 "repo": "coronavirus-tracker-cli",
-                "stars": 936,
+                "stars": 937,
                 "topics": [
                   "cli",
                   "corona",
@@ -6157,7 +6157,7 @@
                 "open_issues": 16,
                 "owner": "makers-for-life",
                 "repo": "makair",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "ards",
                   "cad",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T12:27:37.809Z",
+    "last_updated": "2026-10-13T12:11:44.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

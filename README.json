@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "api",
                   "cdc",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "api",
                   "cdc",
@@ -116,7 +116,7 @@
                 "open_issues": 34,
                 "owner": "ExpDev07",
                 "repo": "coronavirus-tracker-api",
-                "stars": 1568,
+                "stars": 1569,
                 "topics": [
                   "api",
                   "coronavirus",
@@ -157,7 +157,7 @@
                 "open_issues": 71,
                 "owner": "mathdroid",
                 "repo": "covid-19-api",
-                "stars": 1348,
+                "stars": 1349,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -1179,7 +1179,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28884,
+                "stars": 28882,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6968,
+                "stars": 6969,
                 "topics": [
                   "covid-19"
                 ]
@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6796,
+                "stars": 6797,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5659,
+                "stars": 5660,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -1287,7 +1287,7 @@
                 "open_issues": 184,
                 "owner": "pcm-dpc",
                 "repo": "COVID-19",
-                "stars": 3782,
+                "stars": 3783,
                 "topics": [
                   "covid-19",
                   "dpc",
@@ -1313,7 +1313,7 @@
                 "open_issues": 41,
                 "owner": "ieee8023",
                 "repo": "covid-chestxray-dataset",
-                "stars": 3059,
+                "stars": 3060,
                 "topics": [
                   "computed-tomography",
                   "computer-vision",
@@ -1341,7 +1341,7 @@
                 "open_issues": 7,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Data",
-                "stars": 2171,
+                "stars": 2172,
                 "topics": [
                   "2019-ncov",
                   "data-warehouse"
@@ -1404,7 +1404,7 @@
                 "open_issues": 91,
                 "owner": "nextstrain",
                 "repo": "ncov",
-                "stars": 1362,
+                "stars": 1363,
                 "topics": [
                   "ncov",
                   "nextstrain",
@@ -1430,7 +1430,7 @@
                 "open_issues": 10,
                 "owner": "pomber",
                 "repo": "covid19",
-                "stars": 1217,
+                "stars": 1218,
                 "topics": [
                   "2019-ncov",
                   "api",
@@ -1460,7 +1460,7 @@
                 "open_issues": 34,
                 "owner": "datasets",
                 "repo": "covid-19",
-                "stars": 1165,
+                "stars": 1166,
                 "topics": [
                   "coronavirus",
                   "coronavirus-disease",
@@ -1490,7 +1490,7 @@
                 "open_issues": 12,
                 "owner": "FoldingAtHome",
                 "repo": "coronavirus",
-                "stars": 1079,
+                "stars": 1080,
                 "topics": [
                   "covid-19",
                   "folding-at-home",
@@ -1517,7 +1517,7 @@
                 "open_issues": 0,
                 "owner": "globalcitizen",
                 "repo": "2019-wuhan-coronavirus-data",
-                "stars": 616,
+                "stars": 617,
                 "topics": [
                   "2019-ncov",
                   "2019ncov",
@@ -1602,7 +1602,7 @@
                 "open_issues": 0,
                 "owner": "openZH",
                 "repo": "covid_19",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -2810,7 +2810,7 @@
                 "open_issues": 44,
                 "owner": "neherlab",
                 "repo": "covid19_scenarios",
-                "stars": 1353,
+                "stars": 1354,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -2850,7 +2850,7 @@
                 "open_issues": 45,
                 "owner": "lindawangg",
                 "repo": "COVID-Net",
-                "stars": 1170,
+                "stars": 1171,
                 "topics": [
                   "chest-radiography",
                   "coronavirus",
@@ -2880,7 +2880,7 @@
                 "open_issues": 19,
                 "owner": "ImperialCollegeLondon",
                 "repo": "covid19model",
-                "stars": 939,
+                "stars": 940,
                 "topics": [
                   "bayesian-statistics",
                   "branching-process",
@@ -2911,7 +2911,7 @@
                 "open_issues": 5,
                 "owner": "midas-network",
                 "repo": "COVID-19",
-                "stars": 626,
+                "stars": 627,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -3007,7 +3007,7 @@
                 "open_issues": 24,
                 "owner": "uphs-data-science",
                 "repo": "chime",
-                "stars": 135,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -3506,7 +3506,7 @@
                 "open_issues": 51,
                 "owner": "stevenliuyi",
                 "repo": "covid19",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "coronavirus",
                   "covid-19",
@@ -3535,7 +3535,7 @@
                 "open_issues": 38,
                 "owner": "Bustbyte",
                 "repo": "coronastatus",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "corona",
                   "coronavirus",
@@ -3659,7 +3659,7 @@
                 "open_issues": 15,
                 "owner": "konradkalemba",
                 "repo": "korona.ws",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "coronavirus",
                   "map",
@@ -3872,7 +3872,7 @@
                 "open_issues": 150,
                 "owner": "WorldHealthOrganization",
                 "repo": "app",
-                "stars": 2116,
+                "stars": 2117,
                 "topics": [
                   "appengine-java",
                   "coronavirus",
@@ -3901,7 +3901,7 @@
                 "open_issues": 24,
                 "owner": "mhdhejazi",
                 "repo": "CoronaTracker",
-                "stars": 1541,
+                "stars": 1542,
                 "topics": [
                   "coronavirus",
                   "coronavirus-tracker",
@@ -3955,7 +3955,7 @@
                 "open_issues": 49,
                 "owner": "phildini",
                 "repo": "stayinghomeclub",
-                "stars": 486,
+                "stars": 487,
                 "topics": [
                   "covid-19",
                   "covid19",
@@ -4095,7 +4095,7 @@
                 "open_issues": 44,
                 "owner": "dsfsi",
                 "repo": "covid19za",
-                "stars": 257,
+                "stars": 258,
                 "topics": [
                   "coronavirus",
                   "covid-19",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28884,
+                "stars": 28882,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5420,7 +5420,7 @@
                 "open_issues": 34,
                 "owner": "datasets",
                 "repo": "covid-19",
-                "stars": 1165,
+                "stars": 1166,
                 "topics": [
                   "coronavirus",
                   "coronavirus-disease",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1953,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28884,
+                "stars": 28882,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5755,7 +5755,7 @@
                 "open_issues": 36,
                 "owner": "ahmadawais",
                 "repo": "corona-cli",
-                "stars": 1835,
+                "stars": 1836,
                 "topics": [
                   "corona",
                   "coronavirus",
@@ -6136,7 +6136,7 @@
                 "open_issues": 85,
                 "owner": "jcl5m1",
                 "repo": "ventilator",
-                "stars": 1664,
+                "stars": 1665,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:11:44.918Z",
+    "last_updated": "2026-10-14T09:44:39.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",
@@ -6452,7 +6452,7 @@
       "open_issues": 1,
       "owner": "soroushchehresa",
       "repo": "awesome-coronavirus",
-      "stars": 1572,
+      "stars": 1573,
       "topics": [
         "2019-ncov",
         "2019ncov",

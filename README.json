@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "api",
                   "cdc",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "api",
                   "cdc",
@@ -209,7 +209,7 @@
                 "open_issues": 14,
                 "owner": "covid19india",
                 "repo": "api",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "actions",
                   "covid",
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5660,
+                "stars": 5659,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -1287,7 +1287,7 @@
                 "open_issues": 184,
                 "owner": "pcm-dpc",
                 "repo": "COVID-19",
-                "stars": 3783,
+                "stars": 3782,
                 "topics": [
                   "covid-19",
                   "dpc",
@@ -1400,8 +1400,8 @@
                 "id": 234936988,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T13:53:14Z",
-                "open_issues": 90,
+                "last_commit": "2026-10-16T18:55:11Z",
+                "open_issues": 89,
                 "owner": "nextstrain",
                 "repo": "ncov",
                 "stars": 1363,
@@ -2040,8 +2040,8 @@
                 "id": 249267381,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T22:06:45Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-16T14:55:50Z",
+                "open_issues": 19,
                 "owner": "seandavi",
                 "repo": "sars2pack",
                 "stars": 61,
@@ -2970,7 +2970,7 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T16:09:27Z",
+                "last_commit": "2026-10-16T16:15:40Z",
                 "open_issues": 28,
                 "owner": "starsimhub",
                 "repo": "covasim",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:18:13.199Z",
+    "last_updated": "2026-10-17T08:49:30.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

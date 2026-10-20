@@ -91,7 +91,7 @@
                 "open_issues": 9,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Crawler",
-                "stars": 1968,
+                "stars": 1969,
                 "topics": [
                   "2019-ncov",
                   "crawler",
@@ -1176,7 +1176,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-10T18:39:00Z",
-                "open_issues": 1953,
+                "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
                 "stars": 28880,
@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6797,
+                "stars": 6796,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5659,
+                "stars": 5658,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -1313,7 +1313,7 @@
                 "open_issues": 41,
                 "owner": "ieee8023",
                 "repo": "covid-chestxray-dataset",
-                "stars": 3060,
+                "stars": 3061,
                 "topics": [
                   "computed-tomography",
                   "computer-vision",
@@ -3131,7 +3131,7 @@
                 "id": 292537693,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T23:06:58Z",
+                "last_commit": "2026-10-19T23:11:31Z",
                 "open_issues": 5,
                 "owner": "healthbadge",
                 "repo": "episimmer",
@@ -4944,7 +4944,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-10T18:39:00Z",
-                "open_issues": 1953,
+                "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
                 "stars": 28880,
@@ -5623,7 +5623,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-10T18:39:00Z",
-                "open_issues": 1953,
+                "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
                 "stars": 28880,
@@ -6157,7 +6157,7 @@
                 "open_issues": 16,
                 "owner": "makers-for-life",
                 "repo": "makair",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "ards",
                   "cad",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T10:18:33.884Z",
+    "last_updated": "2026-10-20T09:38:37.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

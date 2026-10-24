@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "api",
                   "cdc",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "api",
                   "cdc",
@@ -2970,8 +2970,8 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T16:15:40Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-23T23:51:29Z",
+                "open_issues": 29,
                 "owner": "starsimhub",
                 "repo": "covasim",
                 "stars": 291,
@@ -5785,7 +5785,7 @@
                 "open_issues": 43,
                 "owner": "sagarkarira",
                 "repo": "coronavirus-tracker-cli",
-                "stars": 937,
+                "stars": 938,
                 "topics": [
                   "cli",
                   "corona",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:36:11.903Z",
+    "last_updated": "2026-10-24T09:08:17.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

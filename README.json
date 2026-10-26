@@ -1313,7 +1313,7 @@
                 "open_issues": 41,
                 "owner": "ieee8023",
                 "repo": "covid-chestxray-dataset",
-                "stars": 3061,
+                "stars": 3062,
                 "topics": [
                   "computed-tomography",
                   "computer-vision",
@@ -1401,7 +1401,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-16T18:55:11Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "nextstrain",
                 "repo": "ncov",
                 "stars": 1364,
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:25:43.557Z",
+    "last_updated": "2026-10-26T10:32:15.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

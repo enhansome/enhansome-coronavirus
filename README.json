@@ -1313,7 +1313,7 @@
                 "open_issues": 41,
                 "owner": "ieee8023",
                 "repo": "covid-chestxray-dataset",
-                "stars": 3062,
+                "stars": 3063,
                 "topics": [
                   "computed-tomography",
                   "computer-vision",
@@ -1400,7 +1400,7 @@
                 "id": 234936988,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T18:55:11Z",
+                "last_commit": "2026-10-27T08:33:42Z",
                 "open_issues": 90,
                 "owner": "nextstrain",
                 "repo": "ncov",
@@ -2970,7 +2970,7 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T23:51:29Z",
+                "last_commit": "2026-10-27T02:13:56Z",
                 "open_issues": 29,
                 "owner": "starsimhub",
                 "repo": "covasim",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T10:32:15.402Z",
+    "last_updated": "2026-10-27T10:03:30.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",
@@ -6452,7 +6452,7 @@
       "open_issues": 1,
       "owner": "soroushchehresa",
       "repo": "awesome-coronavirus",
-      "stars": 1572,
+      "stars": 1573,
       "topics": [
         "2019-ncov",
         "2019ncov",

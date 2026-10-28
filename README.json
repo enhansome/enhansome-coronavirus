@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2502,
+                "stars": 2501,
                 "topics": [
                   "api",
                   "cdc",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2502,
+                "stars": 2501,
                 "topics": [
                   "api",
                   "cdc",
@@ -1179,7 +1179,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28883,
+                "stars": 28881,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6969,
+                "stars": 6966,
                 "topics": [
                   "covid-19"
                 ]
@@ -1287,7 +1287,7 @@
                 "open_issues": 184,
                 "owner": "pcm-dpc",
                 "repo": "COVID-19",
-                "stars": 3782,
+                "stars": 3781,
                 "topics": [
                   "covid-19",
                   "dpc",
@@ -3506,7 +3506,7 @@
                 "open_issues": 51,
                 "owner": "stevenliuyi",
                 "repo": "covid19",
-                "stars": 319,
+                "stars": 318,
                 "topics": [
                   "coronavirus",
                   "covid-19",
@@ -3955,7 +3955,7 @@
                 "open_issues": 49,
                 "owner": "phildini",
                 "repo": "stayinghomeclub",
-                "stars": 487,
+                "stars": 486,
                 "topics": [
                   "covid-19",
                   "covid19",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28883,
+                "stars": 28881,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28883,
+                "stars": 28881,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5755,7 +5755,7 @@
                 "open_issues": 36,
                 "owner": "ahmadawais",
                 "repo": "corona-cli",
-                "stars": 1836,
+                "stars": 1837,
                 "topics": [
                   "corona",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:03:30.073Z",
+    "last_updated": "2026-10-28T10:50:13.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

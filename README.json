@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2501,
+                "stars": 2503,
                 "topics": [
                   "api",
                   "cdc",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2501,
+                "stars": 2503,
                 "topics": [
                   "api",
                   "cdc",
@@ -91,7 +91,7 @@
                 "open_issues": 9,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Crawler",
-                "stars": 1969,
+                "stars": 1968,
                 "topics": [
                   "2019-ncov",
                   "crawler",
@@ -818,7 +818,7 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T08:25:56Z",
+                "last_commit": "2026-10-29T10:39:02Z",
                 "open_issues": 0,
                 "owner": "ffflorian",
                 "repo": "api-clients",
@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6796,
+                "stars": 6795,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5660,
+                "stars": 5659,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -3872,7 +3872,7 @@
                 "open_issues": 150,
                 "owner": "WorldHealthOrganization",
                 "repo": "app",
-                "stars": 2116,
+                "stars": 2115,
                 "topics": [
                   "appengine-java",
                   "coronavirus",
@@ -5289,7 +5289,7 @@
                 "open_issues": 1,
                 "owner": "Spiderpig86",
                 "repo": "to-go",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "austin",
                   "cirrus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:50:13.537Z",
+    "last_updated": "2026-10-29T11:06:53.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2503,
+                "stars": 2504,
                 "topics": [
                   "api",
                   "cdc",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2503,
+                "stars": 2504,
                 "topics": [
                   "api",
                   "cdc",
@@ -91,7 +91,7 @@
                 "open_issues": 9,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Crawler",
-                "stars": 1968,
+                "stars": 1969,
                 "topics": [
                   "2019-ncov",
                   "crawler",
@@ -1176,7 +1176,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-10T18:39:00Z",
-                "open_issues": 1952,
+                "open_issues": 1951,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
                 "stars": 28881,
@@ -1313,7 +1313,7 @@
                 "open_issues": 41,
                 "owner": "ieee8023",
                 "repo": "covid-chestxray-dataset",
-                "stars": 3063,
+                "stars": 3064,
                 "topics": [
                   "computed-tomography",
                   "computer-vision",
@@ -1341,7 +1341,7 @@
                 "open_issues": 7,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Data",
-                "stars": 2172,
+                "stars": 2173,
                 "topics": [
                   "2019-ncov",
                   "data-warehouse"
@@ -2880,7 +2880,7 @@
                 "open_issues": 19,
                 "owner": "ImperialCollegeLondon",
                 "repo": "covid19model",
-                "stars": 940,
+                "stars": 941,
                 "topics": [
                   "bayesian-statistics",
                   "branching-process",
@@ -2970,8 +2970,8 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T20:34:32Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-30T23:46:31Z",
+                "open_issues": 31,
                 "owner": "starsimhub",
                 "repo": "covasim",
                 "stars": 291,
@@ -4095,7 +4095,7 @@
                 "open_issues": 44,
                 "owner": "dsfsi",
                 "repo": "covid19za",
-                "stars": 258,
+                "stars": 259,
                 "topics": [
                   "coronavirus",
                   "covid-19",
@@ -4944,7 +4944,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-10T18:39:00Z",
-                "open_issues": 1952,
+                "open_issues": 1951,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
                 "stars": 28881,
@@ -5623,7 +5623,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-10T18:39:00Z",
-                "open_issues": 1952,
+                "open_issues": 1951,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
                 "stars": 28881,
@@ -5755,7 +5755,7 @@
                 "open_issues": 36,
                 "owner": "ahmadawais",
                 "repo": "corona-cli",
-                "stars": 1837,
+                "stars": 1838,
                 "topics": [
                   "corona",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:02:16.925Z",
+    "last_updated": "2026-10-31T10:36:59.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

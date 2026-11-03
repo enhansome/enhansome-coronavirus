@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5660,
+                "stars": 5659,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -2442,7 +2442,7 @@
                 "open_issues": 0,
                 "owner": "cjvanlissa",
                 "repo": "COVID19_metadata",
-                "stars": 20,
+                "stars": 19,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -2850,7 +2850,7 @@
                 "open_issues": 45,
                 "owner": "lindawangg",
                 "repo": "COVID-Net",
-                "stars": 1172,
+                "stars": 1171,
                 "topics": [
                   "chest-radiography",
                   "coronavirus",
@@ -3131,7 +3131,7 @@
                 "id": 292537693,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T23:11:31Z",
+                "last_commit": "2026-11-02T23:55:32Z",
                 "open_issues": 5,
                 "owner": "healthbadge",
                 "repo": "episimmer",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T12:53:17.127Z",
+    "last_updated": "2026-11-03T12:23:00.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

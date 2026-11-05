@@ -818,7 +818,7 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T10:39:02Z",
+                "last_commit": "2026-11-05T08:23:28Z",
                 "open_issues": 0,
                 "owner": "ffflorian",
                 "repo": "api-clients",
@@ -1179,7 +1179,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28878,
+                "stars": 28876,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5658,
+                "stars": 5657,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -1287,7 +1287,7 @@
                 "open_issues": 184,
                 "owner": "pcm-dpc",
                 "repo": "COVID-19",
-                "stars": 3781,
+                "stars": 3780,
                 "topics": [
                   "covid-19",
                   "dpc",
@@ -2970,7 +2970,7 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T22:42:08Z",
+                "last_commit": "2026-11-05T00:00:23Z",
                 "open_issues": 31,
                 "owner": "starsimhub",
                 "repo": "covasim",
@@ -3872,7 +3872,7 @@
                 "open_issues": 150,
                 "owner": "WorldHealthOrganization",
                 "repo": "app",
-                "stars": 2115,
+                "stars": 2114,
                 "topics": [
                   "appengine-java",
                   "coronavirus",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28878,
+                "stars": 28876,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28878,
+                "stars": 28876,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:34:04.328Z",
+    "last_updated": "2026-11-05T12:45:30.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6795,
+                "stars": 6794,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -2970,7 +2970,7 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T00:00:23Z",
+                "last_commit": "2026-11-07T04:52:53Z",
                 "open_issues": 31,
                 "owner": "starsimhub",
                 "repo": "covasim",
@@ -3591,7 +3591,7 @@
                 "open_issues": 18,
                 "owner": "jakobzhao",
                 "repo": "virus",
-                "stars": 163,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -4977,7 +4977,7 @@
                 "open_issues": 0,
                 "owner": "bluebillxp",
                 "repo": "android-covid19-reportviewer",
-                "stars": 7,
+                "stars": 6,
                 "topics": [
                   "android",
                   "android-app",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:29:12.442Z",
+    "last_updated": "2026-11-07T11:20:36.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

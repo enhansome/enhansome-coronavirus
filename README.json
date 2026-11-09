@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6966,
+                "stars": 6965,
                 "topics": [
                   "covid-19"
                 ]
@@ -1287,7 +1287,7 @@
                 "open_issues": 184,
                 "owner": "pcm-dpc",
                 "repo": "COVID-19",
-                "stars": 3780,
+                "stars": 3781,
                 "topics": [
                   "covid-19",
                   "dpc",
@@ -6136,7 +6136,7 @@
                 "open_issues": 85,
                 "owner": "jcl5m1",
                 "repo": "ventilator",
-                "stars": 1666,
+                "stars": 1665,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -6157,7 +6157,7 @@
                 "open_issues": 16,
                 "owner": "makers-for-life",
                 "repo": "makair",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "ards",
                   "cad",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:32:10.324Z",
+    "last_updated": "2026-11-09T13:23:45.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

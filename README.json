@@ -157,7 +157,7 @@
                 "open_issues": 71,
                 "owner": "mathdroid",
                 "repo": "covid-19-api",
-                "stars": 1348,
+                "stars": 1347,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -818,7 +818,7 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T09:49:44Z",
+                "last_commit": "2026-11-12T09:42:00Z",
                 "open_issues": 0,
                 "owner": "ffflorian",
                 "repo": "api-clients",
@@ -1179,7 +1179,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28871,
+                "stars": 28869,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6966,
+                "stars": 6967,
                 "topics": [
                   "covid-19"
                 ]
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5657,
+                "stars": 5658,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -1400,8 +1400,8 @@
                 "id": 234936988,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T08:33:42Z",
-                "open_issues": 90,
+                "last_commit": "2026-11-11T12:39:07Z",
+                "open_issues": 91,
                 "owner": "nextstrain",
                 "repo": "ncov",
                 "stars": 1364,
@@ -1430,7 +1430,7 @@
                 "open_issues": 10,
                 "owner": "pomber",
                 "repo": "covid19",
-                "stars": 1219,
+                "stars": 1218,
                 "topics": [
                   "2019-ncov",
                   "api",
@@ -2970,7 +2970,7 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T18:18:56Z",
+                "last_commit": "2026-11-11T20:36:54Z",
                 "open_issues": 31,
                 "owner": "starsimhub",
                 "repo": "covasim",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28871,
+                "stars": 28869,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28871,
+                "stars": 28869,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:11:25.859Z",
+    "last_updated": "2026-11-12T13:17:35.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

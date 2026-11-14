@@ -1179,7 +1179,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28870,
+                "stars": 28867,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1365,7 +1365,7 @@
                 "open_issues": 3457,
                 "owner": "github",
                 "repo": "covid19-dashboard",
-                "stars": 1624,
+                "stars": 1623,
                 "topics": [
                   "altair",
                   "analytics",
@@ -1404,7 +1404,7 @@
                 "open_issues": 91,
                 "owner": "nextstrain",
                 "repo": "ncov",
-                "stars": 1364,
+                "stars": 1365,
                 "topics": [
                   "ncov",
                   "nextstrain",
@@ -1650,7 +1650,7 @@
                 "open_issues": 8,
                 "owner": "covidatlas",
                 "repo": "coronadatascraper",
-                "stars": 364,
+                "stars": 363,
                 "topics": [
                   "coronavirus",
                   "covid-19",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28870,
+                "stars": 28867,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28870,
+                "stars": 28867,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:38:36.436Z",
+    "last_updated": "2026-11-14T11:46:09.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

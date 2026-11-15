@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2504,
+                "stars": 2505,
                 "topics": [
                   "api",
                   "cdc",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "disease-sh",
                 "repo": "API",
-                "stars": 2504,
+                "stars": 2505,
                 "topics": [
                   "api",
                   "cdc",
@@ -209,7 +209,7 @@
                 "open_issues": 14,
                 "owner": "covid19india",
                 "repo": "api",
-                "stars": 701,
+                "stars": 702,
                 "topics": [
                   "actions",
                   "covid",
@@ -259,7 +259,7 @@
                 "open_issues": 2,
                 "owner": "M-Media-Group",
                 "repo": "Covid-19-API",
-                "stars": 389,
+                "stars": 390,
                 "topics": [
                   "api",
                   "aws",
@@ -818,7 +818,7 @@
                 "id": 174534981,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-12T09:42:00Z",
+                "last_commit": "2026-11-14T14:52:06Z",
                 "open_issues": 0,
                 "owner": "ffflorian",
                 "repo": "api-clients",
@@ -1623,7 +1623,7 @@
                 "open_issues": 28,
                 "owner": "GuangchuangYu",
                 "repo": "nCov2019",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "2019-ncov",
                   "2019-ncov-data-vis",
@@ -1650,7 +1650,7 @@
                 "open_issues": 8,
                 "owner": "covidatlas",
                 "repo": "coronadatascraper",
-                "stars": 363,
+                "stars": 364,
                 "topics": [
                   "coronavirus",
                   "covid-19",
@@ -2810,7 +2810,7 @@
                 "open_issues": 45,
                 "owner": "neherlab",
                 "repo": "covid19_scenarios",
-                "stars": 1355,
+                "stars": 1356,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -3506,7 +3506,7 @@
                 "open_issues": 51,
                 "owner": "stevenliuyi",
                 "repo": "covid19",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "coronavirus",
                   "covid-19",
@@ -3872,7 +3872,7 @@
                 "open_issues": 150,
                 "owner": "WorldHealthOrganization",
                 "repo": "app",
-                "stars": 2114,
+                "stars": 2113,
                 "topics": [
                   "appengine-java",
                   "coronavirus",
@@ -6136,7 +6136,7 @@
                 "open_issues": 85,
                 "owner": "jcl5m1",
                 "repo": "ventilator",
-                "stars": 1665,
+                "stars": 1666,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -6157,7 +6157,7 @@
                 "open_issues": 16,
                 "owner": "makers-for-life",
                 "repo": "makair",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "ards",
                   "cad",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:46:09.340Z",
+    "last_updated": "2026-11-15T12:17:20.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

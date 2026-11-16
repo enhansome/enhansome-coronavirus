@@ -178,7 +178,7 @@
                 "open_issues": 57,
                 "owner": "OxCGRT",
                 "repo": "covid-policy-tracker",
-                "stars": 777,
+                "stars": 778,
                 "topics": [
                   "2019-ncov",
                   "blavatnik-school",
@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6968,
+                "stars": 6966,
                 "topics": [
                   "covid-19"
                 ]
@@ -1977,7 +1977,7 @@
                 "open_issues": 3,
                 "owner": "v7labs",
                 "repo": "covid-19-xray-dataset",
-                "stars": 86,
+                "stars": 85,
                 "topics": [
                   "chest-x-ray",
                   "computer-vision",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:17:20.560Z",
+    "last_updated": "2026-11-16T13:09:53.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

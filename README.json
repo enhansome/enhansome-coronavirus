@@ -296,7 +296,7 @@
                 "open_issues": 0,
                 "owner": "amodm",
                 "repo": "api-covid19-in",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "cloudflare",
                   "coronavirus-api",
@@ -1179,7 +1179,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28867,
+                "stars": 28866,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1261,7 +1261,7 @@
                 "open_issues": 10,
                 "owner": "owid",
                 "repo": "covid-19-data",
-                "stars": 5657,
+                "stars": 5656,
                 "topics": [
                   "coronavirus",
                   "covid",
@@ -2880,7 +2880,7 @@
                 "open_issues": 19,
                 "owner": "ImperialCollegeLondon",
                 "repo": "covid19model",
-                "stars": 941,
+                "stars": 942,
                 "topics": [
                   "bayesian-statistics",
                   "branching-process",
@@ -2970,7 +2970,7 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-13T02:58:43Z",
+                "last_commit": "2026-11-16T20:55:14Z",
                 "open_issues": 31,
                 "owner": "starsimhub",
                 "repo": "covasim",
@@ -3131,7 +3131,7 @@
                 "id": 292537693,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T23:55:32Z",
+                "last_commit": "2026-11-16T22:40:30Z",
                 "open_issues": 5,
                 "owner": "healthbadge",
                 "repo": "episimmer",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28867,
+                "stars": 28866,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28867,
+                "stars": 28866,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5785,7 +5785,7 @@
                 "open_issues": 43,
                 "owner": "sagarkarira",
                 "repo": "coronavirus-tracker-cli",
-                "stars": 937,
+                "stars": 938,
                 "topics": [
                   "cli",
                   "corona",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:09:53.951Z",
+    "last_updated": "2026-11-17T13:52:18.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

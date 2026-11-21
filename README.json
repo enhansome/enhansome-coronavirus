@@ -1179,7 +1179,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28863,
+                "stars": 28864,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6965,
+                "stars": 6966,
                 "topics": [
                   "covid-19"
                 ]
@@ -1287,7 +1287,7 @@
                 "open_issues": 184,
                 "owner": "pcm-dpc",
                 "repo": "COVID-19",
-                "stars": 3781,
+                "stars": 3782,
                 "topics": [
                   "covid-19",
                   "dpc",
@@ -1341,7 +1341,7 @@
                 "open_issues": 7,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Data",
-                "stars": 2173,
+                "stars": 2172,
                 "topics": [
                   "2019-ncov",
                   "data-warehouse"
@@ -3506,7 +3506,7 @@
                 "open_issues": 51,
                 "owner": "stevenliuyi",
                 "repo": "covid19",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "coronavirus",
                   "covid-19",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28863,
+                "stars": 28864,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28863,
+                "stars": 28864,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T13:37:27.597Z",
+    "last_updated": "2026-11-21T13:01:47.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

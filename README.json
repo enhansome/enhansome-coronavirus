@@ -1179,7 +1179,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28864,
+                "stars": 28863,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1554,7 +1554,7 @@
                 "open_issues": 83,
                 "owner": "turicas",
                 "repo": "covid19-br",
-                "stars": 532,
+                "stars": 531,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -2970,7 +2970,7 @@
                 "id": 248833306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T04:53:27Z",
+                "last_commit": "2026-11-21T19:36:50Z",
                 "open_issues": 31,
                 "owner": "starsimhub",
                 "repo": "covasim",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28864,
+                "stars": 28863,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28864,
+                "stars": 28863,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:01:47.691Z",
+    "last_updated": "2026-11-22T12:52:39.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

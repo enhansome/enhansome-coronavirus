@@ -209,7 +209,7 @@
                 "open_issues": 14,
                 "owner": "covid19india",
                 "repo": "api",
-                "stars": 701,
+                "stars": 702,
                 "topics": [
                   "actions",
                   "covid",
@@ -1179,7 +1179,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28863,
+                "stars": 28861,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1232,7 +1232,7 @@
                 "open_issues": 43,
                 "owner": "covid19india",
                 "repo": "covid19india.github.io",
-                "stars": 6796,
+                "stars": 6797,
                 "topics": [
                   "analytics",
                   "coronavirus",
@@ -1457,7 +1457,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-03-24T23:16:50Z",
-                "open_issues": 35,
+                "open_issues": 34,
                 "owner": "datasets",
                 "repo": "covid-19",
                 "stars": 1167,
@@ -1490,7 +1490,7 @@
                 "open_issues": 12,
                 "owner": "FoldingAtHome",
                 "repo": "coronavirus",
-                "stars": 1081,
+                "stars": 1080,
                 "topics": [
                   "covid-19",
                   "folding-at-home",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28863,
+                "stars": 28861,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5417,7 +5417,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-03-24T23:16:50Z",
-                "open_issues": 35,
+                "open_issues": 34,
                 "owner": "datasets",
                 "repo": "covid-19",
                 "stars": 1167,
@@ -5626,7 +5626,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28863,
+                "stars": 28861,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5755,7 +5755,7 @@
                 "open_issues": 36,
                 "owner": "ahmadawais",
                 "repo": "corona-cli",
-                "stars": 1835,
+                "stars": 1833,
                 "topics": [
                   "corona",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T12:52:39.824Z",
+    "last_updated": "2026-11-23T15:23:59.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

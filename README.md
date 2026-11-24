@@ -222,7 +222,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | 165 | [@etalab](https://github.com/etalab)/[**covid19-dashboard**](https://github.com/etalab/covid19-dashboard) ⭐ 157 \| 🐛 51 \| 🌐 JavaScript \| 📅 2026-11-18                | Tableau de bord officiel de suivi de l'épidémie de COVID-19                                                                               |
 | 156 | [@jakobzhao](https://github.com/jakobzhao)/[**virus**](https://github.com/jakobzhao/virus) ⭐ 164 \| 🐛 18 \| 🌐 HTML \| 📅 2021-06-28                                     | Noval Coronavirus Infection Map                                                                                                           |
 | 150 | [@ncovis](https://github.com/ncovis)/[**choropleth**](https://github.com/ncovis/choropleth) ⭐ 145 \| 🐛 5 \| 🌐 JavaScript \| 📅 2021-11-19                               | Choropleth Map of the 2019 Novel Coronavirus Outbreak.                                                                                    |
-|  87 | [@reach4help](https://github.com/reach4help)/[**reach4help**](https://github.com/reach4help/reach4help) ⭐ 91 \| 🐛 109 \| 🌐 TypeScript \| 📅 2026-05-30                  | We are Reach4Help: a tech nonprofit connecting people in need with volunteer help in 38+ countries across Canada, the US, Europe and Asia |
+|  87 | [@reach4help](https://github.com/reach4help)/[**reach4help**](https://github.com/reach4help/reach4help) ⭐ 91 \| 🐛 108 \| 🌐 TypeScript \| 📅 2026-05-30                  | We are Reach4Help: a tech nonprofit connecting people in need with volunteer help in 38+ countries across Canada, the US, Europe and Asia |
 |  73 | [@konradkalemba](https://github.com/konradkalemba)/[**korona.ws**](https://github.com/konradkalemba/korona.ws) ⭐ 72 \| 🐛 15 \| 🌐 JavaScript \| 📅 2023-03-04            | 🗺 Coronavirus interactive map of Poland                                                                                                  |
 |  47 | [@antonlukin](https://github.com/antonlukin)/[**coronavirus**](https://github.com/antonlukin/coronavirus) ⭐ 47 \| 🐛 0 \| 🌐 HTML \| 📅 2023-01-11                        | Wuhan coronavirus outbreak                                                                                                                |
 |  14 | [@par6n](https://github.com/par6n)/[**ncov-19**](https://github.com/par6n/ncov-19) ⚠️ Archived                                                                            | A simple page featuring an interactive map presenting nCoV-19 spread in Iran                                                              |
@@ -489,7 +489,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 | Link                                                                                                   | Description                                                                                                                                                                                 |
 | :----------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [450-free-courses](https://github.com/soroushchehresa/450-free-courses) ⭐ 193 \| 🐛 0 \| 📅 2020-03-17 | Here are 450 Ivy League courses you can take online right now for free.                                                                                                                     |
+| [450-free-courses](https://github.com/soroushchehresa/450-free-courses) ⭐ 194 \| 🐛 0 \| 📅 2020-03-17 | Here are 450 Ivy League courses you can take online right now for free.                                                                                                                     |
 | [Fighting COVID-19 with Epidemiology](https://www.coursera.org/learn/covid19-epidemiology)             | This free Teach-Out is for anyone who has been curious about how we identify and measure outbreaks like the COVID-19 epidemic and wants to understand the epidemiology of these infections. |
 | [RxCovea Journal Club](https://rxcovea.org/journalclub)                                                | RxCovea is a 150 member open Source research group that gives weekly seminars on Covid-19. View the seminars here.                                                                          |
 
@@ -651,4 +651,4 @@ Contributions are welcomed! Read the [contribution guidelines](https://github.co
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

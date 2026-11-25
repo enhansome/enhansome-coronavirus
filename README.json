@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "nytimes",
                 "repo": "covid-19-data",
-                "stars": 6966,
+                "stars": 6968,
                 "topics": [
                   "covid-19"
                 ]
@@ -1287,7 +1287,7 @@
                 "open_issues": 184,
                 "owner": "pcm-dpc",
                 "repo": "COVID-19",
-                "stars": 3782,
+                "stars": 3781,
                 "topics": [
                   "covid-19",
                   "dpc",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T15:18:20.815Z",
+    "last_updated": "2026-11-25T14:58:46.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

@@ -1179,7 +1179,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28860,
+                "stars": 28861,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -1701,7 +1701,7 @@
                 "open_issues": 25,
                 "owner": "OssamaRafique",
                 "repo": "Covid-19-Statistics-Dashboard-Angular-9",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "amcharts",
                   "angular",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28860,
+                "stars": 28861,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -5626,7 +5626,7 @@
                 "open_issues": 1952,
                 "owner": "CSSEGISandData",
                 "repo": "COVID-19",
-                "stars": 28860,
+                "stars": 28861,
                 "topics": [
                   "2019-ncov",
                   "coronavirus",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T14:58:46.858Z",
+    "last_updated": "2026-11-26T14:29:30.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",

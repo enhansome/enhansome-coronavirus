@@ -91,7 +91,7 @@
                 "open_issues": 9,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Crawler",
-                "stars": 1968,
+                "stars": 1967,
                 "topics": [
                   "2019-ncov",
                   "crawler",
@@ -157,7 +157,7 @@
                 "open_issues": 71,
                 "owner": "mathdroid",
                 "repo": "covid-19-api",
-                "stars": 1348,
+                "stars": 1347,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -1341,7 +1341,7 @@
                 "open_issues": 7,
                 "owner": "BlankerL",
                 "repo": "DXY-COVID-19-Data",
-                "stars": 2172,
+                "stars": 2173,
                 "topics": [
                   "2019-ncov",
                   "data-warehouse"
@@ -4227,7 +4227,7 @@
                 "open_issues": 6,
                 "owner": "RamiKrispin",
                 "repo": "coronavirus_dashboard",
-                "stars": 108,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:01.146Z"
@@ -6219,7 +6219,7 @@
                 "open_issues": 0,
                 "owner": "SolaceLabs",
                 "repo": "covid19-stream-processors",
-                "stars": 38,
+                "stars": 37,
                 "topics": [
                   "covid-19",
                   "covid19",
@@ -6440,7 +6440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T14:29:30.977Z",
+    "last_updated": "2026-11-27T14:23:01.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",
